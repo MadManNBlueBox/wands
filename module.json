@@ -63,5 +63,6 @@
 	"compatibleCoreVersion": "0.8.6",
 	"url": "https://github.com/MadManNBlueBox/wands",
 	"manifest": "https://github.com/MadManNBlueBox/wands/releases/download/0.1.0/module.json",
-	"download": "https://github.com/MadManNBlueBox/wands/releases/download/0.1.0/wands.zip"
+	"download": "https://github.com/MadManNBlueBox/wands/releases/download/0.1.0/module.zip"
+	"readme": "https://github.com/MadManNBlueBox/wands/blob/master/README.md"
   }
