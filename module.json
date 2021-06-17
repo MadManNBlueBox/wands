@@ -6,10 +6,52 @@
 
 	"packs": [
 		{
-		  "name": "potions",
-		  "label": "Potions (W&W)",
+		  "name": "casting-styles-and-schools-of-magic-wands",
+		  "label": "Casting Styles and Schools of Magic (WANDS)",
 		  "system": "dnd5e",
-		  "path": "./packs/potions.db",
+		  "path": "./packs/casting-styles-and-schools-of-magic-wands.db",
+		  "entity": "Item"
+		},
+		{
+		  "name": "feats-wands",
+		  "label": "Feats (WANDS)",
+		  "system": "dnd5e",
+		  "path": "./packs/feats-wands.db",
+		  "entity": "Item"
+		},
+		{
+		  "name": "houses-wands",
+		  "label": "Houses (WANDS)",
+		  "system": "dnd5e",
+		  "path": "./packs/houses-wands.db",
+		  "entity": "Item"
+		},
+		{
+		  "name": "items-wands",
+		  "label": "Items (WANDS)",
+		  "system": "dnd5e",
+		  "path": "./packs/items-wands.db",
+		  "entity": "Item"
+		},
+		{
+		  "name": "potions-wands",
+		  "label": "Potions (WANDS)",
+		  "system": "dnd5e",
+		  "path": "./packs/potions-wands.db",
+		  "entity": "Item"
+		},
+		{
+		  "name": "spells-wands",
+		  "label": "Spells (WANDS)",
+		  "system": "dnd5e",
+		  "path": "./packs/spells-wands.db",
+		  "entity": "Item"
+		},
+		{
+		  "name": "subclass-features-wands",
+		  "label": "Subclass Features (WANDS)",
+		  "system": "dnd5e",
+		  "path": "./packs/subclass-features-wands.db",
 		  "entity": "Item"
 		}
 	  ],
@@ -17,9 +59,9 @@
 	"system": "dnd5e",
 	"author": "MadManNBlueBox",
 	"version": "0.1.0",
-	"minimumCoreVersion": "0.6.5",
-	"compatibleCoreVersion": "0.7.9",
-	"url": "https://github.com/MadManNBlueBox/waw-potions",
-	"manifest": "https://github.com/MadManNBlueBox/waw-potions/releases/download/0.1.0/module.json",
-	"download": "https://github.com/MadManNBlueBox/waw-potions/releases/download/0.1.0/waw-potions.zip"
+	"minimumCoreVersion": "0.8.6",
+	"compatibleCoreVersion": "0.8.6",
+	"url": "https://github.com/MadManNBlueBox/wands",
+	"manifest": "https://github.com/MadManNBlueBox/wands/releases/download/0.1.0/module.json",
+	"download": "https://github.com/MadManNBlueBox/wands/releases/download/0.1.0/wands.zip"
   }
