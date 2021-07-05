@@ -34,6 +34,20 @@
 		  "entity": "Item"
 		},
 		{
+		  "name": "magical-pets-wands",
+		  "label": "Magical Pets (WANDS)",
+		  "system": "dnd5e",
+		  "path": "./packs/magical-pets-wands.db",
+		  "entity": "Actor"
+		},
+		{
+		  "name": "monsters-wands",
+		  "label": "Monsters (WANDS)",
+		  "system": "dnd5e",
+		  "path": "./packs/monsters-wands.db",
+		  "entity": "Actor"
+		},
+		{
 		  "name": "potions-wands",
 		  "label": "Potions (WANDS)",
 		  "system": "dnd5e",
@@ -58,11 +72,11 @@
 
 	"system": "dnd5e",
 	"author": "MadManNBlueBox",
-	"version": "0.1.0",
-	"minimumCoreVersion": "0.8.6",
-	"compatibleCoreVersion": "0.8.6",
+	"version": "0.2.0",
+	"minimumCoreVersion": "0.6.5",
+	"compatibleCoreVersion": "0.8.8",
 	"url": "https://github.com/MadManNBlueBox/wands",
-	"manifest": "https://github.com/MadManNBlueBox/wands/releases/download/0.1.0/module.json",
-	"download": "https://github.com/MadManNBlueBox/wands/releases/download/0.1.0/module.zip",
+	"manifest": "https://github.com/MadManNBlueBox/wands/releases/download/0.2.0/module.json",
+	"download": "https://github.com/MadManNBlueBox/wands/releases/download/0.2.0/module.zip",
 	"readme": "https://github.com/MadManNBlueBox/wands/blob/master/README.md"
   }
