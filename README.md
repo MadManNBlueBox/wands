@@ -7,5 +7,5 @@ To install module: In FoundryVTT Configuration and Setup go to the "Add-on Modul
 This is unofficial Fan Content.
 
 Refernce: <br>
-Wands & Wizards: W.A.N.D.S. Rulebook (https://www.gmbinder.com/share/-LsXE64qLDdLgBczM2kA)
+Wands & Wizards: W.A.N.D.S. Rulebook (https://www.gmbinder.com/share/-LsXE64qLDdLgBczM2kA) <br>
 Wands & Wizards: The Monster Book of Monsters (https://www.gmbinder.com/share/-M-L89xL5z3-Lcl8F7T4)
