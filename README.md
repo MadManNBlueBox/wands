@@ -1,4 +1,4 @@
-# wands
+# WANDS FoudryVTT Module
 
 A FoundryVTT module to add all content from the Wands & Wizards WANDS Rulebook.
 
