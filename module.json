@@ -13,6 +13,13 @@
 		  "entity": "Item"
 		},
 		{
+		  "name": "dark-magic-corruption-wands",
+		  "label": "Dark Magic Corruption (WANDS)",
+		  "system": "dnd5e",
+		  "path": "./packs/dark-magic-corruption-wands.db",
+		  "entity": "Item"
+		},
+		{
 		  "name": "feats-wands",
 		  "label": "Feats (WANDS)",
 		  "system": "dnd5e",
@@ -39,6 +46,13 @@
 		  "system": "dnd5e",
 		  "path": "./packs/magical-pets-wands.db",
 		  "entity": "Actor"
+		},
+		{
+		  "name": "metamagic-wands",
+		  "label": "Metamagic (WANDS)",
+		  "system": "dnd5e",
+		  "path": "./packs/metamagic-wands.db",
+	 	  "entity": "Item"
 		},
 		{
 		  "name": "monsters-wands",
@@ -72,11 +86,11 @@
 
 	"system": "dnd5e",
 	"author": "MadManNBlueBox",
-	"version": "0.2.0",
+	"version": "0.3.0",
 	"minimumCoreVersion": "0.6.5",
-	"compatibleCoreVersion": "0.8.8",
+	"compatibleCoreVersion": "0.8.9",
 	"url": "https://github.com/MadManNBlueBox/wands",
-	"manifest": "https://github.com/MadManNBlueBox/wands/releases/download/0.2.0/module.json",
-	"download": "https://github.com/MadManNBlueBox/wands/releases/download/0.2.0/module.zip",
+	"manifest": "https://github.com/MadManNBlueBox/wands/releases/download/0.3.0/module.json",
+	"download": "https://github.com/MadManNBlueBox/wands/releases/download/0.3.0/module.zip",
 	"readme": "https://github.com/MadManNBlueBox/wands/blob/master/README.md"
   }
