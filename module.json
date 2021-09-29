@@ -4,93 +4,115 @@
 	"title": "Wands & Wizards WANDS Rulebook",
 	"description": "Compendium packs for all things Wands & Wizards",
 
+	"esmodules": [
+		"./src/wandsandwizards.js"
+	],
+	"styles":[
+		"./styles/waw.css",
+		"./styles/badger.css",
+		"./styles/eagle.css",
+		"./styles/lion.css",
+		"./styles/snake.css",
+		"./styles/beauxbatons.css"
+	],
 	"packs": [
-		{
-		  "name": "casting-styles-and-schools-of-magic-wands",
-		  "label": "Casting Styles and Schools of Magic (WANDS)",
-		  "system": "dnd5e",
-		  "path": "./packs/casting-styles-and-schools-of-magic-wands.db",
-		  "entity": "Item"
-		},
-		{
-		  "name": "dark-magic-corruption-wands",
-		  "label": "Dark Magic Corruption (WANDS)",
-		  "system": "dnd5e",
-		  "path": "./packs/dark-magic-corruption-wands.db",
-		  "entity": "Item"
-		},
-		{
-		  "name": "feats-wands",
-		  "label": "Feats (WANDS)",
-		  "system": "dnd5e",
-		  "path": "./packs/feats-wands.db",
-		  "entity": "Item"
-		},
-		{
-		  "name": "houses-wands",
-		  "label": "Houses (WANDS)",
-		  "system": "dnd5e",
-		  "path": "./packs/houses-wands.db",
-		  "entity": "Item"
-		},
-		{
-		  "name": "items-wands",
-		  "label": "Items (WANDS)",
-		  "system": "dnd5e",
-		  "path": "./packs/items-wands.db",
-		  "entity": "Item"
-		},
-		{
-		  "name": "magical-pets-wands",
-		  "label": "Magical Pets (WANDS)",
-		  "system": "dnd5e",
-		  "path": "./packs/magical-pets-wands.db",
-		  "entity": "Actor"
-		},
-		{
-		  "name": "metamagic-wands",
-		  "label": "Metamagic (WANDS)",
-		  "system": "dnd5e",
-		  "path": "./packs/metamagic-wands.db",
-	 	  "entity": "Item"
-		},
-		{
-		  "name": "monsters-wands",
-		  "label": "Monsters (WANDS)",
-		  "system": "dnd5e",
-		  "path": "./packs/monsters-wands.db",
-		  "entity": "Actor"
-		},
-		{
-		  "name": "potions-wands",
-		  "label": "Potions (WANDS)",
-		  "system": "dnd5e",
-		  "path": "./packs/potions-wands.db",
-		  "entity": "Item"
-		},
-		{
-		  "name": "spells-wands",
-		  "label": "Spells (WANDS)",
-		  "system": "dnd5e",
-		  "path": "./packs/spells-wands.db",
-		  "entity": "Item"
-		},
-		{
-		  "name": "subclass-features-wands",
-		  "label": "Subclass Features (WANDS)",
-		  "system": "dnd5e",
-		  "path": "./packs/subclass-features-wands.db",
-		  "entity": "Item"
-		}
-	  ],
+    {
+      "name": "casting-styles-and-schools-of-magic-wands",
+      "label": "Casting Styles and Schools of Magic (WANDS)",
+      "system": "dnd5e",
+      "path": "./packs/casting-styles-and-schools-of-magic-wands.db",
+      "entity": "Item",
+      "private": false
+    },
+    {
+      "name": "dark-magic-corruption-wands",
+      "label": "Dark Magic Corruption (WANDS)",
+      "system": "dnd5e",
+      "path": "./packs/dark-magic-corruption-wands.db",
+      "entity": "Item",
+      "private": false
+    },
+    {
+      "name": "feats-wands",
+      "label": "Feats (WANDS)",
+      "system": "dnd5e",
+      "path": "./packs/feats-wands.db",
+      "entity": "Item",
+      "private": false
+    },
+    {
+      "name": "houses-wands",
+      "label": "Houses (WANDS)",
+      "system": "dnd5e",
+      "path": "./packs/houses-wands.db",
+      "entity": "Item",
+      "private": false
+    },
+    {
+      "name": "items-wands",
+      "label": "Items (WANDS)",
+      "system": "dnd5e",
+      "path": "./packs/items-wands.db",
+      "entity": "Item",
+      "private": false
+    },
+    {
+      "name": "magical-pets-wands",
+      "label": "Magical Pets (WANDS)",
+      "system": "dnd5e",
+      "path": "./packs/magical-pets-wands.db",
+      "entity": "Actor",
+      "private": false
+    },
+    {
+      "name": "metamagic-wands",
+      "label": "Metamagic (WANDS)",
+      "system": "dnd5e",
+      "path": "./packs/metamagic-wands.db",
+      "entity": "Item",
+      "private": false
+    },
+    {
+      "name": "monsters-wands",
+      "label": "Monsters (WANDS)",
+      "system": "dnd5e",
+      "path": "./packs/monsters-wands.db",
+      "entity": "Actor",
+      "private": false
+    },
+    {
+      "name": "potions-wands",
+      "label": "Potions (WANDS)",
+      "system": "dnd5e",
+      "path": "./packs/potions-wands.db",
+      "entity": "Item",
+      "private": false
+    },
+    {
+      "name": "spells-wands",
+      "label": "Spells (WANDS)",
+      "system": "dnd5e",
+      "path": "./packs/spells-wands.db",
+      "entity": "Item",
+      "private": false
+    },
+    {
+      "name": "subclass-features-wands",
+      "label": "Subclass Features (WANDS)",
+      "system": "dnd5e",
+      "path": "./packs/subclass-features-wands.db",
+      "entity": "Item",
+      "private": false
+    }
+  ],
 
 	"system": "dnd5e",
 	"author": "MadManNBlueBox",
-	"version": "0.3.0",
+	"version": "0.4.0",
 	"minimumCoreVersion": "0.6.5",
 	"compatibleCoreVersion": "0.8.9",
 	"url": "https://github.com/MadManNBlueBox/wands",
-	"manifest": "https://github.com/MadManNBlueBox/wands/releases/download/0.3.0/module.json",
-	"download": "https://github.com/MadManNBlueBox/wands/releases/download/0.3.0/module.zip",
+	"manifest": "https://github.com/MadManNBlueBox/wands/releases/download/0.4.0/module.json",
+	"download": "https://github.com/MadManNBlueBox/wands/releases/download/0.4.0/module.zip",
 	"readme": "https://github.com/MadManNBlueBox/wands/blob/master/README.md"
   }
