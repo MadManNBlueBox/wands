@@ -1,21 +1,37 @@
-  
 {
-	"name": "wands",
-	"title": "Wands & Wizards WANDS Rulebook",
-	"description": "Compendium packs for all things Wands & Wizards",
-
-	"esmodules": [
-		"./src/wandsandwizards.js"
-	],
-	"styles":[
-		"./styles/waw.css",
-		"./styles/badger.css",
-		"./styles/eagle.css",
-		"./styles/lion.css",
-		"./styles/snake.css",
-		"./styles/beauxbatons.css"
-	],
-	"packs": [
+  "name": "wands",
+  "title": "Wands & Wizards WANDS Rulebook",
+  "description": "Compendium packs for all things Wands & Wizards",
+  "author": "MadManNBlueBox",
+  "authors": [],
+  "url": "https://github.com/MadManNBlueBox/wands",
+  "readme": "https://github.com/MadManNBlueBox/wands/blob/master/README.md",
+  "flags": {},
+  "version": "0.4.1",
+  "minimumCoreVersion": "0.6.5",
+  "compatibleCoreVersion": "0.8.9",
+  "scripts": [],
+  "esmodules": [
+    "./src/wandsandwizards.js"
+  ],
+  "styles": [
+    "./styles/waw.css",
+    "./styles/badger.css",
+    "./styles/eagle.css",
+    "./styles/lion.css",
+    "./styles/snake.css",
+    "./styles/beauxbatons.css"
+  ],
+  "languages": [],
+  "packs": [
+    {
+      "name": "background-features-wands",
+      "label": "Background Features (WANDS)",
+      "system": "dnd5e",
+      "path": "./packs/background-features-wands.db",
+      "entity": "Item",
+      "private": false
+    },
     {
       "name": "casting-styles-and-schools-of-magic-wands",
       "label": "Casting Styles and Schools of Magic (WANDS)",
@@ -105,14 +121,14 @@
       "private": false
     }
   ],
-
-	"system": "dnd5e",
-	"author": "MadManNBlueBox",
-	"version": "0.4.0",
-	"minimumCoreVersion": "0.6.5",
-	"compatibleCoreVersion": "0.8.9",
-	"url": "https://github.com/MadManNBlueBox/wands",
-	"manifest": "https://github.com/MadManNBlueBox/wands/releases/download/0.4.0/module.json",
-	"download": "https://github.com/MadManNBlueBox/wands/releases/download/0.4.0/module.zip",
-	"readme": "https://github.com/MadManNBlueBox/wands/blob/master/README.md"
-  }
+  "system": [
+    "dnd5e"
+  ],
+  "dependencies": [],
+  "socket": false,
+  "manifest": "https://github.com/MadManNBlueBox/wands/releases/download/0.4.1/module.json",
+  "download": "https://github.com/MadManNBlueBox/wands/releases/download/0.4.1/module.zip",
+  "protected": false,
+  "coreTranslation": false,
+  "library": false
+}
