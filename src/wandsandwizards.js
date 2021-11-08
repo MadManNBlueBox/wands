@@ -68,6 +68,25 @@ class WandsAndWizardsBadgerSheet extends ActorSheet5eCharacter {
 	  return options;
 	}
   }
+  
+  class WandsAndWizardsIlvermornySheet extends ActorSheet5eCharacter {
+	static get defaultOptions() {
+	  console.log("~~~~~~~~~~~ILVERMORNY SHEET ACTIVE~~~~~~~~~~~");
+	  const options = super.defaultOptions;
+	  options.classes.push('ilvermorny');
+	  return options;
+	}
+  }
+  
+  class WandsAndWizardsDurmstrangSheet extends ActorSheet5eCharacter {
+	static get defaultOptions() {
+	  console.log("~~~~~~~~~~~DRUMSTRANG SHEET ACTIVE~~~~~~~~~~~");
+	  const options = super.defaultOptions;
+	  options.classes.push('durmstrang');
+	  return options;
+	}
+  }
+
 
 //Registering Wands & Wizards character sheet theme options
 	console.log(`Initializing character sheets for Wands & Wizards Module`);
@@ -90,6 +109,14 @@ class WandsAndWizardsBadgerSheet extends ActorSheet5eCharacter {
 	Actors.registerSheet("dnd5e", WandsAndWizardsBeauxbatonsSheet, { 
 		types: ["character"],
 		makeDefault: true 
+	});
+	Actors.registerSheet("dnd5e", WandsAndWizardsIlvermornySheet, { 
+		types: ["character"], 
+		makeDefault: false 
+	});
+	Actors.registerSheet("dnd5e", WandsAndWizardsDurmstrangSheet, { 
+		types: ["character"], 
+		makeDefault: false 
 	});
 
 	Hooks.on("renderActorSheet", (app, html, data) => {

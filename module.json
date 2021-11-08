@@ -7,7 +7,7 @@
   "url": "https://github.com/MadManNBlueBox/wands",
   "readme": "https://github.com/MadManNBlueBox/wands/blob/master/README.md",
   "flags": {},
-  "version": "0.4.1",
+  "version": "0.5.0",
   "minimumCoreVersion": "0.6.5",
   "compatibleCoreVersion": "0.8.9",
   "scripts": [],
@@ -20,7 +20,9 @@
     "./styles/eagle.css",
     "./styles/lion.css",
     "./styles/snake.css",
-    "./styles/beauxbatons.css"
+    "./styles/beauxbatons.css",
+    "./styles/ilvermorny.css",
+    "./styles/durmstrang.css"
   ],
   "languages": [],
   "packs": [
@@ -118,6 +120,22 @@
       "system": "dnd5e",
       "path": "./packs/subclass-features-wands.db",
       "entity": "Item",
+      "private": false
+    },
+    {
+      "name": "animagus-form-wands",
+      "label": "Animagus Form (WANDS)",
+      "system": "dnd5e",
+      "path": "./packs/animagus-form-wands.db",
+      "entity": "Actor",
+      "private": false
+    },
+    {
+      "name": "wands-roll-tables",
+      "label": "WANDS Roll Tables (WANDS)",
+      "system": "dnd5e",
+      "path": "./packs/wands-roll-tables.db",
+      "entity": "RollTable",
       "private": false
     }
   ],
