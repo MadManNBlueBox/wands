@@ -144,8 +144,8 @@
   ],
   "dependencies": [],
   "socket": false,
-  "manifest": "https://github.com/MadManNBlueBox/wands/releases/download/0.4.1/module.json",
-  "download": "https://github.com/MadManNBlueBox/wands/releases/download/0.4.1/module.zip",
+  "manifest": "https://github.com/MadManNBlueBox/wands/releases/download/0.5.0/module.json",
+  "download": "https://github.com/MadManNBlueBox/wands/releases/download/0.5.0/module.zip",
   "protected": false,
   "coreTranslation": false,
   "library": false
