@@ -7,9 +7,9 @@
   "url": "https://github.com/MadManNBlueBox/wands",
   "readme": "https://github.com/MadManNBlueBox/wands/blob/master/README.md",
   "flags": {},
-  "version": "0.5.1",
+  "version": "0.5.2",
   "minimumCoreVersion": "0.6.5",
-  "compatibleCoreVersion": "0.8.9",
+  "compatibleCoreVersion": "9.238",
   "scripts": [],
   "esmodules": [
     "./src/wandsandwizards.js"
@@ -32,7 +32,8 @@
       "system": "dnd5e",
       "path": "./packs/background-features-wands.db",
       "entity": "Item",
-      "private": false
+      "private": false,
+      "module": "wands"
     },
     {
       "name": "casting-styles-and-schools-of-magic-wands",
@@ -40,7 +41,8 @@
       "system": "dnd5e",
       "path": "./packs/casting-styles-and-schools-of-magic-wands.db",
       "entity": "Item",
-      "private": false
+      "private": false,
+      "module": "wands"
     },
     {
       "name": "dark-magic-corruption-wands",
@@ -48,7 +50,8 @@
       "system": "dnd5e",
       "path": "./packs/dark-magic-corruption-wands.db",
       "entity": "Item",
-      "private": false
+      "private": false,
+      "module": "wands"
     },
     {
       "name": "feats-wands",
@@ -56,7 +59,8 @@
       "system": "dnd5e",
       "path": "./packs/feats-wands.db",
       "entity": "Item",
-      "private": false
+      "private": false,
+      "module": "wands"
     },
     {
       "name": "houses-wands",
@@ -64,7 +68,8 @@
       "system": "dnd5e",
       "path": "./packs/houses-wands.db",
       "entity": "Item",
-      "private": false
+      "private": false,
+      "module": "wands"
     },
     {
       "name": "items-wands",
@@ -72,7 +77,8 @@
       "system": "dnd5e",
       "path": "./packs/items-wands.db",
       "entity": "Item",
-      "private": false
+      "private": false,
+      "module": "wands"
     },
     {
       "name": "magical-pets-wands",
@@ -80,7 +86,8 @@
       "system": "dnd5e",
       "path": "./packs/magical-pets-wands.db",
       "entity": "Actor",
-      "private": false
+      "private": false,
+      "module": "wands"
     },
     {
       "name": "metamagic-wands",
@@ -88,7 +95,8 @@
       "system": "dnd5e",
       "path": "./packs/metamagic-wands.db",
       "entity": "Item",
-      "private": false
+      "private": false,
+      "module": "wands"
     },
     {
       "name": "monsters-wands",
@@ -96,7 +104,8 @@
       "system": "dnd5e",
       "path": "./packs/monsters-wands.db",
       "entity": "Actor",
-      "private": false
+      "private": false,
+      "module": "wands"
     },
     {
       "name": "potions-wands",
@@ -104,7 +113,8 @@
       "system": "dnd5e",
       "path": "./packs/potions-wands.db",
       "entity": "Item",
-      "private": false
+      "private": false,
+      "module": "wands"
     },
     {
       "name": "spells-wands",
@@ -112,7 +122,8 @@
       "system": "dnd5e",
       "path": "./packs/spells-wands.db",
       "entity": "Item",
-      "private": false
+      "private": false,
+      "module": "wands"
     },
     {
       "name": "subclass-features-wands",
@@ -120,7 +131,8 @@
       "system": "dnd5e",
       "path": "./packs/subclass-features-wands.db",
       "entity": "Item",
-      "private": false
+      "private": false,
+      "module": "wands"
     },
     {
       "name": "animagus-form-wands",
@@ -128,7 +140,8 @@
       "system": "dnd5e",
       "path": "./packs/animagus-form-wands.db",
       "entity": "Actor",
-      "private": false
+      "private": false,
+      "module": "wands"
     },
     {
       "name": "wands-roll-tables",
@@ -136,7 +149,8 @@
       "system": "dnd5e",
       "path": "./packs/wands-roll-tables.db",
       "entity": "RollTable",
-      "private": false
+      "private": false,
+      "module": "wands"
     }
   ],
   "system": [
@@ -144,8 +158,8 @@
   ],
   "dependencies": [],
   "socket": false,
-  "manifest": "https://github.com/MadManNBlueBox/wands/releases/download/0.5.1/module.json",
-  "download": "https://github.com/MadManNBlueBox/wands/releases/download/0.5.1/module.zip",
+  "manifest": "https://github.com/MadManNBlueBox/wands/releases/download/0.5.2/module.json",
+  "download": "https://github.com/MadManNBlueBox/wands/releases/download/0.5.2/module.zip",
   "protected": false,
   "coreTranslation": false,
   "library": false
