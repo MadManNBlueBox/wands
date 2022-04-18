@@ -1,0 +1,18 @@
+{
+	"WANDS": {
+		"SkillAnimal": "Magical Creatures",
+		"SkillArcana": "Magical Theory",
+		"SkillHistory": "Muggle Studies",
+		"SkillHerbology": "Herbology",
+		"SkillPotion": "Potion-Making",
+		"Sheets": {
+			"Badger": "Badger Sheet",
+			"Eagle": "Eagle Sheet",
+			"Lion": "Lion Sheet",
+			"Snake": "Snake Sheet",
+			"Beauxbatons": "Beauxbatons Sheet",
+			"Ilvermorny": "Ilvermorny Sheet",
+			"Durmstrang": "Durmstrang Sheet"
+		}
+	}
+}

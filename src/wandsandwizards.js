@@ -1,133 +1,160 @@
 import Actor5e from "../../../systems/dnd5e/module/actor/entity.js";
-import { DND5E } from '../../../systems/dnd5e/module/config.js';
+import { DND5E } from "../../../systems/dnd5e/module/config.js";
 import ActorSheet5eCharacter from "../../../systems/dnd5e/module/actor/sheets/character.js";
+import ActorSheet5eNPC from "../../../systems/dnd5e/module/actor/sheets/npc.js";
 
-//Changing out deprecated 5e skills to their Wands & Wizards counterparts1
-DND5E.skills["arc"] = "Magical Theory";
-DND5E.skills["his"] = "Muggle Studies";
-DND5E.skills["nat"] = "Herbology";
-DND5E.skills["ani"] = "Magical Creatures";
+Hooks.on("init", function () {
+	//Changing out deprecated 5e skills to their Wands & Wizards counterparts1
+	CONFIG.DND5E.skills["ani"] = "WANDS.SkillAnimal"; //Magical Creatures
+	CONFIG.DND5E.skills["arc"] = "WANDS.SkillArcana"; //Magical Theory
+	CONFIG.DND5E.skills["his"] = "WANDS.SkillHistory"; //Muggle Studies
+	CONFIG.DND5E.skills["nat"] = "WANDS.SkillHerbology"; //Herbology
+	CONFIG.DND5E.skills["ptn"] = "WANDS.SkillPotion"; //Herbology
+});
 
-//Add potion-making to the character sheet as a skill
-const prep = Actor5e.prototype.prepareBaseData;	
+Hooks.on("setup", () => {
+	patchActor5ePreCreate();
+	patchActorSheet5eDefaultOptions();
+	// patchActorSheet5eOnDropItemCreate();
+	patchActorSheet5eNPCDefaultOptions();
+});
 
-function extendActorData() {
-	const dat = this.data.data;
-	dat["newskills"] = dat["newskills"] || 
-	{ "ptn": 
-		{
-			total: ''
-		}
-	};
-	return prep.call(this);
+function patchActor5ePreCreate() {
+	libWrapper.register(
+		"wands",
+		"CONFIG.Actor.documentClass.prototype._preCreate",
+		function patchedPreCreate(wrapped, ...args) {
+			wrapped(...args);
+
+			this.data.update({
+				data: {
+					skills: {
+						ptn: {
+							value: 0,
+							ability: "wis",
+						},
+					},
+				},
+			});
+		},
+		"WRAPPER"
+	);
 }
-Actor5e.prototype.prepareBaseData = extendActorData;
+
+function patchActorSheet5eDefaultOptions() {
+	libWrapper.register(
+		"wands",
+		"game.dnd5e.applications.ActorSheet5eCharacter.defaultOptions",
+		function patchedDefaultOptions(...args) {
+			return mergeObject(Object.getPrototypeOf(ActorSheet5eCharacter).defaultOptions, {
+				classes: ["dnd5e", "sheet", "actor", "character"],
+				width: 720,
+				height: 700,
+			});
+		},
+		"OVERRIDE"
+	);
+}
+
+function patchActorSheet5eNPCDefaultOptions() {
+	libWrapper.register(
+		"wands",
+		"game.dnd5e.applications.ActorSheet5eNPC.defaultOptions",
+		function patchedDefaultOptions(...args) {
+			return mergeObject(Object.getPrototypeOf(ActorSheet5eNPC).defaultOptions, {
+				classes: ["dnd5e", "sheet", "actor", "npc"],
+				width: 600,
+				height: 700,
+			});
+		},
+		"OVERRIDE"
+	);
+}
 
 //Character sheets
 class WandsAndWizardsBadgerSheet extends ActorSheet5eCharacter {
 	static get defaultOptions() {
-	  console.log("~~~~~~~~~~~BADGER SHEET ACTIVE~~~~~~~~~~~");
-	  const options = super.defaultOptions;
-	  options.classes.push('badger');
-	  return options;
+		const options = super.defaultOptions;
+		options.classes.push("badger");
+		return options;
 	}
-  }
-  
-  class WandsAndWizardsEagleSheet extends ActorSheet5eCharacter {
+}
+class WandsAndWizardsEagleSheet extends ActorSheet5eCharacter {
 	static get defaultOptions() {
-	  console.log("~~~~~~~~~~~EAGLE SHEET ACTIVE~~~~~~~~~~~");
-	  const options = super.defaultOptions;
-	  options.classes.push('eagle');
-	  return options;
+		const options = super.defaultOptions;
+		options.classes.push("eagle");
+		return options;
 	}
-  }
-  
-  class WandsAndWizardsLionSheet extends ActorSheet5eCharacter {
+}
+class WandsAndWizardsLionSheet extends ActorSheet5eCharacter {
 	static get defaultOptions() {
-	  console.log("~~~~~~~~~~~LION SHEET ACTIVE~~~~~~~~~~~");
-	  const options = super.defaultOptions;
-	  options.classes.push('lion');
-	  return options;
+		const options = super.defaultOptions;
+		options.classes.push("lion");
+		return options;
 	}
-  }
-  
-  class WandsAndWizardsSnakeSheet extends ActorSheet5eCharacter {
+}
+class WandsAndWizardsSnakeSheet extends ActorSheet5eCharacter {
 	static get defaultOptions() {
-	  console.log("~~~~~~~~~~~SNAKE SHEET ACTIVE~~~~~~~~~~~");
-	  const options = super.defaultOptions;
-	  options.classes.push('snake');
-	  return options;
+		const options = super.defaultOptions;
+		options.classes.push("snake");
+		return options;
 	}
-  }
-  
-  class WandsAndWizardsBeauxbatonsSheet extends ActorSheet5eCharacter {
+}
+class WandsAndWizardsBeauxbatonsSheet extends ActorSheet5eCharacter {
 	static get defaultOptions() {
-	  console.log("~~~~~~~~~~~BEAUXBATONS SHEET ACTIVE~~~~~~~~~~~");
-	  const options = super.defaultOptions;
-	  options.classes.push('beauxbatons');
-	  return options;
+		const options = super.defaultOptions;
+		options.classes.push("beauxbatons");
+		return options;
 	}
-  }
-  
-  class WandsAndWizardsIlvermornySheet extends ActorSheet5eCharacter {
+}
+class WandsAndWizardsIlvermornySheet extends ActorSheet5eCharacter {
 	static get defaultOptions() {
-	  console.log("~~~~~~~~~~~ILVERMORNY SHEET ACTIVE~~~~~~~~~~~");
-	  const options = super.defaultOptions;
-	  options.classes.push('ilvermorny');
-	  return options;
+		const options = super.defaultOptions;
+		options.classes.push("ilvermorny");
+		return options;
 	}
-  }
-  
-  class WandsAndWizardsDurmstrangSheet extends ActorSheet5eCharacter {
+}
+class WandsAndWizardsDurmstrangSheet extends ActorSheet5eCharacter {
 	static get defaultOptions() {
-	  console.log("~~~~~~~~~~~DRUMSTRANG SHEET ACTIVE~~~~~~~~~~~");
-	  const options = super.defaultOptions;
-	  options.classes.push('durmstrang');
-	  return options;
+		const options = super.defaultOptions;
+		options.classes.push("durmstrang");
+		return options;
 	}
-  }
-
+}
 
 //Registering Wands & Wizards character sheet theme options
-	console.log(`Initializing character sheets for Wands & Wizards Module`);
-	Actors.registerSheet("dnd5e", WandsAndWizardsBadgerSheet, { 
-		types: ["character"],
-		makeDefault: false 
-	});
-	Actors.registerSheet("dnd5e", WandsAndWizardsEagleSheet, { 
-		types: ["character"], 
-		makeDefault: false 
-	});
-	Actors.registerSheet("dnd5e", WandsAndWizardsLionSheet, { 
-		types: ["character"], 
-		makeDefault: false 
-	});
-	Actors.registerSheet("dnd5e", WandsAndWizardsSnakeSheet, { 
-		types: ["character"],
-		makeDefault: true 
-	});
-	Actors.registerSheet("dnd5e", WandsAndWizardsBeauxbatonsSheet, { 
-		types: ["character"],
-		makeDefault: true 
-	});
-	Actors.registerSheet("dnd5e", WandsAndWizardsIlvermornySheet, { 
-		types: ["character"], 
-		makeDefault: false 
-	});
-	Actors.registerSheet("dnd5e", WandsAndWizardsDurmstrangSheet, { 
-		types: ["character"], 
-		makeDefault: false 
-	});
-
-	Hooks.on("renderActorSheet", (app, html, data) => {
-		const skillslist = html.find("section.sheet-body").find("ul.skills-list");
-		skillslist.append(`
-			<li class="skill flexrow ptn" data-skill="wis">
-				<input type="hidden" name="data.newskills.ptn.value" data-dtype="Number">
-				<h4 class="skill-name">Potion-Making</h4>
-				<span class="skill-ability custom">Wis</span>
-				<span class="skill-mod custom"><input name="data.newskills.ptn.total" type="text" value="${data.data.newskills.ptn.total}" data-dtype="Text" placeholder="+0"/></span>
-			</li>
-		`); 
-	});
-	
+Actors.registerSheet("dnd5e", WandsAndWizardsBadgerSheet, {
+	types: ["character"],
+	makeDefault: false,
+	label: "WANDS.Sheets.Badger",
+});
+Actors.registerSheet("dnd5e", WandsAndWizardsEagleSheet, {
+	types: ["character"],
+	makeDefault: false,
+	label: "WANDS.Sheets.Eagle",
+});
+Actors.registerSheet("dnd5e", WandsAndWizardsLionSheet, {
+	types: ["character"],
+	makeDefault: false,
+	label: "WANDS.Sheets.Lion",
+});
+Actors.registerSheet("dnd5e", WandsAndWizardsSnakeSheet, {
+	types: ["character"],
+	makeDefault: false,
+	label: "WANDS.Sheets.Snake",
+});
+Actors.registerSheet("dnd5e", WandsAndWizardsBeauxbatonsSheet, {
+	types: ["character"],
+	makeDefault: false,
+	label: "WANDS.Sheets.Beauxbatons",
+});
+Actors.registerSheet("dnd5e", WandsAndWizardsIlvermornySheet, {
+	types: ["character"],
+	makeDefault: false,
+	label: "WANDS.Sheets.Ilvermorny",
+});
+Actors.registerSheet("dnd5e", WandsAndWizardsDurmstrangSheet, {
+	types: ["character"],
+	makeDefault: false,
+	label: "WANDS.Sheets.Durmstrang",
+});
