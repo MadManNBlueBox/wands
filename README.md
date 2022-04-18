@@ -1,5 +1,5 @@
 # W&W Module for Foundry VTT 
-**By MadManNBlueBox and Sparkcity**
+**By MadManNBlueBox, mclemente and Sparkcity**
 
 This is a FoundryVTT module to add all content from the Wands & Wizards W.A.N.D.S. Rulebook.
 
