@@ -7,7 +7,7 @@
 	"url": "https://github.com/MadManNBlueBox/wands",
 	"readme": "https://github.com/MadManNBlueBox/wands/blob/master/README.md",
 	"flags": {},
-	"version": "0.5.2",
+	"version": "0.6.0",
 	"minimumCoreVersion": "9",
 	"compatibleCoreVersion": "9",
 	"scripts": [],
@@ -170,8 +170,8 @@
 		}
 	],
 	"socket": false,
-	"manifest": "https://github.com/MadManNBlueBox/wands/releases/download/0.5.2/module.json",
-	"download": "https://github.com/MadManNBlueBox/wands/releases/download/0.5.2/module.zip",
+	"manifest": "https://github.com/MadManNBlueBox/wands/releases/download/0.6.0/module.json",
+	"download": "https://github.com/MadManNBlueBox/wands/releases/download/0.6.0/module.zip",
 	"protected": false,
 	"coreTranslation": false,
 	"library": false

@@ -1,12 +1,12 @@
 # W&W Module for Foundry VTT 
-**By MadManNBlueBox, mclemente and Sparkcity**
+**By MadManNBlueBox, Clemente and Sparkcity**
 
 This is a FoundryVTT module to add all content from the Wands & Wizards W.A.N.D.S. Rulebook.
 
 **To install the module:**
 
 In FoundryVTT Configuration and Setup, go to the "Add-on Modules" tab. Select "Install Module", copy this URL:
-https://github.com/MadManNBlueBox/wands/releases/download/0.5.2/module.json
+https://github.com/MadManNBlueBox/wands/releases/download/0.6.0/module.json
 Paste the URL in the "Manifest URL" field, and click Install.
 This is unofficial Fan Content and not an official FoundryVTT module.
 
