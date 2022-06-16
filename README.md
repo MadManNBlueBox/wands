@@ -1,7 +1,9 @@
 # W&W Module for Foundry VTT 
 **By MadManNBlueBox, Clemente and Sparkcity**
 
-This is a FoundryVTT module to add all content from the Wands & Wizards W.A.N.D.S. Rulebook.
+This module for the DnD5e - Fifth Edition System for Foundry Virtual Tabletop provides additional functionality and support for the rule set from Wands & Wizards W.A.N.D.S. Rulebook by Murphen44.
+
+It adds compendiums including races known as Houses, classes known as Casting Styles, subclasses known as Schools of Magic, the feature associated with each, creatures; good and bad, and much, much more. In addition to the compendiums, it also provides custom character sheets for each house.
 
 **To install the module:**
 
