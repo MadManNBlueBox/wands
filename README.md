@@ -17,6 +17,6 @@ https://foundryvtt.com/article/faq/
 
 **References:**
 
-Wands & Wizards: W.A.N.D.S. Rulebook (https://www.gmbinder.com/share/-LsXE64qLDdLgBczM2kA)
+Wands & Wizards: W.A.N.D.S. Rulebook
 
-Wands & Wizards: The Monster Book of Monsters (https://www.gmbinder.com/share/-M-L89xL5z3-Lcl8F7T4)
+Wands & Wizards: The Monster Book of Monsters
