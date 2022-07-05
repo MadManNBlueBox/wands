@@ -7,7 +7,7 @@
 	"url": "https://github.com/MadManNBlueBox/wands",
 	"readme": "https://github.com/MadManNBlueBox/wands/blob/master/README.md",
 	"flags": {},
-	"version": "0.6.0",
+	"version": "0.7.0",
 	"minimumCoreVersion": "9",
 	"compatibleCoreVersion": "9",
 	"scripts": [],
@@ -37,7 +37,7 @@
 	"packs": [
 		{
 			"name": "background-features-wands",
-			"label": "Background Features (WANDS)",
+			"label": "Backgrounds (WANDS)",
 			"system": "dnd5e",
 			"path": "./packs/background-features-wands.db",
 			"entity": "Item",
@@ -49,6 +49,15 @@
 			"label": "Casting Styles and Schools of Magic (WANDS)",
 			"system": "dnd5e",
 			"path": "./packs/casting-styles-and-schools-of-magic-wands.db",
+			"entity": "Item",
+			"private": false,
+			"module": "wands"
+		},
+		{
+			"name": "class-features-wands",
+			"label": "Class Features (WANDS)",
+			"system": "dnd5e",
+			"path": "./packs/class-features-wands.db",
 			"entity": "Item",
 			"private": false,
 			"module": "wands"
@@ -170,8 +179,8 @@
 		}
 	],
 	"socket": false,
-	"manifest": "https://github.com/MadManNBlueBox/wands/releases/download/0.6.0/module.json",
-	"download": "https://github.com/MadManNBlueBox/wands/releases/download/0.6.0/module.zip",
+	"manifest": "https://github.com/MadManNBlueBox/wands/releases/download/0.7.0/module.json",
+	"download": "https://github.com/MadManNBlueBox/wands/releases/download/0.7.0/module.zip",
 	"protected": false,
 	"coreTranslation": false,
 	"library": false
