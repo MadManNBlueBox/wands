@@ -7,9 +7,9 @@
 	"url": "https://github.com/MadManNBlueBox/wands",
 	"readme": "https://github.com/MadManNBlueBox/wands/blob/master/README.md",
 	"flags": {},
-	"version": "0.7.1",
+	"version": "0.8.0",
 	"minimumCoreVersion": "9",
-	"compatibleCoreVersion": "9",
+	"compatibleCoreVersion": "10",
 	"scripts": [],
 	"esmodules": ["./src/wandsandwizards.js"],
 	"styles": [
@@ -179,8 +179,8 @@
 		}
 	],
 	"socket": false,
-	"manifest": "https://github.com/MadManNBlueBox/wands/releases/download/0.7.1/module.json",
-	"download": "https://github.com/MadManNBlueBox/wands/releases/download/0.7.1/module.zip",
+	"manifest": "https://github.com/MadManNBlueBox/wands/releases/download/0.8.0/module.json",
+	"download": "https://github.com/MadManNBlueBox/wands/releases/download/0.8.0/module.zip",
 	"protected": false,
 	"coreTranslation": false,
 	"library": false
