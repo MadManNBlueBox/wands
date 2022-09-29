@@ -7,8 +7,8 @@
 	"url": "https://github.com/MadManNBlueBox/wands",
 	"readme": "https://github.com/MadManNBlueBox/wands/blob/master/README.md",
 	"flags": {},
-	"version": "0.8.0",
-	"minimumCoreVersion": "9",
+	"version": "0.9.0",
+	"minimumCoreVersion": "10",
 	"compatibleCoreVersion": "10",
 	"scripts": [],
 	"esmodules": ["./src/wandsandwizards.js"],
@@ -172,15 +172,9 @@
 		}
 	],
 	"system": ["dnd5e"],
-	"dependencies": [
-		{
-			"name": "lib-wrapper",
-			"manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json"
-		}
-	],
 	"socket": false,
-	"manifest": "https://github.com/MadManNBlueBox/wands/releases/download/0.8.0/module.json",
-	"download": "https://github.com/MadManNBlueBox/wands/releases/download/0.8.0/module.zip",
+	"manifest": "https://github.com/MadManNBlueBox/wands/releases/download/0.9.0/module.json",
+	"download": "https://github.com/MadManNBlueBox/wands/releases/download/0.9.0/module.zip",
 	"protected": false,
 	"coreTranslation": false,
 	"library": false

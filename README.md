@@ -1,5 +1,5 @@
 # W&W Module for Foundry VTT 
-**By MadManNBlueBox, Clemente and Sparkcity**
+**By MadManNBlueBox and Sparkcity**
 
 This module for the DnD5e - Fifth Edition System for Foundry Virtual Tabletop provides additional functionality and support for the rule set from Wands & Wizards W.A.N.D.S. Rulebook by Murphen44.
 
@@ -8,7 +8,7 @@ It adds compendiums including races known as Houses, classes known as Casting St
 **To install the module:**
 
 In FoundryVTT Configuration and Setup, go to the "Add-on Modules" tab. Select "Install Module", copy this URL:
-https://github.com/MadManNBlueBox/wands/releases/download/0.8.0/module.json
+https://github.com/MadManNBlueBox/wands/releases/download/0.9.0/module.json
 Paste the URL in the "Manifest URL" field, and click Install.
 This is unofficial Fan Content and not an official FoundryVTT module.
 
