@@ -1,15 +1,5 @@
-.dnd5e.sheet.actor.character,
 .dnd5e.sheet.actor.npc {
 	min-height: 700px;
-}
-.dnd5e.sheet.actor .ability-scores {
-	height: 460px;
-}
-.dnd5e.sheet.actor .ability-scores .ability:last-child {
-	height: 63px;
-}
-.dnd5e.sheet.actor ul.skills-list {
-	height: 460px;
 }
 .dnd5e.sheet.actor.npc ul.skills-list {
 	flex: 0 0 200px;
