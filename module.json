@@ -2,8 +2,11 @@
 	"name": "wands",
 	"title": "Wands & Wizards WANDS Rulebook",
 	"description": "Compendium packs for all things Wands & Wizards",
-	"author": "MadManNBlueBox",
-	"authors": [],
+	"authors": [
+		{
+			"name": "MadManNBlueBox"
+		}
+	],
 	"url": "https://github.com/MadManNBlueBox/wands",
 	"readme": "https://github.com/MadManNBlueBox/wands/blob/master/README.md",
 	"flags": {},
