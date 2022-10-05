@@ -80,9 +80,20 @@ input.customskill {
 	background: rgba(0, 0, 0, 0.05);
 	color: #919191;
 }
-/*edit below to change color when hover over box*/
+/*edit below to change input number colors for HP and XP*/
+.snake.dnd5e .sheet-header input[type="number"],
+.snake.dnd5e .sheet-header select {
+	color: #919191;
+}
+/*edit below to change color when hover over "text" box*/
 .snake.dnd5e input[type="text"]:hover,
 .snake.dnd5e input[type="text"]:focus {
+	border: 1px solid #111;
+	box-shadow: 0 0 8px #2a623d;
+}
+/*edit below to change color when hover over "number" box*/
+.snake.dnd5e input[type="number"]:hover,
+.snake.dnd5e input[type="number"]:focus {
 	border: 1px solid #111;
 	box-shadow: 0 0 8px #2a623d;
 }
@@ -551,7 +562,6 @@ input.customskill {
 }
 .snake.dnd5e.sheet.actor .ability-scores {
 	flex: 0 0 100px;
-	height: 440px;
 	list-style: none;
 	margin: 0;
 	padding: 0;

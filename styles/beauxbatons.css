@@ -81,9 +81,20 @@ input.customskill {
 	background: rgba(0, 0, 0, 0.05);
 	color: black;
 }
-/*edit below to change color when hover over box*/
+/*edit below to change input number colors for HP and XP*/
+.beauxbatons.dnd5e .sheet-header input[type="number"],
+.beauxbatons.dnd5e .sheet-header select {
+	color: black;
+}
+/*edit below to change color when hover over "text" box*/
 .beauxbatons.dnd5e input[type="text"]:hover,
 .beauxbatons.dnd5e input[type="text"]:focus {
+	border: 1px solid #111;
+	box-shadow: 0 0 8px #ddab2c;
+}
+/*edit below to change color when hover over "number" box*/
+.beauxbatons.dnd5e input[type="number"]:hover,
+.beauxbatons.dnd5e input[type="number"]:focus {
 	border: 1px solid #111;
 	box-shadow: 0 0 8px #ddab2c;
 }
@@ -552,7 +563,6 @@ input.customskill {
 }
 .beauxbatons.dnd5e.sheet.actor .ability-scores {
 	flex: 0 0 100px;
-	height: 440px;
 	list-style: none;
 	margin: 0;
 	padding: 0;
