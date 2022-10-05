@@ -33,15 +33,6 @@ input.customskill {
 	flex: 0 0 50px;
 }
 
-.flexrow {
-	display: flex;
-	flex-direction: row;
-	flex-wrap: wrap;
-	justify-content: flex-start;
-}
-.flexrow > * {
-	flex: 1;
-}
 .flexrow .flex1 {
 	flex: 1;
 }
@@ -53,14 +44,6 @@ input.customskill {
 }
 .flexrow .flex4 {
 	flex: 4;
-}
-.flexcol {
-	display: flex;
-	flex-direction: column;
-	flex-wrap: nowrap;
-}
-.flexcol > * {
-	flex: 1;
 }
 .flexcol .flex1 {
 	flex: 1;
