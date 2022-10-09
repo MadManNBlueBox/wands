@@ -5,6 +5,10 @@
 		"SkillHistory": "Muggle Studies",
 		"SkillHerbology": "Herbology",
 		"SkillPotion": "Potion-Making",
+		"SchoolCharms": "Charm",
+		"SchoolJHC": "Jinxes, Hexes, & Curses",
+		"SchoolTransfig": "Transfiguration",
+		"SchoolHealing": "Healing",
 		"Sheets": {
 			"Badger": "Badger Sheet",
 			"Eagle": "Eagle Sheet",
