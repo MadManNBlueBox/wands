@@ -1,10 +1,15 @@
 Hooks.on("init", function () {
-	//Changing out deprecated 5e skills to their Wands & Wizards counterparts1
+	//Changing out deprecated 5e skills to their Wands & Wizards counterparts
 	CONFIG.DND5E.skills["ani"] = { label: "WANDS.SkillAnimal" }; //Magical Creatures
 	CONFIG.DND5E.skills["arc"] = { label: "WANDS.SkillArcana" }; //Magical Theory
 	CONFIG.DND5E.skills["his"] = { label: "WANDS.SkillHistory" }; //Muggle Studies
 	CONFIG.DND5E.skills["nat"] = { label: "WANDS.SkillHerbology" }; //Herbology
 	CONFIG.DND5E.skills["ptn"] = { label: "WANDS.SkillPotion", ability: "wis" }; //Potion Making
+	//Add Wands & Wizards Schools of Magic
+	CONFIG.DND5E.spellSchools["cha"] = "WANDS.SchoolCharms"; //Charms
+	CONFIG.DND5E.spellSchools["jhc"] = "WANDS.SchoolJHC"; //Jinxes, Hexes, and Curses
+	CONFIG.DND5E.spellSchools["trf"] = "WANDS.SchoolTransfig"; //Transfiguration
+	CONFIG.DND5E.spellSchools["hea"] = "WANDS.SchoolHealing"; //Healing
 });
 
 //Character sheets
