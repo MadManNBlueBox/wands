@@ -10,9 +10,9 @@
 	"url": "https://github.com/MadManNBlueBox/wands",
 	"readme": "https://github.com/MadManNBlueBox/wands/blob/master/README.md",
 	"flags": {},
-	"version": "0.9.3",
+	"version": "0.10.0",
 	"minimumCoreVersion": "10",
-	"compatibleCoreVersion": "10",
+	"compatibleCoreVersion": "11",
 	"scripts": [],
 	"esmodules": ["./src/wandsandwizards.js"],
 	"styles": [
@@ -43,8 +43,7 @@
 			"label": "Backgrounds (WANDS)",
 			"system": "dnd5e",
 			"path": "./packs/background-features-wands.db",
-			"entity": "Item",
-			"private": false,
+			"type": "Item",
 			"module": "wands"
 		},
 		{
@@ -52,8 +51,7 @@
 			"label": "Casting Styles and Schools of Magic (WANDS)",
 			"system": "dnd5e",
 			"path": "./packs/casting-styles-and-schools-of-magic-wands.db",
-			"entity": "Item",
-			"private": false,
+			"type": "Item",
 			"module": "wands"
 		},
 		{
@@ -61,8 +59,7 @@
 			"label": "Class Features (WANDS)",
 			"system": "dnd5e",
 			"path": "./packs/class-features-wands.db",
-			"entity": "Item",
-			"private": false,
+			"type": "Item",
 			"module": "wands"
 		},
 		{
@@ -70,8 +67,7 @@
 			"label": "Dark Magic Corruption (WANDS)",
 			"system": "dnd5e",
 			"path": "./packs/dark-magic-corruption-wands.db",
-			"entity": "Item",
-			"private": false,
+			"type": "Item",
 			"module": "wands"
 		},
 		{
@@ -79,8 +75,7 @@
 			"label": "Feats (WANDS)",
 			"system": "dnd5e",
 			"path": "./packs/feats-wands.db",
-			"entity": "Item",
-			"private": false,
+			"type": "Item",
 			"module": "wands"
 		},
 		{
@@ -88,8 +83,7 @@
 			"label": "Houses (WANDS)",
 			"system": "dnd5e",
 			"path": "./packs/houses-wands.db",
-			"entity": "Item",
-			"private": false,
+			"type": "Item",
 			"module": "wands"
 		},
 		{
@@ -97,8 +91,7 @@
 			"label": "Items (WANDS)",
 			"system": "dnd5e",
 			"path": "./packs/items-wands.db",
-			"entity": "Item",
-			"private": false,
+			"type": "Item",
 			"module": "wands"
 		},
 		{
@@ -106,8 +99,7 @@
 			"label": "Magical Pets (WANDS)",
 			"system": "dnd5e",
 			"path": "./packs/magical-pets-wands.db",
-			"entity": "Actor",
-			"private": false,
+			"type": "Actor",
 			"module": "wands"
 		},
 		{
@@ -115,8 +107,7 @@
 			"label": "Metamagic (WANDS)",
 			"system": "dnd5e",
 			"path": "./packs/metamagic-wands.db",
-			"entity": "Item",
-			"private": false,
+			"type": "Item",
 			"module": "wands"
 		},
 		{
@@ -124,8 +115,7 @@
 			"label": "Monsters (WANDS)",
 			"system": "dnd5e",
 			"path": "./packs/monsters-wands.db",
-			"entity": "Actor",
-			"private": false,
+			"type": "Actor",
 			"module": "wands"
 		},
 		{
@@ -133,8 +123,7 @@
 			"label": "Potions (WANDS)",
 			"system": "dnd5e",
 			"path": "./packs/potions-wands.db",
-			"entity": "Item",
-			"private": false,
+			"type": "Item",
 			"module": "wands"
 		},
 		{
@@ -142,8 +131,7 @@
 			"label": "Spells (WANDS)",
 			"system": "dnd5e",
 			"path": "./packs/spells-wands.db",
-			"entity": "Item",
-			"private": false,
+			"type": "Item",
 			"module": "wands"
 		},
 		{
@@ -151,8 +139,7 @@
 			"label": "Subclass Features (WANDS)",
 			"system": "dnd5e",
 			"path": "./packs/subclass-features-wands.db",
-			"entity": "Item",
-			"private": false,
+			"type": "Item",
 			"module": "wands"
 		},
 		{
@@ -160,8 +147,7 @@
 			"label": "Animagus Form (WANDS)",
 			"system": "dnd5e",
 			"path": "./packs/animagus-form-wands.db",
-			"entity": "Actor",
-			"private": false,
+			"type": "Actor",
 			"module": "wands"
 		},
 		{
@@ -169,15 +155,14 @@
 			"label": "WANDS Roll Tables (WANDS)",
 			"system": "dnd5e",
 			"path": "./packs/wands-roll-tables.db",
-			"entity": "RollTable",
-			"private": false,
+			"type": "RollTable",
 			"module": "wands"
 		}
 	],
 	"system": ["dnd5e"],
 	"socket": false,
-	"manifest": "https://github.com/MadManNBlueBox/wands/releases/download/0.9.3/module.json",
-	"download": "https://github.com/MadManNBlueBox/wands/releases/download/0.9.3/module.zip",
+	"manifest": "https://github.com/MadManNBlueBox/wands/releases/download/0.10.0/module.json",
+	"download": "https://github.com/MadManNBlueBox/wands/releases/download/0.10.0/module.zip",
 	"protected": false,
 	"coreTranslation": false,
 	"library": false
