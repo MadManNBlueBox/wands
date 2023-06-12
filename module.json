@@ -11,7 +11,7 @@
 	"readme": "https://github.com/MadManNBlueBox/wands/blob/master/README.md",
 	"flags": {},
 	"version": "0.10.1",
-	"minimumCoreVersion": "10",
+	"minimumCoreVersion": "11",
 	"compatibleCoreVersion": "11",
 	"scripts": [],
 	"esmodules": ["./src/wandsandwizards.js"],
