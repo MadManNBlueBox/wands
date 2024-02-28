@@ -10,7 +10,7 @@
 	"url": "https://github.com/MadManNBlueBox/wands",
 	"readme": "https://github.com/MadManNBlueBox/wands/blob/master/README.md",
 	"flags": {},
-	"version": "0.11.0",
+	"version": "0.11.1",
 	"minimumCoreVersion": "11",
 	"compatibleCoreVersion": "11",
 	"scripts": [],
@@ -39,11 +39,20 @@
 	],
 	"packs": [
 		{
-			"name": "background-features-wands",
+			"name": "features-wands",
+			"label": "Features (WANDS)",
+			"banner": "modules/wands/assets/wandsbanner.webp",
+			"system": "dnd5e",
+			"path": "./packs/features-wands.db",
+			"type": "Item",
+			"module": "wands"
+		},
+		{
+			"name": "backgrounds-wands",
 			"label": "Backgrounds (WANDS)",
 			"banner": "modules/wands/assets/wandsbanner.webp",
 			"system": "dnd5e",
-			"path": "./packs/background-features-wands.db",
+			"path": "./packs/backgrounds-wands.db",
 			"type": "Item",
 			"module": "wands"
 		},
@@ -53,33 +62,6 @@
 			"banner": "modules/wands/assets/wandsbanner.webp",
 			"system": "dnd5e",
 			"path": "./packs/casting-styles-and-schools-of-magic-wands.db",
-			"type": "Item",
-			"module": "wands"
-		},
-		{
-			"name": "class-features-wands",
-			"label": "Class Features (WANDS)",
-			"banner": "modules/wands/assets/wandsbanner.webp",
-			"system": "dnd5e",
-			"path": "./packs/class-features-wands.db",
-			"type": "Item",
-			"module": "wands"
-		},
-		{
-			"name": "dark-magic-corruption-wands",
-			"label": "Dark Magic Corruption (WANDS)",
-			"banner": "modules/wands/assets/wandsbanner.webp",
-			"system": "dnd5e",
-			"path": "./packs/dark-magic-corruption-wands.db",
-			"type": "Item",
-			"module": "wands"
-		},
-		{
-			"name": "feats-wands",
-			"label": "Feats (WANDS)",
-			"banner": "modules/wands/assets/wandsbanner.webp",
-			"system": "dnd5e",
-			"path": "./packs/feats-wands.db",
 			"type": "Item",
 			"module": "wands"
 		},
@@ -111,15 +93,6 @@
 			"module": "wands"
 		},
 		{
-			"name": "metamagic-wands",
-			"label": "Metamagic (WANDS)",
-			"banner": "modules/wands/assets/wandsbanner.webp",
-			"system": "dnd5e",
-			"path": "./packs/metamagic-wands.db",
-			"type": "Item",
-			"module": "wands"
-		},
-		{
 			"name": "monsters-wands",
 			"label": "Monsters (WANDS)",
 			"banner": "modules/wands/assets/wandsbanner.webp",
@@ -129,29 +102,11 @@
 			"module": "wands"
 		},
 		{
-			"name": "potions-wands",
-			"label": "Potions (WANDS)",
-			"banner": "modules/wands/assets/wandsbanner.webp",
-			"system": "dnd5e",
-			"path": "./packs/potions-wands.db",
-			"type": "Item",
-			"module": "wands"
-		},
-		{
 			"name": "spells-wands",
 			"label": "Spells (WANDS)",
 			"banner": "modules/wands/assets/wandsbanner.webp",
 			"system": "dnd5e",
 			"path": "./packs/spells-wands.db",
-			"type": "Item",
-			"module": "wands"
-		},
-		{
-			"name": "subclass-features-wands",
-			"label": "Subclass Features (WANDS)",
-			"banner": "modules/wands/assets/wandsbanner.webp",
-			"system": "dnd5e",
-			"path": "./packs/subclass-features-wands.db",
 			"type": "Item",
 			"module": "wands"
 		},
@@ -176,8 +131,8 @@
 	],
 	"system": ["dnd5e"],
 	"socket": false,
-	"manifest": "https://github.com/MadManNBlueBox/wands/releases/download/0.11.0/module.json",
-	"download": "https://github.com/MadManNBlueBox/wands/releases/download/0.11.0/module.zip",
+	"manifest": "https://github.com/MadManNBlueBox/wands/releases/download/0.11.1/module.json",
+	"download": "https://github.com/MadManNBlueBox/wands/releases/download/0.11.1/module.zip",
 	"protected": false,
 	"coreTranslation": false,
 	"library": false
