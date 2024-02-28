@@ -6,10 +6,10 @@ Hooks.on("init", function () {
 	CONFIG.DND5E.skills["nat"] = { label: "WANDS.SkillHerbology" }; //Herbology
 	CONFIG.DND5E.skills["ptn"] = { label: "WANDS.SkillPotion", ability: "wis" }; //Potion Making
 	//Add Wands & Wizards Schools of Magic
-	CONFIG.DND5E.spellSchools["cha"] = "WANDS.SchoolCharms"; //Charms
-	CONFIG.DND5E.spellSchools["jhc"] = "WANDS.SchoolJHC"; //Jinxes, Hexes, and Curses
-	CONFIG.DND5E.spellSchools["trf"] = "WANDS.SchoolTransfig"; //Transfiguration
-	CONFIG.DND5E.spellSchools["hea"] = "WANDS.SchoolHealing"; //Healing
+	CONFIG.DND5E.spellSchools["cha"] = { label: "WANDS.SchoolCharms"}; //Charms
+	CONFIG.DND5E.spellSchools["jhc"] = { label: "WANDS.SchoolJHC"}; //Jinxes, Hexes, and Curses
+	CONFIG.DND5E.spellSchools["trf"] = { label: "WANDS.SchoolTransfig"}; //Transfiguration
+	CONFIG.DND5E.spellSchools["hea"] = { label: "WANDS.SchoolHealing"}; //Healing
 	//Changing out deprecated 5e currencies to Wands & Wizards counterparts
 	CONFIG.DND5E.currencies.pp.label = "Ruby";
 	CONFIG.DND5E.currencies.gp.label = "Galleon";
