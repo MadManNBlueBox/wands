@@ -1,3 +1,5 @@
-2024/02/26-15:36:36.656 2d2c Recovering log #50
-2024/02/26-15:36:36.668 2d2c Delete type=0 #50
-2024/02/26-15:36:36.669 2d2c Delete type=3 #49
+2024/03/01-11:00:50.106 17ec Recovering log #59
+2024/03/01-11:00:50.106 17ec Level-0 table #61: started
+2024/03/01-11:00:50.116 17ec Level-0 table #61: 2246 bytes OK
+2024/03/01-11:00:50.126 17ec Delete type=0 #59
+2024/03/01-11:00:50.126 17ec Delete type=3 #58
