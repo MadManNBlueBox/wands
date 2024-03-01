@@ -10,7 +10,7 @@
 	"url": "https://github.com/MadManNBlueBox/wands",
 	"readme": "https://github.com/MadManNBlueBox/wands/blob/master/README.md",
 	"flags": {},
-	"version": "0.11.1",
+	"version": "0.11.2",
 	"minimumCoreVersion": "11",
 	"compatibleCoreVersion": "11",
 	"scripts": [],
@@ -129,10 +129,52 @@
 			"module": "wands"
 		}
 	],
+	"packFolders": [
+		{
+			"name": "WANDS",
+			"sorting": "m",
+			"color": "#000475",
+			"packs": [
+				"wands-roll-tables"
+			],
+			"folders": [
+				{
+					"name": "Wizard Features",
+					"sorting": "m",
+                    "color": "#000599",
+                    "packs": [
+						"casting-styles-and-schools-of-magic-wands",
+						"features-wands",
+						"backgrounds-wands",
+						"houses-wands"
+					]
+				},
+				{
+					"name": "Items & Spells",
+					"sorting": "m",
+                    "color": "#0107b7",
+                    "packs": [
+						"items-wands",
+						"spells-wands"
+					]
+				},
+				{
+					"name": "Magical Creatures",
+					"sorting": "m",
+                    "color": "#0006c2",
+                    "packs": [
+						"magical-pets-wands",
+						"monsters-wands",
+						"animagus-form-wands"
+					]
+				}
+			]
+		}
+	],
 	"system": ["dnd5e"],
 	"socket": false,
-	"manifest": "https://github.com/MadManNBlueBox/wands/releases/download/0.11.1/module.json",
-	"download": "https://github.com/MadManNBlueBox/wands/releases/download/0.11.1/module.zip",
+	"manifest": "https://github.com/MadManNBlueBox/wands/releases/download/0.11.2/module.json",
+	"download": "https://github.com/MadManNBlueBox/wands/releases/download/0.11.2/module.zip",
 	"protected": false,
 	"coreTranslation": false,
 	"library": false
