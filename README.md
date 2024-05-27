@@ -8,7 +8,7 @@ It adds compendiums including races known as Houses, classes known as Casting St
 **To install the module:**
 
 In FoundryVTT Configuration and Setup, go to the "Add-on Modules" tab. Select "Install Module", copy this URL:
-https://github.com/MadManNBlueBox/wands/releases/download/0.11.2/module.json
+https://github.com/MadManNBlueBox/wands/releases/download/0.11.3/module.json
 Paste the URL in the "Manifest URL" field, and click Install.
 This is unofficial Fan Content and not an official FoundryVTT module.
 
