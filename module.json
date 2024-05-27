@@ -10,9 +10,9 @@
 	"url": "https://github.com/MadManNBlueBox/wands",
 	"readme": "https://github.com/MadManNBlueBox/wands/blob/master/README.md",
 	"flags": {},
-	"version": "0.11.2",
+	"version": "0.11.3",
 	"minimumCoreVersion": "11",
-	"compatibleCoreVersion": "11",
+	"compatibleCoreVersion": "12",
 	"scripts": [],
 	"esmodules": ["./src/wandsandwizards.js"],
 	"styles": [
@@ -173,8 +173,8 @@
 	],
 	"system": ["dnd5e"],
 	"socket": false,
-	"manifest": "https://github.com/MadManNBlueBox/wands/releases/download/0.11.2/module.json",
-	"download": "https://github.com/MadManNBlueBox/wands/releases/download/0.11.2/module.zip",
+	"manifest": "https://github.com/MadManNBlueBox/wands/releases/download/0.11.3/module.json",
+	"download": "https://github.com/MadManNBlueBox/wands/releases/download/0.11.3/module.zip",
 	"protected": false,
 	"coreTranslation": false,
 	"library": false
