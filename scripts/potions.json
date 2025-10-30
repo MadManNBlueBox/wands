@@ -1,0 +1,216 @@
+{
+  "First Year Potions": {
+    "Antidote of Common Poisons": [
+      { "name": "galanthus nivalis", "quantity": 1 },
+      { "name": "mistletoe berry", "quantity": 1 },
+      { "name": "honeywater", "quantity": 1 },
+      { "name": "billywig sting", "quantity": 1 }
+    ],
+    "Blemish Blitzer": [
+      { "name": "nettle", "quantity": 1 },
+      { "name": "bubotuber pus", "quantity": 1 },
+      { "name": "flobberworm mucus", "quantity": 1 },
+      { "name": "porcupine quill", "quantity": 1 }
+    ],
+    "Confusing Concoction": [
+      { "name": "gurdyroot", "quantity": 1 },
+      { "name": "lovage", "quantity": 2 },
+      { "name": "ethanol", "quantity": 1 }
+    ],
+    "Forgetfulness Potion": [
+      { "name": "lovage", "quantity": 1 },
+      { "name": "mistletoe berry", "quantity": 1 },
+      { "name": "lethe river water", "quantity": 2 }
+    ],
+    "Herbicide Potion": [
+      { "name": "flobberworm mucus", "quantity": 1 },
+      { "name": "lionfish spine", "quantity": 1 },
+      { "name": "streeler shell", "quantity": 1 },
+      { "name": "doxy egg", "quantity": 1 }
+    ]
+  },
+  "Second Year Potions": {
+    "Doxycide": [
+      { "name": "cowbane", "quantity": 1 },
+      { "name": "hemlock", "quantity": 1 },
+      { "name": "bundimun secretion", "quantity": 1 },
+      { "name": "streeler shell", "quantity": 1 }
+    ],
+    "Dreamless Sleep Potion": [
+      { "name": "poppy head", "quantity": 1 },
+      { "name": "baneberry", "quantity": 1 },
+      { "name": "frog brain", "quantity": 1 },
+      { "name": "octopus", "quantity": 1 }
+    ],
+    "Elixir to Induce Euphoria": [
+      { "name": "peppermint", "quantity": 1 },
+      { "name": "shrivelfig", "quantity": 1 },
+      { "name": "wormwood infusion", "quantity": 1 },
+      { "name": "porcupine quill", "quantity": 1 }
+    ],
+    "Sleeping Draught": [
+      { "name": "angel's trumpet", "quantity": 1 },
+      { "name": "scurvy grass", "quantity": 1 },
+      { "name": "flobberworm mucus", "quantity": 1 }
+    ],
+    "Swelling Solution": [
+      { "name": "bat spleen", "quantity": 1 },
+      { "name": "nettle", "quantity": 1 },
+      { "name": "pufferfish eye", "quantity": 1 },
+      { "name": "exploding ginger eyelash", "quantity": 1 }
+    ]
+  },
+  "Third Year Potions": {
+    "Antidote of Uncommon Poisons": [
+      { "name": "fire seed", "quantity": 1 },
+      { "name": "billywig sting", "quantity": 1 },
+      { "name": "chizpurfle carapace", "quantity": 1 }
+    ],
+    "Baneberry Poison": [
+      { "name": "cowbane", "quantity": 1 },
+      { "name": "shrivelfig", "quantity": 1 },
+      { "name": "baneberry", "quantity": 2 }
+    ],
+    "Girding Potion": [
+      { "name": "fairy wing", "quantity": 1 },
+      { "name": "flying seahorse", "quantity": 1 },
+      { "name": "doxy egg", "quantity": 1 }
+    ],
+    "Shrinking Solution": [
+      { "name": "cowbane", "quantity": 1 },
+      { "name": "shrivelfig", "quantity": 1 },
+      { "name": "wormwood infusion", "quantity": 1 },
+      { "name": "woodlice extract", "quantity": 1 }
+    ],
+    "Wiggenweld Potion": [
+      { "name": "wiggentree bark", "quantity": 1 },
+      { "name": "honeywater", "quantity": 1 },
+      { "name": "root of asphodel", "quantity": 1 }
+    ]
+  },
+  "Fourth Year Potions": {
+    "Aging Potion": [
+      { "name": "bursting mushroom", "quantity": 1 },
+      { "name": "newt spleen", "quantity": 1 },
+      { "name": "chizpurfle carapace", "quantity": 1 }
+    ],
+    "Fire Protection Potion": [
+      { "name": "bursting mushroom", "quantity": 1 },
+      { "name": "wartcap", "quantity": 1 },
+      { "name": "salamander blood", "quantity": 1 }
+    ],
+    "Garrotting Gas": [
+      { "name": "bundimun secretion", "quantity": 1 },
+      { "name": "ethanol", "quantity": 1 },
+      { "name": "wartcap", "quantity": 1 },
+      { "name": "exploding ginger eyelash", "quantity": 1 }
+    ],
+    "Pepperup Potion": [
+      { "name": "boom berry", "quantity": 1 },
+      { "name": "ethanol", "quantity": 1 },
+      { "name": "vervain infusion", "quantity": 1 },
+      { "name": "octopus", "quantity": 1 }
+    ],
+    "Wound-Cleaning Potion": [
+      { "name": "star grass", "quantity": 1 },
+      { "name": "vervain infusion", "quantity": 1 },
+      { "name": "staghorn mushroom", "quantity": 1 },
+      { "name": "spirit of myrrh", "quantity": 1 }
+    ]
+  },
+  "Fifth Year Potions": {
+    "Befuddlement Draught": [
+      { "name": "lovage", "quantity": 1 },
+      { "name": "scurvy grass", "quantity": 1 },
+      { "name": "sneezewort", "quantity": 1 }
+    ],
+    "Draught of Peace": [
+      { "name": "porcupine quill", "quantity": 1 },
+      { "name": "moonstone", "quantity": 1 },
+      { "name": "syrup of hellebore", "quantity": 1 }
+    ],
+    "Murtlap Essence": [
+      { "name": "murtlap tentacle", "quantity": 2 },
+      { "name": "spirit of myrrh", "quantity": 1 }
+    ],
+    "Noxious Potion": [
+      { "name": "angel's trumpet", "quantity": 1 },
+      { "name": "moonseed berry", "quantity": 1 },
+      { "name": "syrup of hellebore", "quantity": 1 }
+    ],
+    "Strengthening Solution": [
+      { "name": "re'em blood", "quantity": 1 },
+      { "name": "fanged geranium fang", "quantity": 1 },
+      { "name": "salamander blood", "quantity": 1 }
+    ]
+  },
+  "Sixth Year Potions": {
+    "Draught of Living Death": [
+      { "name": "valerian root", "quantity": 2 },
+      { "name": "root of asphodel", "quantity": 1 },
+      { "name": "sloth brain", "quantity": 1 },
+      { "name": "sopophorous bean", "quantity": 2 },
+      { "name": "african sea salt", "quantity": 1 }
+    ],
+    "Erumpent Potion": [
+      { "name": "venomous tentacula leaf", "quantity": 1 },
+      { "name": "fire seed", "quantity": 1 },
+      { "name": "erumpent horn", "quantity": 2 },
+      { "name": "exploding ginger eyelash", "quantity": 1 }
+    ],
+    "Memory Potion": [
+      { "name": "galanthus nivalis", "quantity": 1 },
+      { "name": "sneezewort", "quantity": 1 },
+      { "name": "jobberknoll feather", "quantity": 1 }
+    ],
+    "Polyjuice Potion": [
+      { "name": "boomslang skin", "quantity": 1 },
+      { "name": "full-moon fluxweed", "quantity": 1 },
+      { "name": "knotgrass", "quantity": 2 },
+      { "name": "lacewing fly", "quantity": 1 },
+      { "name": "bicorn horn", "quantity": 1 },
+      { "name": "sopophorous bean", "quantity": 1 }
+    ],
+    "Skele-Gro": [
+      { "name": "chinese chomping cabbage", "quantity": 1 },
+      { "name": "pufferfish eye", "quantity": 1 },
+      { "name": "murtlap tentacle", "quantity": 1 },
+      { "name": "griffin claw", "quantity": 1 },
+      { "name": "scarab beetle", "quantity": 1 }
+    ]
+  },
+  "Seventh Year Potions": {
+    "Essence of Insanity": [
+      { "name": "weed-of-sorrows", "quantity": 1 },
+      { "name": "runespoor egg", "quantity": 1 },
+      { "name": "giant purple toad wart", "quantity": 1 },
+      { "name": "belladonna essence", "quantity": 1 },
+      { "name": "syrup of arnica", "quantity": 1 }
+    ],
+    "Invisibility Potion": [
+      { "name": "boomslang skin", "quantity": 2 },
+      { "name": "unicorn hair", "quantity": 1 },
+      { "name": "african sea salt", "quantity": 1 },
+      { "name": "doxy egg", "quantity": 1 }
+    ],
+    "Mandrake Restorative Draught": [
+      { "name": "mandrake root", "quantity": 3 },
+      { "name": "chizpurfle carapace", "quantity": 1 },
+      { "name": "spirit of myrrh", "quantity": 1 }
+    ],
+    "Weedosoros": [
+      { "name": "hemlock", "quantity": 1 },
+      { "name": "valerian root", "quantity": 1 },
+      { "name": "weed-of-sorrows", "quantity": 1 },
+      { "name": "belladonna essence", "quantity": 1 },
+      { "name": "syrup of arnica", "quantity": 1 }
+    ],
+    "Wit-Sharpening Potion": [
+      { "name": "runespoor egg", "quantity": 1 },
+      { "name": "newt spleen", "quantity": 1 },
+      { "name": "dragon claw", "quantity": 1 },
+      { "name": "scarab beetle", "quantity": 1 },
+      { "name": "sloth brain", "quantity": 1 }
+    ]
+  }
+}

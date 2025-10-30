@@ -1,0 +1,112 @@
+{
+  "name": "Wolfsbane Potion",
+  "type": "consumable",
+  "img": "icons/consumables/potions/potion-tube-corked-bat-gold-red.webp",
+  "effects": [],
+  "folder": "WnIyLJ4y3sjWvVoi",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>When a lycanthrope drinks this potion once a day for the entire week before the full moon, their alignment does not change and they are not placed under HM control during their transformation. If the drinker misses a single dose in the preceding week, the potion has no effect.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "W&W p.47"
+    },
+    "quantity": 1,
+    "weight": 0.5,
+    "price": {
+      "value": 250,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "veryRare",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "charges",
+      "autoDestroy": true,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null,
+      "scale": false
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "type": {
+      "value": "potion",
+      "subtype": ""
+    },
+    "container": null,
+    "cover": null,
+    "crewed": false,
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "HJtvMnewDM77SRUs": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995425054,
+    "modifiedTime": 1708586944941,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "94kFPYA3wPMZcyuB",
+  "sort": 300000,
+  "_key": "!items!94kFPYA3wPMZcyuB"
+}

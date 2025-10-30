@@ -1,0 +1,112 @@
+{
+  "name": "Fatiguing Fusion",
+  "type": "consumable",
+  "img": "icons/consumables/potions/potion-tube-corked-blue.webp",
+  "effects": [],
+  "folder": "WnIyLJ4y3sjWvVoi",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>A creature that ingests or inhales this tiresome poison must succeed on a DC 13 Constitution saving throw or gain 3 levels of exhaustion. This poison cannot cause you to reach more than 5 levels of exhaustion.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "W&W p.44"
+    },
+    "quantity": 1,
+    "weight": 0.5,
+    "price": {
+      "value": 250,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "charges",
+      "autoDestroy": true,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null,
+      "scale": false
+    },
+    "ability": "con",
+    "actionType": "save",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "con",
+      "dc": 13,
+      "scaling": "flat"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "type": {
+      "value": "potion",
+      "subtype": ""
+    },
+    "container": null,
+    "cover": null,
+    "crewed": false,
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "HJtvMnewDM77SRUs": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424878,
+    "modifiedTime": 1708586944941,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "47ZQr17DAoDArsBw",
+  "sort": 4200000,
+  "_key": "!items!47ZQr17DAoDArsBw"
+}

@@ -1,0 +1,107 @@
+{
+  "name": "Athlete",
+  "type": "feat",
+  "img": "icons/skills/melee/unarmed-punch-fist.webp",
+  "effects": [],
+  "folder": "kBrkVEaWAkteheSS",
+  "flags": {
+    "plutonium": {
+      "page": "feats.html",
+      "source": "PHB",
+      "hash": "athlete_phb"
+    },
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<div>\n<div class=\"rd__b  rd__b--3\">\n<p>You have undergone extensive physical training to gain the following benefits:</p>\n<div class=\"rd__spc-inline-post\"> </div>\n<ul class=\"rd__list\">\n<li class=\"rd__li \">Increase your Strength or Dexterity by 1, to a maximum of 20.</li>\n<li class=\"rd__li \">When you are prone, standing up uses only 5 feet of your movement.</li>\n<li class=\"rd__li \">Climbing doesn't cost you extra movement.</li>\n<li class=\"rd__li \">You can make a running long jump or a running high jump after moving only 5 feet on foot, rather than 10 feet.</li>\n</ul>\n</div>\n</div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "PHB p.165"
+    },
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": 0,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null,
+      "scale": false
+    },
+    "ability": "",
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    },
+    "requirements": "",
+    "recharge": {
+      "value": null,
+      "charged": true
+    },
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "N8RgN1jdDFyXuWNq": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424892,
+    "modifiedTime": 1708584123896,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "Hz9ldrmSkBrFwpLE",
+  "sort": 300000,
+  "_key": "!items!Hz9ldrmSkBrFwpLE"
+}

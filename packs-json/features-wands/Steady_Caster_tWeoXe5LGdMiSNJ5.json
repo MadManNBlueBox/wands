@@ -1,0 +1,102 @@
+{
+  "name": "Steady Caster",
+  "type": "feat",
+  "img": "icons/skills/melee/hand-grip-staff-yellow-brown.webp",
+  "effects": [],
+  "folder": "kBrkVEaWAkteheSS",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>You're able to maintain focus, even in stressful situations. You have advantage on Constitution saving throws that you make to maintain concentration on a spell when you take damage.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "W&W p.50"
+    },
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null,
+      "scale": false
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    },
+    "requirements": "",
+    "recharge": {
+      "value": null,
+      "charged": false
+    },
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "N8RgN1jdDFyXuWNq": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424833,
+    "modifiedTime": 1708584148372,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "tWeoXe5LGdMiSNJ5",
+  "sort": 1900000,
+  "_key": "!items!tWeoXe5LGdMiSNJ5"
+}

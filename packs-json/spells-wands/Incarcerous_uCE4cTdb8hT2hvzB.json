@@ -1,0 +1,110 @@
+{
+  "_id": "uCE4cTdb8hT2hvzB",
+  "name": "Incarcerous",
+  "type": "spell",
+  "img": "icons/magic/nature/root-vine-entangle-foot-green.webp",
+  "effects": [],
+  "folder": "nkdO00rwGm5WtwMN",
+  "sort": 100000,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Black cords and ropes are conjured and wrap themselves forcefully around a target you can see within range. If the target is an unwilling creature, it must make a Strength saving throw. On a failed save, the creature is restrained for the duration. Upon casting, you can choose to anchor the ropes to the ground, preventing the target from being moved by external forces.</p>\n<p>The restrained creature or someone else who can reach it can use an action to make a Strength check against your spell save DC. On a success, the restrained effect ends.</p>\n<p><em><strong>At Higher Levels.</strong></em> When you cast this spell using a spell slot of 4th level or higher, the creature is also incapacitated, rendering it unable make a Strength check to escape.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.76",
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": 24,
+      "units": "hour"
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": 30,
+      "long": null,
+      "units": "ft"
+    },
+    "uses": {
+      "value": null,
+      "max": null,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "save",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": null
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "str",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "level": 2,
+    "school": "trf",
+    "components": {
+      "value": "",
+      "vocal": true,
+      "somatic": true,
+      "material": false,
+      "ritual": false,
+      "concentration": false
+    },
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "scaling": {
+      "mode": "level",
+      "formula": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995425217,
+    "modifiedTime": 1709155581658,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Compendium.waw.spells-wandw.k8f7Pn8qWIqmhmJC",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!uCE4cTdb8hT2hvzB"
+}

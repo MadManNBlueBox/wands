@@ -1,0 +1,110 @@
+{
+  "name": "Sonorus/Quietus",
+  "type": "spell",
+  "img": "icons/skills/toxins/cup-goblet-poisoned-spilled.webp",
+  "effects": [],
+  "folder": "B9e8v8Eqsm3HuZzJ",
+  "sort": 1500000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "fs9b0l8eAJBKmqH9",
+  "system": {
+    "description": {
+      "value": "<p>When you hold the tip of your wand to your neck and cast this spell, your voice booms up to three times as loud as normal. Your voice is loud enough to fill a large stadium, but won't cause any hearing damage. Casting quietus with your wand to your throat is the counter-charm and ends the effect.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.83",
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": "(active until dispelled)"
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": "self"
+    },
+    "uses": {
+      "value": null,
+      "max": null,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": null
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "level": 0,
+    "school": "cha",
+    "components": {
+      "value": "",
+      "vocal": true,
+      "somatic": true,
+      "material": false,
+      "ritual": false,
+      "concentration": false
+    },
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "scaling": {
+      "mode": "none",
+      "formula": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995425161,
+    "modifiedTime": 1709155146270,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Compendium.waw.spells-wandw.8XEfUA4GIcTlLMYr",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!fs9b0l8eAJBKmqH9"
+}

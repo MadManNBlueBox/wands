@@ -1,0 +1,110 @@
+{
+  "_id": "XKcgpYlHVknc8TiD",
+  "name": "Obliviate",
+  "type": "spell",
+  "img": "icons/magic/control/energy-stream-link-white.webp",
+  "effects": [],
+  "folder": "1crSeXZMenf9H1UB",
+  "sort": 300000,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>You attempt to reshape another being's memories. One being you can see within range must make a Wisdom saving throw. If you are fighting the creature, it has advantage on the saving throw. On a failed save, the target becomes charmed by you for the duration. The charmed target is incapacitated and unaware of its surroundings, though it can still hear you. If it takes any damage or is targeted by another spell, this spell ends, and none of the target's memories are modified.</p>\n<p>You can eliminate the target's memory of an event or detail (or any individual aspect of that event or detail) that it experienced or perceived within the last 24 hours and that lasted no more than 10 minutes.</p>\n<p>You must mentally describe or visualize how the memories are affected. The being's mind fills in any gaps in the details of your description. If the spell ends before you have finished describing or visualizing the modified memories, the target’s memory isn’t altered. Otherwise, the modified memories take hold when the spell ends.</p>\n<p>A modified memory doesn't necessarily affect how a being behaves, particularly if the memory contradicts the creature's natural inclinations, alignment, or beliefs. An illogical modified memory, such as erasing all memory of how they were transported to and from a location, is dismissed by the target, perhaps as a bad dream. The HM might deem a modified memory too nonsensical to affect a being in a significant manner.</p>\n<p>A vulnera sanentur or obliviate spell cast on the target restores the creature's true memory.</p>\n<p><strong>At Higher Levels.</strong> If you cast this spell using a spell slot of 6th level or higher, you can eliminate the target's memories of an event that took place up to 7 days ago (6th level), 30 days ago (7th level), 1 year ago (8th level), or any time in the creature's past (9th level). Alternatively, you can eliminate a detail or topic in all memories across those same time frames.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.80",
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": 1,
+      "units": "minute"
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": 30,
+      "long": null,
+      "units": "ft"
+    },
+    "uses": {
+      "value": null,
+      "max": null,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": null
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "level": 5,
+    "school": "cha",
+    "components": {
+      "value": "",
+      "vocal": true,
+      "somatic": true,
+      "material": false,
+      "ritual": false,
+      "concentration": true
+    },
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "scaling": {
+      "mode": "level",
+      "formula": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995425085,
+    "modifiedTime": 1709154889519,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Compendium.waw.spells-wandw.ScgJRJudzZNIeNWB",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!XKcgpYlHVknc8TiD"
+}

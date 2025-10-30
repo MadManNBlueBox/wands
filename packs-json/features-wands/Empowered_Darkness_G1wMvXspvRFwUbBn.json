@@ -1,0 +1,101 @@
+{
+  "name": "Empowered Darkness",
+  "type": "feat",
+  "img": "icons/magic/death/undead-ghost-scream-teal.webp",
+  "effects": [],
+  "folder": "cVVwqz2mnpY5I8ZU",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>When you have @UUID[Compendium.dnd5e.classfeatures.Item.IWpe0Y9uAStHGiH1]{Empowered Spell} as one of your metamagic options and use it on a Dark spell, it costs 0 sorcery points.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "W&W p.54"
+    },
+    "activation": {
+      "type": "special",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null,
+      "scale": false
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    },
+    "requirements": "Pragmatic Corruption",
+    "recharge": {
+      "value": null,
+      "charged": false
+    },
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424832,
+    "modifiedTime": 1708980131743,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "G1wMvXspvRFwUbBn",
+  "sort": 100000,
+  "_key": "!items!G1wMvXspvRFwUbBn"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Troublemaker",
+  "sorting": "a",
+  "folder": "CkghkUALJpaMfoup",
+  "type": "RollTable",
+  "_id": "n8EyrfzBwmACsoDw",
+  "sort": 1000000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "11.315",
+    "createdTime": 1709156756807,
+    "modifiedTime": 1709156805982,
+    "lastModifiedBy": "6KPKvdrxQhprt6if"
+  },
+  "_key": "!folders!n8EyrfzBwmACsoDw"
+}

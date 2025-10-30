@@ -1,0 +1,35 @@
+{
+  "_id": "9b4b917f428ce548",
+  "_key": "!items!9b4b917f428ce548",
+  "name": "Potion Book — First Year Potions",
+  "type": "loot",
+  "img": "icons/sundries/books/book-clasp-spiral-green.webp",
+  "effects": [],
+  "folder": "14e95fa39206684c",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<h2>First Year Potions</h2>\n<p>This book contains recipes and ingredients for the First Year Potions curriculum.</p>\n<hr/>\n<h3>@UUID[Compendium.wands.items-wands.Item.l4NJDA43TZHjSwFO]{Antidote of Common Poisons}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.884fb4f43debadd7]{galanthus nivalis} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.f3014cce75e93ea2]{mistletoe berry} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.e7938c6198a3822a]{honeywater} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.4f71afcb39b778d6]{billywig sting} &times; 1</li>\n</ul>\n<h3>@UUID[Compendium.wands.items-wands.Item.ylkXrCkNOJofGzJg]{Blemish Blitzer}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.4a332bdd692bdca9]{nettle} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.d433dc532ea900ee]{bubotuber pus} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.f4c3802951ad1568]{flobberworm mucus} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.68fa500f8013ef84]{porcupine quill} &times; 1</li>\n</ul>\n<h3>@UUID[Compendium.wands.items-wands.Item.kMuvqAHWCk6NhpyA]{Confusing Concoction}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.c52cc24443b63ad1]{gurdyroot} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.a642c9e47440e609]{lovage} &times; 2</li>\n<li>@UUID[Compendium.wands.items-wands.Item.9378a351012f1ccc]{ethanol} &times; 1</li>\n</ul>\n<h3>@UUID[Compendium.wands.items-wands.Item.lnSf6pxkdhfenhrY]{Forgetfulness Potion}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.a642c9e47440e609]{lovage} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.f3014cce75e93ea2]{mistletoe berry} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.89dda1fb475fd95f]{lethe river water} &times; 2</li>\n</ul>\n<h3>@UUID[Compendium.wands.items-wands.Item.LkmfTNvHM6p9R24P]{Herbicide Potion}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.f4c3802951ad1568]{flobberworm mucus} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.e329d212f7c86306]{lionfish spine} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.4e4f583ac0284f89]{streeler shell} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.76f5fa01c8f70a0b]{doxy egg} &times; 1</li>\n</ul>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Generated from potion-recipes.json"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "properties": []
+  },
+  "ownership": {
+    "default": 0
+  }
+}

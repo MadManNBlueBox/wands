@@ -1,0 +1,53 @@
+{
+  "_id": "go37HRtaoIuvMuLv",
+  "name": "Artist",
+  "type": "background",
+  "img": "icons/tools/hand/brush-paint-pink.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>You see yourself as an observer of the world around you, capturing little glimpses of that world. You express yourself through those glimpses, satisfying your need to create and communicating your own unique perspective. Your chosen medium might be magically developed moving photographs, a painted portrait with a personality, a bewitched sculpture or even enchanted cartography.</p><hr style=\"border-top:1px solid var(--color-border-light-primary);border-bottom:1px solid var(--color-border-light-highlight)\" /><p><strong>Skill Proficiencies:</strong> Insight, Performance</p><p><strong>Equipment: </strong>The tools of the art medium of your choice (e.g. painter's supplies, musical instrument, costume, etc.), and a sketch pad with charcoal sticks</p><p><strong>Feature:</strong> @UUID[Compendium.wands.backgrounds-wands.Item.QwxIaXS4EWie4g32]{Apprentice}</p><hr style=\"border-top:1px solid var(--color-border-light-primary);border-bottom:1px solid var(--color-border-light-highlight)\" /><h3>Wand Characteristics</h3><p>@Compendium[wands.wands-roll-tables.BpF2x9JLGIrtWWJV]{Artist - Wood (Personality Traits)}</p><p>@Compendium[wands.wands-roll-tables.dGK1IzVmbELM56nB]{Artist - Core (Ideal)}</p><p>@Compendium[wands.wands-roll-tables.WAViVaKrvumFGoYz]{Artist - Length (Bond)}</p><p>@Compendium[wands.wands-roll-tables.FN8pyTc0R4uzUcnI]{Artist - Flexibility (Flaw)}</p><hr style=\"border-top:1px solid var(--color-border-light-primary);border-bottom:1px solid var(--color-border-light-highlight)\" /><h3>Variant</h3><p>@UUID[Compendium.wands.backgrounds-wands.Item.ZOIUrcJ43WAbF6zl]{Performer}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.29",
+    "advancement": [
+      {
+        "_id": "93ayq5f90cjulw9x",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.backgrounds-wands.Item.QwxIaXS4EWie4g32"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Feature",
+        "icon": null
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424843,
+    "modifiedTime": 1708976023060,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Item.fXmAyHRPZDk5h7tJ",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!go37HRtaoIuvMuLv"
+}

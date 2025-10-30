@@ -1,0 +1,110 @@
+{
+  "_id": "s3In5r0Pv73RIgxd",
+  "name": "Klutz - Flexibility (Flaw)",
+  "img": "icons/commodities/materials/hair-tuft-brown.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "0jIEhXdw07oRRSDz",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Inflexible: I am slow to trust that others' words are sincere, because of some bad experiences.",
+      "name": "",
+      "_key": "!tables.results!s3In5r0Pv73RIgxd.0jIEhXdw07oRRSDz"
+    },
+    {
+      "_id": "fkUIz6NhqQfbIhpn",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Slightly Pliant: I follow the rules, even if they aren't what's best.",
+      "name": "",
+      "_key": "!tables.results!s3In5r0Pv73RIgxd.fkUIz6NhqQfbIhpn"
+    },
+    {
+      "_id": "HwY3T9W8bltjcNUS",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Very Supple: I'm always putting my foot in my mouth, invariably insulting or embarrassing others.",
+      "name": "",
+      "_key": "!tables.results!s3In5r0Pv73RIgxd.HwY3T9W8bltjcNUS"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "i9GaPu99jBLcimYX",
+  "sort": 200000,
+  "flags": {
+    "core": {}
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156655988,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "RollTable.ghwC0oR4Cmij68hZ",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!s3In5r0Pv73RIgxd"
+}

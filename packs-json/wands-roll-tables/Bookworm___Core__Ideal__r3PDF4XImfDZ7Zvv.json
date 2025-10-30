@@ -1,0 +1,110 @@
+{
+  "name": "Bookworm - Core (Ideal)",
+  "img": "icons/sundries/books/book-plain-orange.webp",
+  "results": [
+    {
+      "_id": "igwU52EMt09JQgVM",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unicorn Hair: Creativity. The world is in need of new ideas and bold action.",
+      "name": "",
+      "_key": "!tables.results!r3PDF4XImfDZ7Zvv.igwU52EMt09JQgVM"
+    },
+    {
+      "_id": "fXMk6OHAgHRaNPP5",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dragon Heartstring: Knowledge. The path to power and self-improvement is through knowledge.",
+      "name": "",
+      "_key": "!tables.results!r3PDF4XImfDZ7Zvv.fXMk6OHAgHRaNPP5"
+    },
+    {
+      "_id": "T6uyEg0LGS1pvhJX",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Phoenix Feather: Self-improvement. The goal of a life of study is the betterment of oneself.",
+      "name": "",
+      "_key": "!tables.results!r3PDF4XImfDZ7Zvv.T6uyEg0LGS1pvhJX"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "immZOdtHQM7E6W3M",
+  "sort": 100000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "r3PDF4XImfDZ7Zvv",
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156585446,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "RollTable.iQ5WEIXmUR1bVWWT",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!r3PDF4XImfDZ7Zvv"
+}

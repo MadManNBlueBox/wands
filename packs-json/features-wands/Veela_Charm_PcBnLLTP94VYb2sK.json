@@ -1,0 +1,102 @@
+{
+  "name": "Veela Charm",
+  "type": "feat",
+  "img": "icons/commodities/currency/coin-engraved-sun-smile-copper.webp",
+  "effects": [],
+  "folder": "kBrkVEaWAkteheSS",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Just like part-giants, it’s very rare to find a part-veela. A wizard or witch who inherited veela blood will almost always be the center of attention, a picture of grace and beauty. Unlike half-veela or quarter-veela, part-veela are just as likely to be male as female.</p>\n<ul>\n<li>You gain proficiency in one Charisma skill of your choice.</li>\n<li>As an action, you can attempt to charm a humanoid you can see within 30 ft, who would be attracted to you. It must make a Wisdom saving throw, (if hostile, with advantage). If it fails, it is Charmed by you for one hour or until you or your companions harm it. The Charmed creature regards you as a friendly acquaintance and feels compelled to impress you or receive your attention. After, the creature knows it was Charmed by you. You can’t use this ability again until you finish a long rest.</li>\n</ul>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "W&W p.50"
+    },
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null,
+      "scale": false
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    },
+    "requirements": "Innate Feat",
+    "recharge": {
+      "value": null,
+      "charged": false
+    },
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "N8RgN1jdDFyXuWNq": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424837,
+    "modifiedTime": 1708584151747,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "PcBnLLTP94VYb2sK",
+  "sort": 150000,
+  "_key": "!items!PcBnLLTP94VYb2sK"
+}

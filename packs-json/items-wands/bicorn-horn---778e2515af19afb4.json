@@ -1,0 +1,35 @@
+{
+    "_id": "778e2515af19afb4",
+    "_key": "!items!778e2515af19afb4",
+    "name": "bicorn horn",
+    "type": "loot",
+    "img": "icons/commodities/bones/horn-antler-brown.webp",
+    "effects": [],
+    "folder": "8b9356509439cbd8",
+    "flags": {
+        "core": {}
+    },
+    "system": {
+        "description": {
+            "value": "<p>Alchemy ingredient.</p><p><strong>Rarity:</strong> common</p><hr/><p><strong>Used in:</strong><br>@UUID[Compendium.wands.items-wands.Item.LWyajeY6pJnCJ7U0]{Polyjuice Potion}</p>",
+            "chat": ""
+        },
+        "source": {
+            "custom": "Generated from potion-recipes.json"
+        },
+        "quantity": 1,
+        "weight": 0.1,
+        "price": {
+            "value": 0.5,
+            "denomination": "gp"
+        },
+        "attunement": 0,
+        "equipped": false,
+        "rarity": "common",
+        "identified": true,
+        "properties": []
+    },
+    "ownership": {
+        "default": 0
+    }
+}

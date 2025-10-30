@@ -1,0 +1,115 @@
+{
+  "name": "Vulnera Sanentur",
+  "type": "spell",
+  "img": "icons/magic/life/ankh-gold-blue.webp",
+  "effects": [],
+  "folder": "WYE2MbvtBLtxF1hD",
+  "sort": 100000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "g4z9ulU4uWkk4bHr",
+  "system": {
+    "description": {
+      "value": "<p>Tracing your wand over a being's wounds, you weave a complex counter-curse that undoes the damage dealt to a being. The target regains four times your spellcasting ability modifier + 4d8 hit points instantaneously, and then [[/r 4d4]] hit points for every following turn for the duration of the spell.</p>\n<p>If the target has lost body members (fingers, legs, and so on) and the severed part is held to its place throughout the entire duration of the spell, the spell causes the limb to heal back on after 1 minute of casting.</p>\n<p><strong>At Higher Levels.</strong> When you cast this spell using a spell slot of 7th level or higher, the instantaneous healing increases by 1d8 and the subsequent healing increases by [[/r 3d4]] for each slot level above 6th.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.84",
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": 1,
+      "units": "minute"
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": "touch"
+    },
+    "uses": {
+      "value": null,
+      "max": null,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "heal",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": null
+    },
+    "damage": {
+      "parts": [
+        [
+          "4d8+@mod",
+          "healing"
+        ]
+      ],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "level": 6,
+    "school": "hea",
+    "components": {
+      "value": "",
+      "vocal": true,
+      "somatic": true,
+      "material": false,
+      "ritual": false,
+      "concentration": true
+    },
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "scaling": {
+      "mode": "none",
+      "formula": "1d8"
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995425166,
+    "modifiedTime": 1709155752885,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Compendium.waw.spells-wandw.n56NLeJlstcmgo4p",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!g4z9ulU4uWkk4bHr"
+}

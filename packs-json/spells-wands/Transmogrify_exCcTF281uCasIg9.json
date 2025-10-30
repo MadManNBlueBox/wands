@@ -1,0 +1,115 @@
+{
+  "name": "Transmogrify",
+  "type": "spell",
+  "img": "icons/magic/acid/dissolve-drip-droplet-smoke.webp",
+  "effects": [],
+  "folder": "DTvOsPeei4fc4ais",
+  "sort": 200000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "exCcTF281uCasIg9",
+  "system": {
+    "description": {
+      "value": "<p>A dark purpose for transfiguration, this tortuous spell slowly rearranges and dissolves a creature's internal organs. A creature you can see within range must make a Constitution saving throw. On a failed save, it takes 2d12 acid damage at the start of each of its turns and is subject to crippling pain. On a successful save, the spell has no effect.</p>\n<p>While the target is affected by crippling pain, any speed it has can be no higher than 10 feet. The target also has disadvantage on attack rolls and ability checks. Finally, if the target tries to cast a spell, it must first succeed on a Constitution saving throw, or the casting fails and the spell is wasted.</p>\n<p>A target suffering from this spell can make a Constitution saving throw at the end of each of its turns. On a successful save, the spell ends.</p>\n<p>At Higher Levels. When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d12 for each slot level above 5th.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.83",
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": 1,
+      "units": "minute"
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": 30,
+      "long": null,
+      "units": "ft"
+    },
+    "uses": {
+      "value": null,
+      "max": null,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "save",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": null
+    },
+    "damage": {
+      "parts": [
+        [
+          "2d12",
+          "acid"
+        ]
+      ],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "con",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "level": 5,
+    "school": "trf",
+    "components": {
+      "value": "",
+      "vocal": true,
+      "somatic": true,
+      "material": false,
+      "ritual": false,
+      "concentration": true
+    },
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "scaling": {
+      "mode": "level",
+      "formula": "1d12"
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995425157,
+    "modifiedTime": 1709155612644,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Compendium.waw.spells-wandw.rJ0lRM2FNfUB47mf",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!exCcTF281uCasIg9"
+}

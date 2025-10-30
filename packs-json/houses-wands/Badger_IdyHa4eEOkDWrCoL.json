@@ -1,0 +1,127 @@
+{
+  "folder": null,
+  "name": "Badger",
+  "type": "race",
+  "img": "icons/magic/light/beam-rays-orange-small.webp",
+  "system": {
+    "description": {
+      "value": "<p>Badgers value hard work, patience, loyalty, and fair play, represented by the sturdy badger. Although often disparaged by others for their lack of competitiveness, the house has produced great wizards – not least Newt Scamander, notable magizoologist and author. Badger's house colors are yellow and black.</p><h2>Compassion and Empathy</h2><p>Badgers value people and community. They base their decisions on who is in need and who they can help. They value fairness because everyone is a person. Even directly wronged, Badgers will often give a second (or fifth) chance.</p><p>But Badgers aren't inherently tolerant, like Lions aren't inherently moral. They believe that all people deserve some type of kindness or decency, but they can redefine \"person\" to exclude anyone who doesn't meet their standards.</p><h2>Hard Workers</h2><p>Badgers toil. Their strength comes from consistency and the integrity of their method. They have a certain steadiness, naturally becoming the lynchpin of a community. While stereotyped as being social, a Badger might also be an introverted misanthrope who runs on hard work alone.</p><h2>Badger Traits</h2><p>You can rely on them to have certain attributes in common.</p><p><strong>Ability Score Increase.</strong> Your Constitution score, Wisdom score, and one other ability score of choice increase by 1.</p><p><strong>Steadfast Loyalty.</strong> You have advantage on saving throws against any effect that would make you attack or work against a creature you would normally consider an ally.</p><p><strong>Kitchen Trips.</strong> Your experience with the British Magical School house elves has taught you how to politely address and interact with magical beings. Oh, and you can get tons of snacks.</p><p><strong>Feat.</strong> You gain one feat of your choice.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "W&W",
+      "page": "p.4",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [
+      {
+        "type": "AbilityScoreImprovement",
+        "_id": "0kiY7wt6ilE0zDoq",
+        "configuration": {
+          "points": 1,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 1,
+            "int": 0,
+            "wis": 1,
+            "cha": 0
+          },
+          "cap": 2
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 0,
+        "title": "",
+        "icon": null
+      },
+      {
+        "type": "Size",
+        "_id": "VaAPVjB9bj0YMy4G",
+        "configuration": {
+          "sizes": [
+            "med"
+          ]
+        },
+        "level": 0,
+        "value": {}
+      },
+      {
+        "type": "Trait",
+        "configuration": {
+          "grants": [
+            "languages:standard:common"
+          ],
+          "mode": "default",
+          "allowReplacements": false,
+          "choices": []
+        },
+        "_id": "HvG4sj44CKyEpkCz",
+        "level": 0,
+        "value": {
+          "chosen": []
+        }
+      },
+      {
+        "_id": "8Vj1WhVAgI9UEHco",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.features-wands.Item.etnNvxwkSCNrcHAW",
+            "Compendium.wands.features-wands.Item.j5gs4q6ayH0Yr276"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Features",
+        "icon": null
+      }
+    ],
+    "movement": {
+      "burrow": null,
+      "climb": null,
+      "fly": null,
+      "swim": null,
+      "walk": 30,
+      "units": null,
+      "hover": false
+    },
+    "senses": {
+      "darkvision": null,
+      "blindsight": null,
+      "tremorsense": null,
+      "truesight": null,
+      "units": null,
+      "special": ""
+    },
+    "type": {
+      "value": "humanoid"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1708493260970,
+    "modifiedTime": 1708628542459,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "IdyHa4eEOkDWrCoL",
+  "sort": 800000,
+  "_key": "!items!IdyHa4eEOkDWrCoL"
+}

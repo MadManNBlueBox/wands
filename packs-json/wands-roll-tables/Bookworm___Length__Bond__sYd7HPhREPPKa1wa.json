@@ -1,0 +1,110 @@
+{
+  "name": "Bookworm - Length (Bond)",
+  "img": "icons/sundries/books/book-plain-orange.webp",
+  "results": [
+    {
+      "_id": "igwU52EMt09JQgVM",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "10\": I want my life's work to be magical textbooks related to a specific field.",
+      "name": "",
+      "_key": "!tables.results!sYd7HPhREPPKa1wa.igwU52EMt09JQgVM"
+    },
+    {
+      "_id": "fXMk6OHAgHRaNPP5",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "12.5\": I've been searching my whole life for the answer to a certain question.",
+      "name": "",
+      "_key": "!tables.results!sYd7HPhREPPKa1wa.fXMk6OHAgHRaNPP5"
+    },
+    {
+      "_id": "T6uyEg0LGS1pvhJX",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "13\": My family has an ancient text of terrible secrets that must not fall into the wrong hands.",
+      "name": "",
+      "_key": "!tables.results!sYd7HPhREPPKa1wa.T6uyEg0LGS1pvhJX"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "immZOdtHQM7E6W3M",
+  "sort": 150000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "sYd7HPhREPPKa1wa",
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156587834,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "RollTable.uuO9cY1x3OpGrmhc",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!sYd7HPhREPPKa1wa"
+}

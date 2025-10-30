@@ -1,0 +1,110 @@
+{
+  "name": "Groundskeeper - Core (Ideal)",
+  "img": "icons/environment/settlement/hut.webp",
+  "results": [
+    {
+      "_id": "0gzYYMBiMHnzU87q",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unicorn Hair: Redemption. There’s a spark of good in everyone.",
+      "name": "",
+      "_key": "!tables.results!bhigZFsRUd11qwAY.0gzYYMBiMHnzU87q"
+    },
+    {
+      "_id": "GGbBLN8wrtg1CKVW",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dragon Heartstring: Community. We have to take care of each other, because no one else will.",
+      "name": "",
+      "_key": "!tables.results!bhigZFsRUd11qwAY.GGbBLN8wrtg1CKVW"
+    },
+    {
+      "_id": "45eRwP2qsEm7FcoV",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Phoenix Feather: Nature. The natural world is more precious than all of so-called civilization.",
+      "name": "",
+      "_key": "!tables.results!bhigZFsRUd11qwAY.45eRwP2qsEm7FcoV"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "5SeLDrs5q3w74VUa",
+  "sort": 100000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "bhigZFsRUd11qwAY",
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156642438,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "RollTable.VnNZIJDVmD5ozinE",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!bhigZFsRUd11qwAY"
+}

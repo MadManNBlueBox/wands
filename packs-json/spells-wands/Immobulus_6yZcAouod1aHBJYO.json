@@ -1,0 +1,115 @@
+{
+  "_id": "6yZcAouod1aHBJYO",
+  "name": "Immobulus",
+  "type": "spell",
+  "img": "icons/equipment/neck/choker-chain-thick-silver.webp",
+  "effects": [],
+  "folder": "b1gW0xVEV2yZNQnj",
+  "sort": 800000,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>You send a pulse through the area in front of you, freezing everything in space and time. Roll 7d10; the total is how many hit points of creatures this spell can affect. All creatures and objects in a 15-foot cube originating from you are affected in the order of nearest to farthest. Each creature affected by this spell is paralyzed until the spell ends. While paralyzed, the creature is fixed in the space they occupied when the spell was cast, which may leave it suspended in air.</p>\n<p>Subtract each creature's current hit points from the total before moving on to another creature. A creature's hit points must be equal to or less than the remaining total for that creature to be affected. Any object that is wholly within the area is automatically affect by this spell for the duration and does not count against the number of hit points you can affect. If casting the spell only affects objects and does not affect any creatures, the duration is up to 8 hours.</p>\n<p><em><strong>At Higher Levels</strong></em>. When you cast this spell using a spell slot of 3rd level or higher, roll an additional 2d10 for each slot level above 2nd. When you cast this spell using a spell slot of 4th level or higher, the duration increases by 1 round for each two slot levels above 2nd.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.72",
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": 1,
+      "units": "round"
+    },
+    "target": {
+      "value": 15,
+      "width": null,
+      "units": "ft",
+      "type": "cube"
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": "self"
+    },
+    "uses": {
+      "value": null,
+      "max": null,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "util",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": null
+    },
+    "damage": {
+      "parts": [
+        [
+          "7d10",
+          ""
+        ]
+      ],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "cha",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "level": 2,
+    "school": "cha",
+    "components": {
+      "value": "",
+      "vocal": true,
+      "somatic": true,
+      "material": false,
+      "ritual": false,
+      "concentration": false
+    },
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "scaling": {
+      "mode": "level",
+      "formula": "2d10"
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424871,
+    "modifiedTime": 1709154522087,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Compendium.waw.spells-wandw.DiZRv3IVRnPN8Ojo",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!6yZcAouod1aHBJYO"
+}

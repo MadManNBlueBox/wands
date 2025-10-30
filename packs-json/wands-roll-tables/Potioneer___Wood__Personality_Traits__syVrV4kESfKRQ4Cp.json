@@ -1,0 +1,240 @@
+{
+  "name": "Potioneer - Wood (Personality Traits)",
+  "img": "icons/tools/laboratory/vials-blue-pink.webp",
+  "results": [
+    {
+      "_id": "6w5XsM6IWGdHAPNB",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Acacia",
+      "name": "",
+      "_key": "!tables.results!syVrV4kESfKRQ4Cp.6w5XsM6IWGdHAPNB"
+    },
+    {
+      "_id": "Qnrs61Nz6nc6motX",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "This very unusual wand wood creates tricky wands that often refuse to produce magic for any but their owner, and also withholds their best effects from all but those most gifted. This makes them difficult to place, and wandmakers often keep only a small stock for those witches or wizards of sufficient subtlety, for acacia is not suited to what is commonly known as ‘bangs-and-smells’ magic. When well-matched, an acacia wand matches any for power, though it is often underrated due to the peculiarity of its temperament.",
+      "name": "",
+      "_key": "!tables.results!syVrV4kESfKRQ4Cp.Qnrs61Nz6nc6motX"
+    },
+    {
+      "_id": "6R7bKKRsi1zWDxlE",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Elm",
+      "name": "",
+      "_key": "!tables.results!syVrV4kESfKRQ4Cp.6R7bKKRsi1zWDxlE"
+    },
+    {
+      "_id": "jr66TaJUjRot32DR",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Elm wands prefer owners with presence, magical dexterity and a certain native dignity. Although some wizards have spread rumors that elm wands’ magic requires blood purity, there have been perfect matches of elm wands who are Muggle-borns. Of all wand woods, elm produces the fewest accidents, the least foolish errors, and the most elegant charms and spells; these are sophisticated wands, capable of highly advanced magic in the right hands.",
+      "name": "",
+      "_key": "!tables.results!syVrV4kESfKRQ4Cp.jr66TaJUjRot32DR"
+    },
+    {
+      "_id": "a5Q1ZA1T4RZ9DvYn",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Larch",
+      "name": "",
+      "_key": "!tables.results!syVrV4kESfKRQ4Cp.a5Q1ZA1T4RZ9DvYn"
+    },
+    {
+      "_id": "qo1geS8DcZLUec9b",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Larch wands have a reputation for instilling confidence and courage in the user. The celebrated wandmaker Garrick Ollivander found that larch always created wands of hidden talents and unexpected effects, which likewise describes the master who deserves it. It is often the case that the witch or wizard who belongs to the larch wand may never realize the full extent of their considerable talents until paired with it, but that they will then make an exceptional match.",
+      "name": "",
+      "_key": "!tables.results!syVrV4kESfKRQ4Cp.qo1geS8DcZLUec9b"
+    },
+    {
+      "_id": "BrEX2vZ31t9tLE9Y",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Laurel",
+      "name": "",
+      "_key": "!tables.results!syVrV4kESfKRQ4Cp.BrEX2vZ31t9tLE9Y"
+    },
+    {
+      "_id": "TOXRxwZcOMnrV7ul",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "It is said a laurel wand cannot perform a dishonourable act, although in the owner’s quest for glory, laurel wands can perform powerful and sometimes lethal magic. The laurel wand seems unable to tolerate laziness in a possessor, and in that case, can be won away from their owner most easily. Otherwise, it will cleave happily to its first match and issue a spontaneous zap if another attempts to steal it.",
+      "name": "",
+      "_key": "!tables.results!syVrV4kESfKRQ4Cp.TOXRxwZcOMnrV7ul"
+    }
+  ],
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "phDA2akNgGJRaX0z",
+  "sort": 125000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "syVrV4kESfKRQ4Cp",
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156711042,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "RollTable.Hq9PMYFCjO9w3JL7",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!syVrV4kESfKRQ4Cp"
+}

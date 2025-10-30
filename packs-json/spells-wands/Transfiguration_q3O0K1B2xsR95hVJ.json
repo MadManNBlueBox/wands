@@ -1,0 +1,19 @@
+{
+  "name": "Transfiguration",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "q3O0K1B2xsR95hVJ",
+  "sort": 100000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1709162959714,
+    "lastModifiedBy": "6KPKvdrxQhprt6if"
+  },
+  "_key": "!folders!q3O0K1B2xsR95hVJ"
+}

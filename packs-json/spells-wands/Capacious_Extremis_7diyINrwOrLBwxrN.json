@@ -1,0 +1,110 @@
+{
+  "name": "Capacious Extremis",
+  "type": "spell",
+  "img": "icons/containers/chest/chest-reinforced-steel-walnut-brown.webp",
+  "effects": [],
+  "folder": "9WCHq8aiaRzKyUNL",
+  "sort": 100000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "7diyINrwOrLBwxrN",
+  "system": {
+    "description": {
+      "value": "<p>Transform an ordinary small bag/pouch into a Handy Haversack's central pouch, a backpack into a Bag of Holding, or a trunk’s internal capacity into a Bag of Holding with:</p>\n<ul>\n<li>An opening of 3 feet long and 2 feet wide.</li>\n<li>Internal size of 6 feet long, 4 feet wide, and 4 feet deep.</li>\n<li>A limit of 1000 pounds and 150 cubic feet.</li>\n</ul>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.64",
+    "activation": {
+      "type": "minute",
+      "cost": 10,
+      "condition": "(active until dispelled)"
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": 1,
+      "width": null,
+      "units": "",
+      "type": "object"
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": "touch"
+    },
+    "uses": {
+      "value": null,
+      "max": null,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": null
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "level": 4,
+    "school": "cha",
+    "components": {
+      "value": "",
+      "vocal": true,
+      "somatic": true,
+      "material": false,
+      "ritual": false,
+      "concentration": false
+    },
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "scaling": {
+      "mode": "none",
+      "formula": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424874,
+    "modifiedTime": 1709148699180,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Compendium.waw.spells-wandw.NuOugbn2i20GV8RH",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!7diyINrwOrLBwxrN"
+}

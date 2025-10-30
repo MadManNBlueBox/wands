@@ -1,0 +1,112 @@
+{
+  "name": "Drink of Despair",
+  "type": "consumable",
+  "img": "icons/consumables/potions/bottle-round-corked-green.webp",
+  "effects": [],
+  "folder": "WnIyLJ4y3sjWvVoi",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>When a creature drinks this fabled poison, it hallucinates all of its worst fears and memories, vividly reexperiencing its deepest regrets and darkest traumas. It is incapacitated for 30 seconds, it is reduced to 1 hit point and its gains 4 levels of exhaustion.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "W&W p.43"
+    },
+    "quantity": 1,
+    "weight": 0.5,
+    "price": {
+      "value": 62500,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "legendary",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "5",
+      "units": "round"
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "charges",
+      "autoDestroy": true,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null,
+      "scale": false
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "type": {
+      "value": "potion",
+      "subtype": ""
+    },
+    "container": null,
+    "cover": null,
+    "crewed": false,
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "HJtvMnewDM77SRUs": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424922,
+    "modifiedTime": 1708586944941,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "RCfX6qYd9l0GM4jc",
+  "sort": 5200000,
+  "_key": "!items!RCfX6qYd9l0GM4jc"
+}

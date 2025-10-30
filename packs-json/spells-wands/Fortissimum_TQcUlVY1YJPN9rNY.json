@@ -1,0 +1,110 @@
+{
+  "_id": "TQcUlVY1YJPN9rNY",
+  "name": "Fortissimum",
+  "type": "spell",
+  "img": "icons/equipment/shield/kite-wooden-oak-glow.webp",
+  "effects": [],
+  "folder": "kBYSABTXwqefF7XJ",
+  "sort": 600000,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>One object of your choice that you can see within range and that fits within a 1-foot cube is made completely invulnerable to physical destruction. This renders it immune to any damage, magical or mundane, but it can still be affected by spells that directly change the object, such as @Compendium[wands.spells-wands.X4ct8APuWOXfHlX7]{Vera Verto} or @Compendium[wands.spells-wands.ao0uAYz0vhGJM2va]{Evanesco}.</p>\n<p><em><strong>At Higher Levels.</strong></em> When you cast this spell using a spell slot of 4th level or higher, the cube's size increases by 1 foot for each slot level above 3rd.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.74",
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": "(active until dispelled)"
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": "touch"
+    },
+    "uses": {
+      "value": null,
+      "max": null,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": null
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "level": 3,
+    "school": "cha",
+    "components": {
+      "value": "",
+      "vocal": true,
+      "somatic": true,
+      "material": false,
+      "ritual": false,
+      "concentration": false
+    },
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "scaling": {
+      "mode": "level",
+      "formula": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995425060,
+    "modifiedTime": 1709149187720,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Compendium.waw.spells-wandw.SCzLCINKUnV6Mf2M",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!TQcUlVY1YJPN9rNY"
+}

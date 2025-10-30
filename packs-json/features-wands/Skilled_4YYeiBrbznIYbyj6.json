@@ -1,0 +1,107 @@
+{
+  "name": "Skilled",
+  "type": "feat",
+  "img": "icons/sundries/documents/document-torn-diagram-tan.webp",
+  "effects": [],
+  "folder": "kBrkVEaWAkteheSS",
+  "flags": {
+    "plutonium": {
+      "page": "feats.html",
+      "source": "PHB",
+      "hash": "skilled_phb"
+    },
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<div>\n<div class=\"rd__b  rd__b--3\">\n<p>You gain proficiency in any combination of three skills or tools of your choice.</p>\n<div class=\"rd__spc-inline-post\"> </div>\n</div>\n</div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "PHB p.170"
+    },
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": 0,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null,
+      "scale": false
+    },
+    "ability": "",
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    },
+    "requirements": "",
+    "recharge": {
+      "value": null,
+      "charged": true
+    },
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "N8RgN1jdDFyXuWNq": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424880,
+    "modifiedTime": 1708584146850,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "4YYeiBrbznIYbyj6",
+  "sort": 1800000,
+  "_key": "!items!4YYeiBrbznIYbyj6"
+}

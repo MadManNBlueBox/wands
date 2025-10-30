@@ -1,0 +1,112 @@
+{
+  "name": "Veritaserum",
+  "type": "consumable",
+  "img": "icons/consumables/potions/potion-flask-corked-blue.webp",
+  "effects": [],
+  "folder": "WnIyLJ4y3sjWvVoi",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>A creature subjected to this potion must succeed on a DC 21 Charisma saving throw. On a failed save, the creature is compelled to tell the whole truth to any questions asked of it within the next 10 minutes. You know whether the creature succeeds or fails on its saving throw, based on the dull and dazed look in its eyes.</p>\n<p>On a successful save, the creature is aware of the potion's effect for the next 10 minutes, and can avoid answering questions to which it would normally respond with a lie. Such creatures can be evasive in their answers as long as they remain within the boundaries of the truth.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "W&W p.47"
+    },
+    "quantity": 1,
+    "weight": 0.5,
+    "price": {
+      "value": 62500,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "legendary",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "10",
+      "units": "minute"
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "charges",
+      "autoDestroy": true,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null,
+      "scale": false
+    },
+    "ability": "",
+    "actionType": "save",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "cha",
+      "dc": 21,
+      "scaling": "flat"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "type": {
+      "value": "potion",
+      "subtype": ""
+    },
+    "container": null,
+    "cover": null,
+    "crewed": false,
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "HJtvMnewDM77SRUs": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995425043,
+    "modifiedTime": 1708586944941,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "QV2bAMA1HKKMP1B8",
+  "sort": 1000000,
+  "_key": "!items!QV2bAMA1HKKMP1B8"
+}

@@ -1,0 +1,110 @@
+{
+  "name": "Dreamer - Flexibility (Flaw)",
+  "img": "icons/magic/time/day-night-sunset-sunrise.webp",
+  "results": [
+    {
+      "_id": "qhikm90oTdXgyakC",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rigid: I can't keep a secret to save my life, or anyone else's.",
+      "name": "",
+      "_key": "!tables.results!SZTZYLCrhz5Cc0Ao.qhikm90oTdXgyakC"
+    },
+    {
+      "_id": "21OgjTlEdGhnlM7J",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Slightly Yielding: I am dogmatic in my thoughts and philosophy.",
+      "name": "",
+      "_key": "!tables.results!SZTZYLCrhz5Cc0Ao.21OgjTlEdGhnlM7J"
+    },
+    {
+      "_id": "M8NTr0VsnL7iiuzA",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Surprisingly Swishy: I am easily distracted and if there's a plan, I'll forget it. If I don't forget it, I'll ignore it.",
+      "name": "",
+      "_key": "!tables.results!SZTZYLCrhz5Cc0Ao.M8NTr0VsnL7iiuzA"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "qDW8sBhPerg8KHfM",
+  "sort": 200000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "SZTZYLCrhz5Cc0Ao",
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156618519,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "RollTable.BAx5wzdUAeUK05ln",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!SZTZYLCrhz5Cc0Ao"
+}

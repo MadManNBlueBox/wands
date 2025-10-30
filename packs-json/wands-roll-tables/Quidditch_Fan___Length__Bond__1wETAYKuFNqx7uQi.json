@@ -1,0 +1,110 @@
+{
+  "name": "Quidditch Fan - Length (Bond)",
+  "img": "icons/skills/melee/hand-grip-staff-blue.webp",
+  "results": [
+    {
+      "_id": "ZnUidYoBvaeRlkmC",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "9.5\": I will be incredible at my chosen pursuits, the greatest that ever lived",
+      "name": "",
+      "_key": "!tables.results!1wETAYKuFNqx7uQi.ZnUidYoBvaeRlkmC"
+    },
+    {
+      "_id": "90LOosAMBmzyl5IS",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "11\": I'll never forget a crushing defeat or the opponent who dealt it.",
+      "name": "",
+      "_key": "!tables.results!1wETAYKuFNqx7uQi.90LOosAMBmzyl5IS"
+    },
+    {
+      "_id": "IxvXhDEuR1k9RJLu",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "14\": Those who fight beside me are those worth dying for.",
+      "name": "",
+      "_key": "!tables.results!1wETAYKuFNqx7uQi.IxvXhDEuR1k9RJLu"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "iB0vxH8ognjaI6Ep",
+  "sort": 150000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "1wETAYKuFNqx7uQi",
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156737014,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "RollTable.a5rVpUEJy81539Ek",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!1wETAYKuFNqx7uQi"
+}

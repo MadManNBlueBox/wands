@@ -1,0 +1,102 @@
+{
+  "name": "Occlumency Training",
+  "type": "feat",
+  "img": "icons/magic/perception/third-eye-blue-red.webp",
+  "effects": [],
+  "folder": "kBrkVEaWAkteheSS",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>You have developed the presence of mind to resist a mental invasion. When targeted by <em>legilimens</em>, you make a Wisdom saving throw to resist its initial effects, and you have advantage on the Intelligence contests. If you fail your initial saving throw, you are immediately aware that the spell is targeting you. If you succeed on a saving throw or contest, you can let the spell continue and reveal false information, false emotions, or false memories of your choosing.</p>\n<p>Veritaserum will not work on you, unless you allow it.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "W&W p.50"
+    },
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null,
+      "scale": false
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    },
+    "requirements": "",
+    "recharge": {
+      "value": null,
+      "charged": false
+    },
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "N8RgN1jdDFyXuWNq": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424870,
+    "modifiedTime": 1708584142232,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "4cNDmnBetoKoQaAd",
+  "sort": 1500000,
+  "_key": "!items!4cNDmnBetoKoQaAd"
+}

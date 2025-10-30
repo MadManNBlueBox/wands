@@ -1,0 +1,101 @@
+{
+  "name": "Compulsive",
+  "type": "feat",
+  "img": "icons/magic/death/skull-trio-badge-purple.webp",
+  "effects": [],
+  "folder": "xRMFP4czBggAtGOo",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>You begin to exhibit a mild, compulsive ritual of the HM's choice, likely associated with some fear. This can manifest as quadruple-checking locks and defensive measures, inspecting behind curtains, doors, and bushes for hidden attackers, or refusing to consume anything until you can get a small animal to test it for poison, for example. You take 1.5 times as long to complete a short rest.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "W&W p.54"
+    },
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null,
+      "scale": false
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    },
+    "requirements": "Devious Corruption",
+    "recharge": {
+      "value": null,
+      "charged": false
+    },
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424850,
+    "modifiedTime": 1708585749092,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "MlmRx0EN6TKBNWkt",
+  "sort": 100000,
+  "_key": "!items!MlmRx0EN6TKBNWkt"
+}

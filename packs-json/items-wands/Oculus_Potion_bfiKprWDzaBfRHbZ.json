@@ -1,0 +1,112 @@
+{
+  "name": "Oculus Potion",
+  "type": "consumable",
+  "img": "icons/consumables/potions/bottle-round-corked-red.webp",
+  "effects": [],
+  "folder": "WnIyLJ4y3sjWvVoi",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Drinking this deep orange potion removes the blind condition, restoring your eyesight to its normal state.</p>\n<p><strong>Antidote to:</strong> @Compendium[wands.spells-wands.k6Cl5LpPTw2Vpxq9]{Conjunctivia}</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "W&W p.46"
+    },
+    "quantity": 1,
+    "weight": 0.5,
+    "price": {
+      "value": 50,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "charges",
+      "autoDestroy": true,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null,
+      "scale": false
+    },
+    "ability": "",
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "type": {
+      "value": "potion",
+      "subtype": ""
+    },
+    "container": null,
+    "cover": null,
+    "crewed": false,
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "HJtvMnewDM77SRUs": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424827,
+    "modifiedTime": 1708586944941,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "bfiKprWDzaBfRHbZ",
+  "sort": 2100000,
+  "_key": "!items!bfiKprWDzaBfRHbZ"
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "839281b9b0b2117d",
+  "_key": "!items!839281b9b0b2117d",
+  "name": "Potion Book — Fourth Year Potions",
+  "type": "loot",
+  "img": "icons/sundries/books/book-embossed-bound-brown.webp",
+  "effects": [],
+  "folder": "14e95fa39206684c",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<h2>Fourth Year Potions</h2>\n<p>This book contains recipes and ingredients for the Fourth Year Potions curriculum.</p>\n<hr/>\n<h3>@UUID[Compendium.wands.items-wands.Item.ybrrj6Qzry3wjW6B]{Aging Potion}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.d263b2f59746b271]{bursting mushroom} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.159022b804ab4277]{newt spleen} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.ce867b65043ef3ae]{chizpurfle carapace} &times; 1</li>\n</ul>\n<h3>@UUID[Compendium.wands.items-wands.Item.aDKqv3T1MRfd0y7J]{Fire Protection Potion}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.d263b2f59746b271]{bursting mushroom} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.631a2036af312845]{wartcap} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.b25d6990bba5acc9]{salamander blood} &times; 1</li>\n</ul>\n<h3>@UUID[Compendium.wands.items-wands.Item.Mw777QpIjrZlCqY8]{Garrotting Gas}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.773e31d882d57ce1]{bundimun secretion} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.9378a351012f1ccc]{ethanol} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.631a2036af312845]{wartcap} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.f4ce544ed1774e6a]{exploding ginger eyelash} &times; 1</li>\n</ul>\n<h3>@UUID[Compendium.wands.items-wands.Item.sz7WNXng1pZCBvYq]{Pepperup Potion}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.a79b357b5dff2b33]{boom berry} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.9378a351012f1ccc]{ethanol} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.fb8fdb62228dd498]{vervain infusion} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.bae3023ebfeb46d9]{octopus} &times; 1</li>\n</ul>\n<h3>@UUID[Compendium.wands.items-wands.Item.fg6eLteXHrOMSgIO]{Wound-Cleaning Potion}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.1282594f7ec7802f]{star grass} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.fb8fdb62228dd498]{vervain infusion} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.d96125de6075d0b9]{staghorn mushroom} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.fa3e5146c27f6f69]{spirit of myrrh} &times; 1</li>\n</ul>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Generated from potion-recipes.json"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "properties": []
+  },
+  "ownership": {
+    "default": 0
+  }
+}

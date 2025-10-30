@@ -1,0 +1,110 @@
+{
+  "name": "Novum Spirare",
+  "type": "spell",
+  "img": "icons/magic/light/explosion-star-blue.webp",
+  "effects": [],
+  "folder": "kBYSABTXwqefF7XJ",
+  "sort": 900000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "6oRDpMXIw5ZfyKJI",
+  "system": {
+    "description": {
+      "value": "<p>Accurately named, the bubble-head charm forms a large bubble-like mask over a creature's mouth, nose, and ears that is magically filled with never-ending fresh air. This spell grants one willing creature you can see within range the ability to breathe underwater or in a vacuum until the spell ends. Additionally, the creature is immune to poison damage due to inhalation for the duration. The creature can dispel this effect using an action.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.77",
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": 24,
+      "units": "hour"
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": "touch"
+    },
+    "uses": {
+      "value": null,
+      "max": null,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": null
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "level": 3,
+    "school": "cha",
+    "components": {
+      "value": "",
+      "vocal": true,
+      "somatic": true,
+      "material": false,
+      "ritual": true,
+      "concentration": false
+    },
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "scaling": {
+      "mode": "none",
+      "formula": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424866,
+    "modifiedTime": 1709154865822,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Compendium.waw.spells-wandw.aZHrQTe1bwXuqZQF",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!6oRDpMXIw5ZfyKJI"
+}

@@ -1,0 +1,111 @@
+{
+  "name": "Draught of Peace",
+  "type": "consumable",
+  "img": "icons/consumables/potions/bottle-bulb-corked-purple.webp",
+  "effects": [],
+  "folder": "WnIyLJ4y3sjWvVoi",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>When you drink this potion, all strong emotions are suppressed for 1 hour, putting you into a neutral and relaxed disposition. Any charmed or  frightened condition is removed and you have advantage on saving throws against being charmed or frightened. Unfortunately, the feeling of this potion wearing off has been described as experiencing all of the suppressed emotions at once, and some suppressed conditions may resume.</p><p>Additionally, if you are hostile, you will become indifferent to the targets of your hostility. This indifference ends if you are attacked or harmed by a spell or if you witnesses any of your friends being harmed.</p><p><strong>Antidote to:</strong> @UUID[Compendium.wands.items-wands.Item.jHOQchs3Qs0zGJi8]{Beguiling Bubbles}, @UUID[Compendium.wands.items-wands.Item.g6wYrrXuD8NtzKbH]{Cupid Crystals}, @UUID[Compendium.wands.items-wands.Item.GcaawJhErL46zMtg]{Elixir to Induce Euphoria}, @UUID[Compendium.wands.spells-wands.Item.gF4a6kra5adpRO4G]{Exhilaro}, @UUID[Compendium.wands.items-wands.Item.TT8MGBykxNrmyXM6]{Gregory's Unctuous Unction}, @UUID[Compendium.wands.items-wands.Item.jl13cyryEdqlRZQq]{Heartbreak Teardrops}, @UUID[Compendium.wands.items-wands.Item.YpAD7DG1j8eYA0Iz]{Twilight Moonbeams}</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "W&W p.43"
+    },
+    "quantity": 1,
+    "weight": 0.5,
+    "price": {
+      "value": 250,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "charges",
+      "autoDestroy": true,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null,
+      "scale": false
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "type": {
+      "value": "potion",
+      "subtype": ""
+    },
+    "container": null,
+    "cover": null,
+    "crewed": false,
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424848,
+    "modifiedTime": 1708993051301,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "dMsbWgmZ4Y1gzzC6",
+  "sort": 5000000,
+  "_key": "!items!dMsbWgmZ4Y1gzzC6"
+}

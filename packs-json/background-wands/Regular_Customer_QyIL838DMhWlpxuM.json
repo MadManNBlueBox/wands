@@ -1,0 +1,94 @@
+{
+  "name": "Regular Customer",
+  "type": "feat",
+  "img": "icons/commodities/currency/coin-plain-gold.webp",
+  "effects": [],
+  "folder": "PAI7mx5WeyvumTAc",
+  "sort": 101563,
+  "flags": {},
+  "_id": "QyIL838DMhWlpxuM",
+  "system": {
+    "description": {
+      "value": "<p>You're a familiar face to any prominent wizarding apothecary, and as a frequent customer, you get access to new and unusual inventory that potion supplies stores may not want to open up to the public. You've also picked up one common and one uncommon potion recipe of your choice.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.33",
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": 0,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": null
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "type": {
+      "value": "background",
+      "subtype": ""
+    },
+    "requirements": "Potioneer",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424821,
+    "modifiedTime": 1708976548930,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!QyIL838DMhWlpxuM"
+}

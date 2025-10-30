@@ -1,0 +1,107 @@
+{
+  "name": "Observant",
+  "type": "feat",
+  "img": "icons/creatures/eyes/human-single-blue.webp",
+  "effects": [],
+  "folder": "kBrkVEaWAkteheSS",
+  "flags": {
+    "plutonium": {
+      "page": "feats.html",
+      "source": "PHB",
+      "hash": "observant_phb"
+    },
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<div>\n\t\t\t\n\t\t\t<div class=\"rd__b  rd__b--3\"><p>Quick to notice details of your environment, you gain the following benefits:</p><div class=\"rd__spc-inline-post\"></div><ul class=\"rd__list\"><li class=\"rd__li \">Increase your Intelligence or Wisdom by 1, to a maximum of 20.</li><li class=\"rd__li \">If you can see a creature's mouth while it is speaking a language you understand, you can interpret what it's saying by reading its lips.</li><li class=\"rd__li \">You have a +5 bonus to your passive Wisdom (<span class=\"help--hover\">Perception</span>) and passive Intelligence (<span class=\"help--hover\">Investigation</span>) scores.</li></ul></div>\n\t\t</div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "PHB p.168"
+    },
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": 0,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null,
+      "scale": false
+    },
+    "ability": "",
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    },
+    "requirements": "",
+    "recharge": {
+      "value": null,
+      "charged": true
+    },
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "N8RgN1jdDFyXuWNq": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424847,
+    "modifiedTime": 1708584140780,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "ZAPFklljKMXAdJrm",
+  "sort": 1400000,
+  "_key": "!items!ZAPFklljKMXAdJrm"
+}

@@ -1,0 +1,110 @@
+{
+  "name": "Repello Inimicum",
+  "type": "spell",
+  "img": "icons/magic/defensive/shield-barrier-glowing-triangle-magenta.webp",
+  "effects": [],
+  "folder": "kBYSABTXwqefF7XJ",
+  "sort": 1000000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "iI4DAtowIg24mYFH",
+  "system": {
+    "description": {
+      "value": "<p>You create a 20-foot-radius hemisphere of magical energy to protect you from one or more of the following: Dark wizards, other Dark beings, or Dark beasts. The circle affects creatures of the chosen type(s) in the following ways.</p>\n<ul>\n<li>The affected creatures can't willingly enter the hemisphere by nonmagical means. If the creature tries to use apparition/disapparition to do so, it must first succeed on a Charisma saving throw.</li>\n<li>The affected creatures have disadvantage on attack rolls against targets within the hemisphere.</li>\n<li>Targets within the hemisphere can't be charmed or frightened by affected creatures.</li>\n</ul>\n<p><strong>At Higher Levels.</strong> When you cast this spell using a spell slot of 4th level or higher, the duration increases by 1 hour for each slot level above 3rd.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.81",
+    "activation": {
+      "type": "minute",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": 1,
+      "units": "hour"
+    },
+    "target": {
+      "value": 20,
+      "width": null,
+      "units": "ft",
+      "type": "radius"
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": "self"
+    },
+    "uses": {
+      "value": null,
+      "max": null,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "save",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": null
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "cha",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "level": 3,
+    "school": "cha",
+    "components": {
+      "value": "",
+      "vocal": true,
+      "somatic": true,
+      "material": false,
+      "ritual": false,
+      "concentration": false
+    },
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "scaling": {
+      "mode": "level",
+      "formula": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995425173,
+    "modifiedTime": 1709155076829,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Compendium.waw.spells-wandw.gWjb9qkPJ8ao3sUn",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!iI4DAtowIg24mYFH"
+}

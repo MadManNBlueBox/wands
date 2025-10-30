@@ -1,0 +1,164 @@
+{
+  "name": "Magizoology (School of Magic)",
+  "type": "subclass",
+  "img": "icons/magic/fire/dagger-rune-enchant-flame-strong-green.webp",
+  "effects": [],
+  "folder": "WlpvdaC2ZslNMvcf",
+  "sort": 112500,
+  "flags": {
+    "core": {}
+  },
+  "_id": "6Z6ChZqL42lSkjnH",
+  "system": {
+    "description": {
+      "value": "<p>Magizoologists study magical creatures. As they work with many different creatures, the Department for the Regulation of Magical Creatures at the British Government of Magic created a classification of every known beast, being and spirit, ranging from X to XXXXX. Whether harmless or an untameable wizard-killer, magizoologists record the unique traits of beasts for wizardkind’s safety.</p><h2 style=\"border-bottom:1px solid var(--color-underline-header)\">Dragon-Keepers</h2><p>Dragon-keepers call the dragon reserve home, caring for the most famous XXXXX classified creature among wizards and Muggles alike. Spending day after day with them, dragon-keepers often learn to see through the eyes of their ward and empathize with the plight of many magical beasts. They seek to understand dragons for the benefit of all.</p><h2 style=\"border-bottom:1px solid var(--color-underline-header)\">Monster Hunters</h2><p>Alternatively, some take a confrontational style of protection. When a wizarding village is plagued by a growing community of trolls, or they suspect a vampire is the cause of their dead livestock, they turn to a monster hunter. Dark creatures blur into the magical being category, so a monster hunter must deal with intelligent demi-humans just as well as corral a stray beast. It is up to the monster hunter to approach a situation wand blazing or seeking a peaceful resolution.</p><h2 style=\"border-bottom:1px solid var(--color-underline-header)\">Subclass Features</h2><p><strong>Biological Studies</strong></p><p>At 1st level, you gain one of the following features.</p><p>@UUID[Compendium.wands.features-wands.Item.D5TbpuxPEM8C3mlW]{Caretaker}</p><p>@UUID[Compendium.wands.features-wands.Item.Eom245h6LiLxcRMR]{Folio Bruti}</p><h3><strong>Way of the Wild</strong></h3><p>At 6th level, you gain one of the following features.</p><p>@UUID[Compendium.wands.features-wands.Item.zZKTRoKCVHjLgqX8]{Wizard's Best Friend}</p><p>@UUID[Compendium.wands.features-wands.Item.9NFkPexJLRn7HVzi]{Prepared Ambush}</p><h3><strong>Outdoorswizard</strong></h3><p>At 10th level, you gain one of the following features.</p><p>@UUID[Compendium.wands.features-wands.Item.hn3Ni3YL48Wml4vz]{Survivalist}</p><p>@UUID[Compendium.wands.features-wands.Item.MmRMbk3JCJlZatLl]{Monster Hunting}</p><p><strong>Genus Genius</strong></p><p>At 14th level, you gain one of the following features.</p><p>@UUID[Compendium.wands.features-wands.Item.gDEKDuMd0Rrj9I0O]{Beast Whisperer}</p><p>@UUID[Compendium.wands.features-wands.Item.8A5uoEtnvRnGA0Vh]{Exploited Vulnerabilities}</p><h3><strong>Sixth Sense</strong></h3><p>At 18th level, you gain one of the following features.</p><p>@UUID[Compendium.wands.features-wands.Item.0PRnNZ0fE1xmY7qz]{Draconic Empathy}</p><p>@UUID[Compendium.wands.features-wands.Item.RGAkLqQUuY6SdWEq]{Hunter's Reflexes}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.25",
+    "identifier": "magizoology",
+    "classIdentifier": "casting-style",
+    "advancement": [
+      {
+        "_id": "Z9BregvXr3bhh23H",
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "6": 1
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            "Compendium.wands.features-wands.Item.zZKTRoKCVHjLgqX8",
+            "Compendium.wands.features-wands.Item.9NFkPexJLRn7HVzi"
+          ],
+          "spell": null,
+          "hint": "",
+          "restriction": {
+            "type": "class",
+            "subtype": ""
+          }
+        },
+        "value": {},
+        "title": "Feature",
+        "icon": null
+      },
+      {
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "10": 1
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            "Compendium.wands.features-wands.Item.hn3Ni3YL48Wml4vz",
+            "Compendium.wands.features-wands.Item.MmRMbk3JCJlZatLl"
+          ],
+          "spell": null,
+          "hint": "",
+          "restriction": {
+            "type": "class",
+            "subtype": ""
+          }
+        },
+        "value": {},
+        "title": "Feature",
+        "icon": null,
+        "_id": "g3x7emZH0H5buXf7"
+      },
+      {
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "14": 1
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            "Compendium.wands.features-wands.Item.gDEKDuMd0Rrj9I0O",
+            "Compendium.wands.features-wands.Item.8A5uoEtnvRnGA0Vh"
+          ],
+          "spell": null,
+          "hint": "",
+          "restriction": {
+            "type": "class",
+            "subtype": ""
+          }
+        },
+        "value": {},
+        "title": "Feature",
+        "icon": null,
+        "_id": "Reii5khS7LdfhY0s"
+      },
+      {
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "18": 1
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            "Compendium.wands.features-wands.Item.0PRnNZ0fE1xmY7qz",
+            "Compendium.wands.features-wands.Item.RGAkLqQUuY6SdWEq"
+          ],
+          "spell": null,
+          "hint": "",
+          "restriction": {
+            "type": "class",
+            "subtype": ""
+          }
+        },
+        "value": {},
+        "title": "Feature",
+        "icon": null,
+        "_id": "mVnH1v6mvtqLGXGF"
+      },
+      {
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "1": 1
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            "Compendium.wands.features-wands.Item.D5TbpuxPEM8C3mlW",
+            "Compendium.wands.features-wands.Item.Eom245h6LiLxcRMR"
+          ],
+          "spell": null,
+          "hint": "",
+          "restriction": {
+            "type": "class",
+            "subtype": ""
+          }
+        },
+        "value": {},
+        "title": "Feature",
+        "icon": null,
+        "_id": "6UU14dUifT2Q3vuf"
+      }
+    ],
+    "spellcasting": {
+      "progression": "full",
+      "ability": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424741,
+    "modifiedTime": 1708991942036,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Item.W66ihWRuA8XPGB53",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!6Z6ChZqL42lSkjnH"
+}

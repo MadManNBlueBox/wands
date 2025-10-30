@@ -1,0 +1,292 @@
+{
+  "name": "Protector - Wood (Personality Traits)",
+  "img": "icons/magic/defensive/armor-shield-barrier-steel.webp",
+  "results": [
+    {
+      "_id": "hTsUE0AE1C9RBIMU",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blackthorn",
+      "name": "",
+      "_key": "!tables.results!OUnFRyyfNFEPTHcq.hTsUE0AE1C9RBIMU"
+    },
+    {
+      "_id": "oxOjVYgfwM0QN2KK",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A very unusual wand wood, blackthorn wands have the reputation of being best suited to a warrior. One finds blackthorn wands among the Aurors as well as among the denizens of Azkaban. These wands appear to need to pass through danger or hardship with their owners to become truly bonded. Given this condition, the blackthorn wand will become a loyal and faithful servant.",
+      "name": "",
+      "_key": "!tables.results!OUnFRyyfNFEPTHcq.oxOjVYgfwM0QN2KK"
+    },
+    {
+      "_id": "SWR1Y3W03mr4hNKZ",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hawthorn",
+      "name": "",
+      "_key": "!tables.results!OUnFRyyfNFEPTHcq.SWR1Y3W03mr4hNKZ"
+    },
+    {
+      "_id": "mKYzaa3AOVOCrE9F",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hawthorn wands may be particularly suited to healing magic, but they are also adept at curses, and it has been generally observed that the hawthorn wand seems most at home with a conflicted nature or a period of turmoil. Hawthorn wands are not easy to master, however, and one should only ever be placed in the hands of a witch or wizard of proven talent. Hawthorn wands have a notable peculiarity: their spells can, when badly handled, backfire.",
+      "name": "",
+      "_key": "!tables.results!OUnFRyyfNFEPTHcq.mKYzaa3AOVOCrE9F"
+    },
+    {
+      "_id": "eZ3airwvkV10sv4h",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mahogany",
+      "name": "",
+      "_key": "!tables.results!OUnFRyyfNFEPTHcq.eZ3airwvkV10sv4h"
+    },
+    {
+      "_id": "ALKAqX8RShHGRMez",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The mahogany tree symbolizes strength, safety, protectiveness, and practicality, and these traits are mirrored in a mahogany wand’s suitable match. With plenty of power and a knack for transfiguration, the owners of mahogany wands are often reliable and serve as cornerstones for their local wizard community.",
+      "name": "",
+      "_key": "!tables.results!OUnFRyyfNFEPTHcq.ALKAqX8RShHGRMez"
+    },
+    {
+      "_id": "ZA0MDKH9zIKlYTB0",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        7,
+        8
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rowan",
+      "name": "",
+      "_key": "!tables.results!OUnFRyyfNFEPTHcq.ZA0MDKH9zIKlYTB0"
+    },
+    {
+      "_id": "d3UxCUBHbeHAx7O6",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        7,
+        8
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rowan wood has always been much-favored for wands, because it is reputed to be more protective than any other and renders all manner of defensive charms especially strong and difficult to break. It is also commonly stated that no dark witch or wizard ever owned a rowan wand. Rowan is most happily placed with the clear-headed and the pure-hearted, but this reputation for virtue ought not to fool anyone – these wands frequently outperform others in duels.",
+      "name": "",
+      "_key": "!tables.results!OUnFRyyfNFEPTHcq.d3UxCUBHbeHAx7O6"
+    },
+    {
+      "_id": "0iRepT4OdF0MiZJJ",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        9,
+        10
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Yew",
+      "name": "",
+      "_key": "!tables.results!OUnFRyyfNFEPTHcq.0iRepT4OdF0MiZJJ"
+    },
+    {
+      "_id": "QkHri0uSkRHKxk0Y",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        9,
+        10
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Yew wands are among the rarer kinds, and their ideal matches are likewise unusual and occasionally notorious. The wand of yew is reputed to endow the power of life and death, retaining a fearsome reputation in the spheres of duelling and curses. However, a witch or wizard might equally prove a fierce protector. Where wizards have been buried with wands of yew, the wand generally sprouts into a tree guarding the owner’s grave. A yew wand never chooses either a mediocre or a timid owner.",
+      "name": "",
+      "_key": "!tables.results!OUnFRyyfNFEPTHcq.QkHri0uSkRHKxk0Y"
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "1OYJ2ygxZ9or23lv",
+  "sort": 125000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "OUnFRyyfNFEPTHcq",
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156722430,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "RollTable.3O6RbWDPtwizYNNG",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!OUnFRyyfNFEPTHcq"
+}

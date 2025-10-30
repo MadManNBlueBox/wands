@@ -1,0 +1,19 @@
+{
+  "name": "Potioneer",
+  "sorting": "a",
+  "folder": "CkghkUALJpaMfoup",
+  "type": "RollTable",
+  "_id": "phDA2akNgGJRaX0z",
+  "sort": 600000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "11.315",
+    "createdTime": 1709156706749,
+    "modifiedTime": 1709156795374,
+    "lastModifiedBy": "6KPKvdrxQhprt6if"
+  },
+  "_key": "!folders!phDA2akNgGJRaX0z"
+}

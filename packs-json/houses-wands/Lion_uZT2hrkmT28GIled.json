@@ -1,0 +1,127 @@
+{
+  "folder": null,
+  "name": "Lion",
+  "type": "race",
+  "img": "icons/magic/light/beam-rays-red-small.webp",
+  "system": {
+    "description": {
+      "value": "<p>With a lion as its crest, Lion is the house which most values the virtues of determination, courage, and chivalry. Some call these traits recklessness or \"pointless heroics,\" but a Lion is sure to take action. Lion's house colors are red and gold.</p><h2>Champions of Justice</h2><p>Lions trust their moral intuitions and have a need and a drive to live by them. They feel what’s right in their gut, and that matters and guides them. If they don’t listen to and act on that, it feels immoral.</p><p>However, just because they operate on what “feels right,” that doesn’t mean Lions are all impetuous, emotional hellions. Lions can still be intelligent and deliberate, weighing their decisions and moralities carefully.</p><h2>Fighting Spirit</h2><p>Lions charge. They meet the world head-on and challenge it to do its worst. Lions are honest, brash, and bold in pursuit of things they care about. Known for their bravery, it is almost a moral matter to stay true to themselves in any situation that they’re in.</p><h2>Lion Traits</h2><p>Through their camaraderie, Lions bolster each other's confidence and endeavors.</p><p><strong>Ability Score Increase.</strong> Your Constitution score, Charisma score, and one other ability score of choice increase by 1.</p><p><strong>Bravehearted.</strong> You have advantage on saving throws against being frightened from any source other than a Dementor.</p><p><strong>True Lion.</strong> In times of dire need, the Sword of Lion may present itself to you.</p><p><strong>Feat.</strong> You gain one feat of your choice.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "W&W",
+      "page": "p.4",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [
+      {
+        "type": "AbilityScoreImprovement",
+        "_id": "zpUQehr4A3LiDS37",
+        "configuration": {
+          "points": 1,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 1,
+            "int": 0,
+            "wis": 0,
+            "cha": 1
+          },
+          "cap": 2
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 0,
+        "title": "",
+        "icon": null
+      },
+      {
+        "type": "Size",
+        "_id": "IAhk31LNngOKZ5ag",
+        "configuration": {
+          "sizes": [
+            "med"
+          ]
+        },
+        "level": 0,
+        "value": {}
+      },
+      {
+        "type": "Trait",
+        "configuration": {
+          "grants": [
+            "languages:standard:common"
+          ],
+          "mode": "default",
+          "allowReplacements": false,
+          "choices": []
+        },
+        "_id": "rFqFCzh8q4usey76",
+        "level": 0,
+        "value": {
+          "chosen": []
+        }
+      },
+      {
+        "_id": "YIjtb3Ibnn9upR6r",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.features-wands.Item.4JedCeLIdY9ASEq6",
+            "Compendium.wands.features-wands.Item.sBwG9yIv1XBjokrY"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Features",
+        "icon": null
+      }
+    ],
+    "movement": {
+      "burrow": null,
+      "climb": null,
+      "fly": null,
+      "swim": null,
+      "walk": 30,
+      "units": null,
+      "hover": false
+    },
+    "senses": {
+      "darkvision": null,
+      "blindsight": null,
+      "tremorsense": null,
+      "truesight": null,
+      "units": null,
+      "special": ""
+    },
+    "type": {
+      "value": "humanoid"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1708497103505,
+    "modifiedTime": 1708628861507,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "uZT2hrkmT28GIled",
+  "sort": 400000,
+  "_key": "!items!uZT2hrkmT28GIled"
+}

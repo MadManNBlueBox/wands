@@ -1,0 +1,192 @@
+{
+  "name": "Corruption Mild Effects",
+  "img": "icons/magic/death/projectile-skull-fire-purple.webp",
+  "description": "<p>Experimenting with Dark magic almost always results from an unquenchable thirst for power, an incredibly intense fear or a deep well of hatred. By using twisted magic and committing unspeakable acts, that inner darkness takes a toll on a Dark witch's physical and mental well-being.</p>",
+  "results": [
+    {
+      "_id": "5azX1A5nthCyFD18",
+      "type": "document",
+      "img": "icons/skills/social/theft-pickpocket-bribery-brown.webp",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Hoarder",
+      "documentUuid": "Compendium.wands.features-wands.Item.nVJ14ea5kcdHbsBT",
+      "description": "",
+      "_key": "!tables.results!3iLBLVAyw2qk4Cyc.5azX1A5nthCyFD18"
+    },
+    {
+      "_id": "MksQWMkmyt4EzFNK",
+      "type": "document",
+      "img": "icons/magic/death/skull-trio-badge-purple.webp",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Compulsive",
+      "documentUuid": "Compendium.wands.features-wands.Item.MlmRx0EN6TKBNWkt",
+      "description": "",
+      "_key": "!tables.results!3iLBLVAyw2qk4Cyc.MksQWMkmyt4EzFNK"
+    },
+    {
+      "_id": "LD8EuYnW6GsNzib3",
+      "type": "document",
+      "img": "icons/skills/toxins/cup-goblet-poisoned-spilled.webp",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Cough",
+      "documentUuid": "Compendium.wands.features-wands.Item.EjZG9PL7BmYxNuIx",
+      "description": "",
+      "_key": "!tables.results!3iLBLVAyw2qk4Cyc.LD8EuYnW6GsNzib3"
+    },
+    {
+      "_id": "yLgTuNfnrEv1iNtn",
+      "type": "document",
+      "img": "icons/skills/melee/strike-sword-blood-red.webp",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Reckless",
+      "documentUuid": "Compendium.wands.features-wands.Item.JN1RlcPm3MCyTnEk",
+      "description": "",
+      "_key": "!tables.results!3iLBLVAyw2qk4Cyc.yLgTuNfnrEv1iNtn"
+    },
+    {
+      "_id": "E9YxlMmX4tcFX6PD",
+      "type": "document",
+      "img": "icons/skills/wounds/injury-hand-blood-red.webp",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Scent of Decay",
+      "documentUuid": "Compendium.wands.features-wands.Item.r2GhFm005A1wyiZU",
+      "description": "",
+      "_key": "!tables.results!3iLBLVAyw2qk4Cyc.E9YxlMmX4tcFX6PD"
+    },
+    {
+      "_id": "h0hSIYSob6JRoZKY",
+      "type": "document",
+      "img": "icons/skills/toxins/poison-bottle-corked-fire-green.webp",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Mildly Phobic",
+      "documentUuid": "Compendium.wands.features-wands.Item.R6N8HnLphMcSRtcu",
+      "description": "",
+      "_key": "!tables.results!3iLBLVAyw2qk4Cyc.h0hSIYSob6JRoZKY"
+    }
+  ],
+  "formula": "d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "msDlZwjP4f7Qeguj",
+  "sort": 100000,
+  "flags": {},
+  "_id": "3iLBLVAyw2qk4Cyc",
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156608835,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!3iLBLVAyw2qk4Cyc"
+}

@@ -1,0 +1,110 @@
+{
+  "_id": "J9SLlXNKiIikWzdk",
+  "name": "Draconifors",
+  "type": "spell",
+  "img": "icons/creatures/eyes/lizard-single-slit-blue.webp",
+  "effects": [],
+  "folder": "DTvOsPeei4fc4ais",
+  "sort": 100000,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>A particularly intimidating display of transfiguration, this spell turns a desk-sized object into a miniature version of an adult dragon. Choose either one or two inanimate, nonmagical objects you can see within range that each fill a 5-foot cube and choose one of the following options:</p>\n<ul>\n<li>One dragon wyrmling of challenge rating 4 or lower</li>\n<li>Two dragon wyrmlings of challenge rating 2 or lower</li>\n</ul>\n<p>The object becomes a Medium-sized dragon construct with the chosen wyrmling's statistics, which is untransfigured when it drops to 0 hit points or when the spell ends.</p>\n<p>The dragon construct is friendly to you and your companions for the duration. Roll initiative for the dragon construct, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you). If you don't issue any commands to it, it defends itself from hostile creatures, but otherwise takes no actions.</p>\n<p>If your concentration is broken, the dragon construct doesn't disappear. Instead, you lose control of the construct, it becomes hostile toward you and your companions, and it might attack. An uncontrolled dragon construct can't be dismissed by you, and it untransfigures 10 minutes after you transfigured it.</p>\n<p>CR 2 Wyrmlings: @Compendium[wands.monsters-wands.pxAu9pdOAxHgm7tf]{Antipodean Opaleye Wyrmling} @Compendium[wands.monsters-wands.UVVhSzfjdzFJud3L]{Common Welsh Green Wyrmling} @Compendium[wands.monsters-wands.HpxUrgC3zqQJox5Q]{Peruvian Vipertooth Wyrmling} @Compendium[wands.monsters-wands.hc620tyUeFJ8NCEr]{Swedish Shortsnout Wyrmling}</p>\n<p>CR 3 Wyrmlings: @Compendium[wands.monsters-wands.S1LpzSydo8c3PrPt]{Chinese Fireball Wyrmling} @Compendium[wands.monsters-wands.KjA6hvNlmza3eUkJ]{Hebridean Black Wyrmling} @Compendium[wands.monsters-wands.jJUgWHxEDWShLsbc]{Norwegian Ridgeback Wyrmling} @Compendium[wands.monsters-wands.TcU3ubJiRtAKePXw]{Romanian Longhorn Wyrmling}</p>\n<p>CR 4 Wymlings: @Compendium[wands.monsters-wands.eXwrILf98YSUHbIz]{Hungarian Horntail Wyrmling} @Compendium[wands.monsters-wands.bYN9AzowMNmq9QkL]{Ukrainian Ironbelly Wyrmling}</p>\n<p><strong>At Higher Levels.</strong> When you cast this spell using a spell slot of 7th level, choose one of the following options:</p>\n<ul>\n<li>Two dragon wyrmlings of challenge rating 3 or lower</li>\n<li>Three dragon wyrmlings of challenge rating 2 or lower</li>\n</ul>\n<p>When you cast this spell using a spell slot of 9th level, choose one of the following options:</p>\n<ul>\n<li>Two dragon wyrmlings of challenge rating 4 or lower</li>\n<li>Four dragon wyrmlings of challenge rating 2 or lower</li>\n</ul>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.70",
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": 10,
+      "units": "minute"
+    },
+    "target": {
+      "value": 2,
+      "width": null,
+      "units": "",
+      "type": "object"
+    },
+    "range": {
+      "value": 30,
+      "long": null,
+      "units": "ft"
+    },
+    "uses": {
+      "value": null,
+      "max": null,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": null
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "level": 5,
+    "school": "trf",
+    "components": {
+      "value": "",
+      "vocal": true,
+      "somatic": true,
+      "material": false,
+      "ritual": false,
+      "concentration": true
+    },
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "scaling": {
+      "mode": "none",
+      "formula": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995425007,
+    "modifiedTime": 1709155564390,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Compendium.waw.spells-wandw.SdmXzTra4jKjAkqS",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!J9SLlXNKiIikWzdk"
+}

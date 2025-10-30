@@ -1,0 +1,107 @@
+{
+  "name": "Keen Mind",
+  "type": "feat",
+  "img": "icons/magic/defensive/illusion-evasion-echo-purple.webp",
+  "effects": [],
+  "folder": "kBrkVEaWAkteheSS",
+  "flags": {
+    "plutonium": {
+      "page": "feats.html",
+      "source": "PHB",
+      "hash": "keen%20mind_phb"
+    },
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<div>\n\t\t\t\n\t\t\t<div class=\"rd__b  rd__b--3\"><p>You have a mind that can track time, direction, and detail with uncanny precision. You gain the following benefits:</p><div class=\"rd__spc-inline-post\"></div><ul class=\"rd__list\"><li class=\"rd__li \">Increase your Intelligence score by 1, to a maximum of 20.</li><li class=\"rd__li \">You always know which way is north.</li><li class=\"rd__li \">You always know the number of hours left before the next sunrise or sunset.</li><li class=\"rd__li \">You can accurately recall anything you have seen or heard within the past month.</li></ul></div>\n\t\t</div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "PHB p.167"
+    },
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": 0,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null,
+      "scale": false
+    },
+    "ability": "",
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    },
+    "requirements": "",
+    "recharge": {
+      "value": null,
+      "charged": true
+    },
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "N8RgN1jdDFyXuWNq": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424861,
+    "modifiedTime": 1708584133032,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "mh2fRxrwi7bmQGSi",
+  "sort": 900000,
+  "_key": "!items!mh2fRxrwi7bmQGSi"
+}

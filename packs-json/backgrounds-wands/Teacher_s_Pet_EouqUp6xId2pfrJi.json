@@ -1,0 +1,94 @@
+{
+  "name": "Teacher's Pet",
+  "type": "feat",
+  "img": "icons/sundries/books/book-backed-silver-red.webp",
+  "effects": [],
+  "folder": "PAI7mx5WeyvumTAc",
+  "sort": 100098,
+  "flags": {},
+  "_id": "EouqUp6xId2pfrJi",
+  "system": {
+    "description": {
+      "value": "<p>Because you are a bright individual, teachers and those in positions of authority are more likely to interpret your actions and intentions favorably. You might be in a better position to enlist their help, or have plausible deniability based on your academic reputation.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.29",
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": 0,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": null
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "type": {
+      "value": "background",
+      "subtype": ""
+    },
+    "requirements": "Bookworm",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424759,
+    "modifiedTime": 1708976573724,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!EouqUp6xId2pfrJi"
+}

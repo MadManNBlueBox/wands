@@ -1,0 +1,110 @@
+{
+  "_id": "gjFpTnzXj5DT7NLo",
+  "name": "Klutz - Core (Ideal)",
+  "img": "icons/commodities/materials/hair-tuft-brown.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "0jIEhXdw07oRRSDz",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "AshUnicorn Hair: Greater Good. The most noble cause is to lay down our lives to defend others.",
+      "name": "",
+      "_key": "!tables.results!gjFpTnzXj5DT7NLo.0jIEhXdw07oRRSDz"
+    },
+    {
+      "_id": "fkUIz6NhqQfbIhpn",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dragon Heartstring: Respect. All people—rich or poor, powerful or weak, magical or muggle—deserve respect.",
+      "name": "",
+      "_key": "!tables.results!gjFpTnzXj5DT7NLo.fkUIz6NhqQfbIhpn"
+    },
+    {
+      "_id": "HwY3T9W8bltjcNUS",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Phoenix Feather: Sincerity. There's no good pretending to be something I'm not.",
+      "name": "",
+      "_key": "!tables.results!gjFpTnzXj5DT7NLo.HwY3T9W8bltjcNUS"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "i9GaPu99jBLcimYX",
+  "sort": 100000,
+  "flags": {
+    "core": {}
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156654921,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "RollTable.FEOXpn5iS1jFPhzZ",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!gjFpTnzXj5DT7NLo"
+}

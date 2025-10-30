@@ -1,0 +1,110 @@
+{
+  "name": "Potioneer - Core (Ideal)",
+  "img": "icons/tools/laboratory/vials-blue-pink.webp",
+  "results": [
+    {
+      "_id": "6w5XsM6IWGdHAPNB",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unicorn Hair: Tradition. The ways of the past must never be forgotten, for they teach us who we are.",
+      "name": "",
+      "_key": "!tables.results!hbqNQEFAql96OWeX.6w5XsM6IWGdHAPNB"
+    },
+    {
+      "_id": "6R7bKKRsi1zWDxlE",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dragon Heartstring: Aspiration. I work hard to be recognized as the best there is at my craft.",
+      "name": "",
+      "_key": "!tables.results!hbqNQEFAql96OWeX.6R7bKKRsi1zWDxlE"
+    },
+    {
+      "_id": "a5Q1ZA1T4RZ9DvYn",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Phoenix Feather: Live and Let Live. Meddling in the affairs of others only causes trouble.",
+      "name": "",
+      "_key": "!tables.results!hbqNQEFAql96OWeX.a5Q1ZA1T4RZ9DvYn"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "phDA2akNgGJRaX0z",
+  "sort": 100000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "hbqNQEFAql96OWeX",
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156708106,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "RollTable.DUg87NoETDnDY4Jw",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!hbqNQEFAql96OWeX"
+}

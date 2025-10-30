@@ -1,0 +1,53 @@
+{
+  "name": "Troublemaker",
+  "type": "background",
+  "img": "icons/magic/air/wind-vortex-swirl-purple.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {}
+  },
+  "_id": "5riGlrKCRzKb6YxO",
+  "system": {
+    "description": {
+      "value": "<p>Whether you consider yourself a purveyor of pranks or simply a curious soul, trouble tends to follow you wherever you go. As a result, you've learned to be a little more careful and avoid the obvious pitfalls of rule-breaking. That's very useful, as there's no shortage of messes you get yourself into.</p><hr style=\"border-top:1px solid var(--color-border-light-primary);border-bottom:1px solid var(--color-border-light-highlight)\" /><p><strong>Skill Proficiencies:</strong> Sleight of Hand, Stealth</p><p><strong>Equipment:</strong> A fake hall pass, and a small pack of Exploding Whizz Poppers</p><p><strong>Feature:</strong> @UUID[Compendium.wands.backgrounds-wands.Item.x1hgjn8FxPcbmQpe]{Creative Thinker}</p><hr style=\"border-top:1px solid var(--color-border-light-primary);border-bottom:1px solid var(--color-border-light-highlight)\" /><h3>Wand Characteristics</h3><p>@Compendium[wands.wands-roll-tables.He7MDS3d8udfd4ZH]{Troublemaker - Wood (Personality Traits)}</p><p>@Compendium[wands.wands-roll-tables.VytZ33lhwe8kZ0N7]{Troublemaker - Core (Ideal)}</p><p>@Compendium[wands.wands-roll-tables.gkELBK6K6J3lRmpN]{Troublemaker - Length (Bond)}</p><p>@Compendium[wands.wands-roll-tables.oyZAal7DUhWWCfIi]{Troublemaker - Flexibility (Flaw)}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.38",
+    "advancement": [
+      {
+        "_id": "93ayq5f90cjulw9x",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.backgrounds-wands.Item.x1hgjn8FxPcbmQpe"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Feature",
+        "icon": null
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424737,
+    "modifiedTime": 1708977271695,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Item.70f08bYK89qRHqtG",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!5riGlrKCRzKb6YxO"
+}

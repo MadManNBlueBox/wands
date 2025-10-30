@@ -1,0 +1,221 @@
+{
+  "name": "Divination (School of Magic)",
+  "type": "subclass",
+  "img": "icons/magic/fire/dagger-rune-enchant-flame-strong-blue-yellow.webp",
+  "effects": [],
+  "folder": "WlpvdaC2ZslNMvcf",
+  "sort": 200000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "vywxjPPtRgn5UDBd",
+  "system": {
+    "description": {
+      "value": "<p>Divination is an unusual branch of magic involving gathering insights into past, present and future events. It is an inexact science, requiring interpretation of tea leaves and omens. Some believe true divination involves meditation and a belief of non-self to access the Inner Eye, while Centaurs have a unique way of practicing divination by observing the movement of planets, moons, and stars.</p><h2 style=\"border-bottom:1px solid var(--color-underline-header)\">Seers</h2><p>Naturally gifted in divination, a seer is a wizard or witch who can see into the future with their Inner Eye. While some seers unknowingly utter prophecies about strangers, other seers will glimpse their own futures. Renowned wizards believed that seeing into the future is incredibly difficult, because the complexity of every action and its consequences.</p><h2 style=\"border-bottom:1px solid var(--color-underline-header)\">Legilimens</h2><p>Legilimency is a far more tangible ability, navigating through the many layers of a person's mind and interpreting one's findings. Muggles call this “mind-reading,” but practitioners disdain the term as naive. They often practice occlumency, shielding your mind from the invasion of another legilimens. Although rare natural legilimens exist, it is a field of study that requires great dedication and care.</p><h3><strong>School of Magic Abilities</strong></h3><table style=\"width:296px\"><tbody><tr><td style=\"width:142px\"><p><strong>Required Level</strong></p></td><td style=\"width:147px\"><p><strong>Ability</strong></p></td></tr><tr><td style=\"width:142px\"><p>1st</p></td><td style=\"width:147px\"><p>@UUID[Compendium.wands.features-wands.Item.srRtgG4zoLaEil5N]{Cleromancy}</p></td></tr><tr><td style=\"width:142px\"><p>3rd</p></td><td style=\"width:147px\"><p>@UUID[Compendium.wands.features-wands.Item.u5QusbRmcQjYl0Rw]{Tasseomancy}</p></td></tr><tr><td style=\"width:142px\"><p>7th</p></td><td style=\"width:147px\"><p>@UUID[Compendium.wands.features-wands.Item.LaLGB1LcuduKwnIQ]{Cartomancy}</p></td></tr><tr><td style=\"width:142px\"><p>9th</p></td><td style=\"width:147px\"><p>@UUID[Compendium.wands.features-wands.Item.pGjSQVEEO4vxnCnx]{Crystal-gazing}</p></td></tr></tbody></table><h2 style=\"border-bottom:1px solid var(--color-underline-header)\">Subclass Features</h2><h3><strong>Clairvoyant Studies</strong></h3><p>At 1st level, you gain one of the following features.</p><p>@UUID[Compendium.wands.features-wands.Item.YGtnl1VfN7BvP21T]{Fortune Teller}</p><p>@UUID[Compendium.wands.features-wands.Item.K98JhLEPW6V5GRHi]{Sensing Danger}</p><h3><strong>Farseeing</strong></h3><p>At 6th level, you gain one of the following features.</p><p>@UUID[Compendium.wands.features-wands.Item.ExfeFDYBDW3wmPjQ]{Foresight}</p><p>@UUID[Compendium.wands.features-wands.Item.H3mJ4CG9jCjJ6p3c]{Legilimency}</p><h3><strong>The Unseeable</strong></h3><p>At 10th level, you gain one of the following features.</p><p>@UUID[Compendium.wands.features-wands.Item.j2mY6WoFFI1NFat3]{Palmistry}</p><p>@UUID[Compendium.wands.features-wands.Item.0kOF1UxiRtRlOE8O]{Skilled Occlumens}</p><h3><strong>Revealed Intentions</strong></h3><p>At 14th level, you gain one of the following features.</p><p>@UUID[Compendium.wands.features-wands.Item.KIX1NJuJ1l4yi1nz]{Aura Reading}</p><p>@UUID[Compendium.wands.features-wands.Item.oEK9maUDS84dE0do]{Darting Eyes}</p><h3><strong>Mystical Knowledge</strong></h3><p>At 18th level, you gain one of the following features.</p><p>@UUID[Compendium.wands.features-wands.Item.gJCLVF6JkHwqkfEZ]{Vivid Visions}</p><p>@UUID[Compendium.wands.features-wands.Item.zLxrw58humIRuiJW]{Master of Minds}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.23",
+    "identifier": "divination",
+    "classIdentifier": "casting-style",
+    "advancement": [
+      {
+        "_id": "gq68jimgxyot091u",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.features-wands.Item.srRtgG4zoLaEil5N"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 1,
+        "title": "Divination Ability",
+        "icon": null
+      },
+      {
+        "_id": "5b4gjs8hyl84j3lx",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.features-wands.Item.LaLGB1LcuduKwnIQ"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 7,
+        "title": "Divination Ability"
+      },
+      {
+        "_id": "cp6ey0wf1cu08bc1",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.features-wands.Item.pGjSQVEEO4vxnCnx"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 9,
+        "title": "Divination Ability"
+      },
+      {
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.features-wands.Item.u5QusbRmcQjYl0Rw"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 3,
+        "title": "Divination Ability",
+        "_id": "tl84QDy6A4fIkNdd",
+        "icon": null
+      },
+      {
+        "_id": "TWFgTt6bRuK38Gb6",
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "1": 1
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            "Compendium.wands.features-wands.Item.YGtnl1VfN7BvP21T",
+            "Compendium.wands.features-wands.Item.K98JhLEPW6V5GRHi"
+          ],
+          "spell": null,
+          "hint": "",
+          "restriction": {
+            "type": "class"
+          }
+        },
+        "value": {},
+        "title": "Feature",
+        "icon": null
+      },
+      {
+        "_id": "duaelvHK5tQ5vUg6",
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "6": 1
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            "Compendium.wands.features-wands.Item.ExfeFDYBDW3wmPjQ",
+            "Compendium.wands.features-wands.Item.H3mJ4CG9jCjJ6p3c"
+          ],
+          "spell": null,
+          "hint": "",
+          "restriction": {
+            "type": "class",
+            "subtype": ""
+          }
+        },
+        "value": {},
+        "title": "Feature",
+        "icon": null
+      },
+      {
+        "_id": "Vg14fhpcbwysrX8k",
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "10": 1
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            "Compendium.wands.features-wands.Item.j2mY6WoFFI1NFat3",
+            "Compendium.wands.features-wands.Item.0kOF1UxiRtRlOE8O"
+          ],
+          "spell": null,
+          "hint": "",
+          "restriction": {
+            "type": "class",
+            "subtype": ""
+          }
+        },
+        "value": {},
+        "title": "Feature",
+        "icon": null
+      },
+      {
+        "_id": "ppIMv5RtDxgV3AS5",
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "14": 1
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            "Compendium.wands.features-wands.Item.KIX1NJuJ1l4yi1nz",
+            "Compendium.wands.features-wands.Item.oEK9maUDS84dE0do"
+          ],
+          "spell": null,
+          "hint": "",
+          "restriction": {
+            "type": "class",
+            "subtype": ""
+          }
+        },
+        "value": {},
+        "title": "Feature",
+        "icon": null
+      },
+      {
+        "_id": "XkE3juTlr4V1Fg9W",
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "18": 1
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            "Compendium.wands.features-wands.Item.gJCLVF6JkHwqkfEZ",
+            "Compendium.wands.features-wands.Item.zLxrw58humIRuiJW"
+          ],
+          "spell": null,
+          "hint": "",
+          "restriction": {
+            "type": "class",
+            "subtype": ""
+          }
+        },
+        "value": {},
+        "title": "Feature",
+        "icon": null
+      }
+    ],
+    "spellcasting": {
+      "progression": "full",
+      "ability": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424762,
+    "modifiedTime": 1708982358512,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Item.XZZjLZwd8R4cIXhB",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!vywxjPPtRgn5UDBd"
+}

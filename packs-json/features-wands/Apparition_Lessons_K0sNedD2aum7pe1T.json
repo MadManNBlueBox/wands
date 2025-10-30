@@ -1,0 +1,101 @@
+{
+  "name": "Apparition Lessons",
+  "type": "feat",
+  "img": "icons/sundries/books/book-embossed-spiral-purple-white.webp",
+  "effects": [],
+  "folder": "iAydmmJhg1PATiSa",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Apparition is the method by which many adult witches and wizards choose to travel from place to place. When one apparates, they turn on the spot, \"feeling [their] way into nothingness,\" and vanish from their present location to reappear a second later in a new location, accompanied by a loud cracking or popping sound.</p>\n<p>Apparition, much like muggle driving, requires the individual take an exam to acquire a license at the age of 17. To prepare, 16-year-olds can take lessons in apparition, usually by practicing short jumps of only a few feet in the presence of an instructor. This is because the process can be dangerous; if the witch or wizard does not have the proper focus when they apparate, they may leave a part of themselves behind.</p>\n<p>You learn @Item[xK02DxaDQAuWbnHf]{Apparation}.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "W&W p60"
+    },
+    "activation": {
+      "type": "",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null,
+      "scale": false
+    },
+    "ability": "",
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "requirements": "9th level",
+    "recharge": {
+      "value": null,
+      "charged": false
+    },
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424766,
+    "modifiedTime": 1708584022162,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "K0sNedD2aum7pe1T",
+  "sort": 1000000,
+  "_key": "!items!K0sNedD2aum7pe1T"
+}

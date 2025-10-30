@@ -1,0 +1,102 @@
+{
+  "name": "Animagus Transformation",
+  "type": "feat",
+  "img": "icons/magic/nature/wolf-paw-glow-green.webp",
+  "effects": [],
+  "folder": "ZNrtfcrRGYMDXeuX",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>You can use your action to magically assume the shape of your animagus form (see Your Animagus Form below). You can use this feature twice. You regain expended uses when you finish a short or long rest.</p>\n<p> </p>\n<h2>Your Animagus Form</h2>\n<p>You can stay in animagus form for a number of hours equal to half your transfiguration level (rounded down). You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.</p>\n<p>While you are transformed, the following rules apply:</p>\n<ul>\n<li>Your game statistics are replaced by the statistics of the beast, but you retain your alignment, personality, and intelligence, wisdom, and charisma scores. You also retain all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you, use the higher bonus.</li>\n<li>When you transform, you assume the beast's hit points and hit dice. When you revert, you return to the hit points you had before you transformed. If you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. For example, if you take 10 damage in animagus form and have only 1 hit point left, you revert and take 9 damage.</li>\n<li>You can't cast spells, and the actions you can take are dependent on your beast form's physical capabilities. Transforming doesn't break your concentration or prevent actions that are part of an already-cast spell, but Dedication spells end upon transforming.</li>\n<li>You retain the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so.</li>\n<li>Your equipment merges into your new form and has no effect until you leave the form.</li>\n</ul>\n<p>When you gain the Animagus Transformation feature, you must decide between the two types of forms: Combat form or Evasion form. This is a permanent, one-time choice and will determine the stats and abilities of your animagus form.</p>\n<section class=\"secret\">\n<h3>Combat Form</h3>\n<p>A Combat animagus form is a large or powerful predator that can hold its own against dangerous creatures. It is both sturdy and capable of fighting back with lethal force.</p>\n<p>Your form must be classified into one of two categories: Land or Water. If your chosen animal breathes and lives underwater, it must be Water. Otherwise, it will be Land, an air-breathing animal that lives on land and is incapable of flight. This classification will determine certain statistics and traits of your animagus form's stat block.</p>\n<p>Combat forms can be one of two sizes: Medium or Large. Your form's size should be determined by the creature's actual size; for instance, all dogs would be Medium, not Large. You need your HM's approval to choose a Large-sized animagus form, and transforming into a Large animal may mean you'll be unable to transform in cramped spaces.</p>\n<h3>Evasion Form</h3>\n<p>An Evasion animagus form is a small and discreet animal that would not typically attract a lot of attention. It is likely prey in the natural word, surviving by being quiet, mobile and alert. Evasion forms are largely useless in combat, but are extremely capable of hiding, escaping and getting to hard-to-reach places.</p>\n<p>Your form must be classified into one of two categories: Land, Water or Air. If your chosen animal breathes and lives underwater, it must be Water. If it is an air-breathing animal that lives on land and is incapable of flight, it must be Land. If it is capable of sustained flight, it must be Air. This classification will determine certain statistics and traits of your animagus form's stat block.</p>\n<p>Evasion forms can be one of three sizes: Tiny, Small or Medium. Your form's size should be determined by the creature's actual size; for instance, a cat would be Tiny and a hawk would be Small.</p>\n<h3>Choosing an Animal</h3>\n<p>Your animagus form is the same animal as your corporeal patronus. Choose your animagus form from the animals listed in Appendix B: Patronus Rolling Tables. If you are choosing your corporeal patronus before taking the Animagus Transformation feature, you should choose based on your desired animagus attributes (Combat vs. Evasion, Land vs. Water vs. Air). You cannot transform into a magical beast as an animagus. If you roll a magical beast (91-00 or 0 on the Patronus Rolling Tables) while determining your corporeal patronus, you must re-roll your patronus animal.</p>\n<h3>Different Mobilities</h3>\n<p>It may make sense for a land animal to have different speeds. Work with your HM to customize your animagus form, like giving an otter swim speed, a monkey climb speed or a mole burrow speed. To compensate, the usual speed of 40 ft. should then be reduced to 30 ft.</p>\n</section>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "W&W p.19"
+    },
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 2,
+      "max": "2",
+      "per": "sr",
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null,
+      "scale": false
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "requirements": "Transfiguration",
+    "recharge": {
+      "value": null,
+      "charged": false
+    },
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424887,
+    "modifiedTime": 1708585271029,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "dCaSJnUhQVjdRsIo",
+  "sort": 500000,
+  "_key": "!items!dCaSJnUhQVjdRsIo"
+}

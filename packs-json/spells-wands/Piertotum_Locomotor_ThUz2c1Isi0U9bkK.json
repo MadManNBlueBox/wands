@@ -1,0 +1,110 @@
+{
+  "name": "Piertotum Locomotor",
+  "type": "spell",
+  "img": "icons/magic/air/fog-gas-smoke-gray.webp",
+  "effects": [],
+  "folder": "1crSeXZMenf9H1UB",
+  "sort": 400000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "ThUz2c1Isi0U9bkK",
+  "system": {
+    "description": {
+      "value": "<p>Objects come to life at your command. Choose up to five nonmagical objects within range that are not being worn or carried. Medium targets count as one object, large targets count as two objects, huge targets count as four objects. You can't animate any object larger than huge. Each target animates and becomes a creature under your control until the spell ends or until reduced to 0 hit points.</p>\n<p>As a bonus action, you can mentally command any creature you made with this spell if the creature is within 500 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.</p>\n<h3 id=\"chapter-9-spells-spell-descriptions-expecto-patronum-piertotum-locomotor-animated-object-statistics\"><strong>Animated Object Statistics</strong></h3>\n<table style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;border-spacing:0px;background-color:#eee5ce;font-family:ScalySans;width:324px;margin-bottom:1em;font-size:10pt;line-height:1.1em;z-index:15;break-inside:avoid;overflow:hidden\">\n<thead style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;display:table-row-group;font-weight:800\">\n<tr style=\"box-sizing:border-box;-webkit-print-color-adjust:exact\">\n<th style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0px 0.1em 0.3em;text-align:left;vertical-align:bottom\">Size</th>\n<th style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0px 0.1em 0.3em;text-align:center;vertical-align:bottom\">HP</th>\n<th style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0px 0.1em 0.3em;text-align:center;vertical-align:bottom\">AC</th>\n<th style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0px 0.1em 0.3em;text-align:left;vertical-align:bottom\">Attack</th>\n<th style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0px 0.1em 0.3em;text-align:center;vertical-align:bottom\">Str</th>\n<th style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0px 0.1em 0.3em;text-align:center;vertical-align:bottom\">Dex</th>\n</tr>\n</thead>\n<tbody style=\"box-sizing:border-box;-webkit-print-color-adjust:exact\">\n<tr style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;background-color:#e0e5c1\">\n<td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em\">Medium</td>\n<td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center\">40</td>\n<td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center\">13</td>\n<td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em\">+5 to hit, 2d6 + 1 damage</td>\n<td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center\">10</td>\n<td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center\">12</td>\n</tr>\n<tr style=\"box-sizing:border-box;-webkit-print-color-adjust:exact\">\n<td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em\">Large</td>\n<td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center\">50</td>\n<td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center\">10</td>\n<td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em\">+6 to hit, 2d10 + 2 damage</td>\n<td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center\">14</td>\n<td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center\">10</td>\n</tr>\n<tr style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;background-color:#e0e5c1\">\n<td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em\">Huge</td>\n<td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center\">80</td>\n<td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center\">10</td>\n<td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em\">+8 to hit, 2d12 + 4 damage</td>\n<td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center\">18</td>\n<td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center\">6</td>\n</tr>\n</tbody>\n</table>\n<p>An animated object is a construct with AC, hit points, attacks, Strength, and Dexterity determine by its size. Its Constitution is 10 and its Intelligence and Wisdom are 3, and its Charisma is 1. Its speed is 30 feet, if the Objects lack legs or other appendages it can use for locomotion, it instead has a flying speed of 30 feet and can hover. If the object is securely attached to a surface or larger object, such as a chain bolted to a wall, its speed is 0. It has blindsight with a radius of 30 feet and is blind beyond that distance. When the animated object drops to 0 hit points, it is destroyed.</p>\n<p>If you command an object to attack, it can make a single melee attack against a creature within 5 feet of it. It makes a slam attack with an attack bonus and bludgeoning damage determine by its size. The HM might rule that a specific object inflicts slashing or piercing damage based on its form.</p>\n<p><strong>At Higher Levels.</strong> If you cast this spell using a spell slot of 6th level or higher, you can animate one additional object for each slot level above 5th.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.79",
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": 1,
+      "units": "minute"
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": 90,
+      "long": null,
+      "units": "ft"
+    },
+    "uses": {
+      "value": null,
+      "max": null,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": null
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "level": 5,
+    "school": "cha",
+    "components": {
+      "value": "",
+      "vocal": true,
+      "somatic": true,
+      "material": false,
+      "ritual": false,
+      "concentration": true
+    },
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "scaling": {
+      "mode": "level",
+      "formula": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995425062,
+    "modifiedTime": 1709154996725,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Compendium.waw.spells-wandw.Rf7cknOaw5h7dxDf",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!ThUz2c1Isi0U9bkK"
+}

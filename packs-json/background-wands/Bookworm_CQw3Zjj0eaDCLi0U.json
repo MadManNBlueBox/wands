@@ -1,0 +1,53 @@
+{
+  "_id": "CQw3Zjj0eaDCLi0U",
+  "name": "Bookworm",
+  "type": "background",
+  "img": "icons/sundries/books/book-plain-orange.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>You've always been known to have your nose in a book, whether you obsess over your homework or escape reality into a world of fiction. You feel at home in a library and often solve your problems through research and study. Because you readily absorb so much from others, you've learned things, traveled places, felt emotions, and seen wonders far beyond your own experiences.</p><hr style=\"border-top:1px solid var(--color-border-light-primary);border-bottom:1px solid var(--color-border-light-highlight)\" /><p><strong>Skill Proficiencies:</strong> Magical Theory, Investigation</p><p><strong>Equipment:</strong> Your favorite book, a book you're currently reading, and a small back-up quill</p><p><strong>Feature:</strong> @UUID[Compendium.wands.backgrounds-wands.Item.EouqUp6xId2pfrJi]{Teacher's Pet}</p><hr style=\"border-top:1px solid var(--color-border-light-primary);border-bottom:1px solid var(--color-border-light-highlight)\" /><h3>Wand Characteristics</h3><p>@Compendium[wands.wands-roll-tables.k9rTp75Vg9dvdZBc]{Bookworm - Wood (Personality Traits)}</p><p>@Compendium[wands.wands-roll-tables.r3PDF4XImfDZ7Zvv]{Bookworm - Core (Ideal)}</p><p>@Compendium[wands.wands-roll-tables.sYd7HPhREPPKa1wa]{Bookworm - Length (Bond)}</p><p>@Compendium[wands.wands-roll-tables.QWmXp80pXwSaQp20]{Bookworm - Flexibility (Flaw)}</p><hr style=\"border-top:1px solid var(--color-border-light-primary);border-bottom:1px solid var(--color-border-light-highlight)\" /><h3>Variant</h3><p>@UUID[Compendium.wands.backgrounds-wands.Item.nWda8InfJIKCTLTY]{Prodigy}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.30",
+    "advancement": [
+      {
+        "_id": "d8xaMzaP2rSIaMNq",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.backgrounds-wands.Item.EouqUp6xId2pfrJi"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Feature",
+        "icon": null
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424745,
+    "modifiedTime": 1708976053641,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Item.8pBMTiRHAMGiEOeJ",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!CQw3Zjj0eaDCLi0U"
+}

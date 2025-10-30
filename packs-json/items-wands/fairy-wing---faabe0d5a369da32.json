@@ -1,0 +1,35 @@
+{
+    "_id": "faabe0d5a369da32",
+    "_key": "!items!faabe0d5a369da32",
+    "name": "fairy wing",
+    "type": "loot",
+    "img": "icons/creatures/magical/fae-fairy-winged-glowing-green.webp",
+    "effects": [],
+    "folder": "8b9356509439cbd8",
+    "flags": {
+        "core": {}
+    },
+    "system": {
+        "description": {
+            "value": "<p>Alchemy ingredient.</p><p><strong>Rarity:</strong> uncommon</p><hr/><p><strong>Used in:</strong><br>@UUID[Compendium.wands.items-wands.Item.9yOwuN0ZegON8W56]{Girding Potion}</p>",
+            "chat": ""
+        },
+        "source": {
+            "custom": "Generated from potion-recipes.json"
+        },
+        "quantity": 1,
+        "weight": 0.1,
+        "price": {
+            "value": 2.5,
+            "denomination": "gp"
+        },
+        "attunement": 0,
+        "equipped": false,
+        "rarity": "uncommon",
+        "identified": true,
+        "properties": []
+    },
+    "ownership": {
+        "default": 0
+    }
+}

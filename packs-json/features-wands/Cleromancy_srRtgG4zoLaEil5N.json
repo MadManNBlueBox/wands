@@ -1,0 +1,101 @@
+{
+  "name": "Cleromancy",
+  "type": "feat",
+  "img": "icons/commodities/bones/bone-fragments-grey.webp",
+  "effects": [],
+  "folder": "ZNrtfcrRGYMDXeuX",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>You focus your inner eye upon rune-inscribed sticks or Grindylow bones as you cast them on the ground. As an action, you can spend 2 sorcery points to interpret their meaning and advise one being of your choice within 30 feet of you. The next time the being makes an ability check, attack roll or saving throw within the next 10 minutes, the target can roll a [[/r d4]] and add the number rolled to the attack roll or saving throw. This effect can only be active on one target at a time. If you are concentrating on a spell at the time of interpreting the sticks or bones, you lose concentration.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "W&W p.24"
+    },
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": "2 Sorcery Points"
+    },
+    "duration": {
+      "value": "10",
+      "units": "minute"
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": 30,
+      "long": null,
+      "units": "ft"
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null,
+      "scale": false
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "requirements": "Divination",
+    "recharge": {
+      "value": null,
+      "charged": false
+    },
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995425054,
+    "modifiedTime": 1708585286448,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "srRtgG4zoLaEil5N",
+  "sort": 1400000,
+  "_key": "!items!srRtgG4zoLaEil5N"
+}

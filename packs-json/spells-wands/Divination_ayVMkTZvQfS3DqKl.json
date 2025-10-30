@@ -1,0 +1,19 @@
+{
+  "name": "Divination",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "ayVMkTZvQfS3DqKl",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "11.315",
+    "createdTime": 1709148495005,
+    "modifiedTime": 1709148495005,
+    "lastModifiedBy": "6KPKvdrxQhprt6if"
+  },
+  "_key": "!folders!ayVMkTZvQfS3DqKl"
+}

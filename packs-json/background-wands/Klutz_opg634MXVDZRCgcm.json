@@ -1,0 +1,61 @@
+{
+  "name": "Klutz",
+  "type": "background",
+  "img": "icons/commodities/materials/hair-tuft-brown.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {}
+  },
+  "_id": "opg634MXVDZRCgcm",
+  "system": {
+    "description": {
+      "value": "<p>Maybe you're an incredibly uncoordinated person, or perhaps you inherited a particularly petty curse. Whatever the cause, you continually find yourself in the middle of mishaps and blunders. Since being accident-prone is a very dangerous thing to be in the wizarding world, you tend to be hypervigilant and wary of your surroundings.</p><hr style=\"border-top:1px solid var(--color-border-light-primary);border-bottom:1px solid var(--color-border-light-highlight)\" /><p><strong>Skill Proficiencies:</strong> Medicine, Perception</p><p><strong>Equipment:</strong> A lucky charm, and a package of plasters</p><p><strong>Feature:</strong> @UUID[Compendium.wands.backgrounds-wands.Item.6h3i8bqSCMaYTWYw]{Walking Disaster}</p><p><strong>Variant Feature: </strong>@UUID[Compendium.wands.backgrounds-wands.Item.PANwBvpB0NmpLUE4]{Punching Bag}</p><hr style=\"border-top:1px solid var(--color-border-light-primary);border-bottom:1px solid var(--color-border-light-highlight)\" /><h3>Wand Characteristics</h3><p>@Compendium[wands.wands-roll-tables.Q18CLanTMB0kK2x2]{Klutz - Wood (Personality Traits)}</p><p>@Compendium[wands.wands-roll-tables.gjFpTnzXj5DT7NLo]{Klutz - Core (Ideal)}</p><p>@Compendium[wands.wands-roll-tables.jaMWWr29yvokKvlL]{Klutz - Length (Bond)}</p><p>@Compendium[wands.wands-roll-tables.s3In5r0Pv73RIgxd]{Klutz - Flexibility (Flaw)}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.33",
+    "advancement": [
+      {
+        "_id": "PFj23T7PPj7iTqrz",
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "0": 1
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            "Compendium.wands.backgrounds-wands.Item.6h3i8bqSCMaYTWYw",
+            "Compendium.wands.backgrounds-wands.Item.PANwBvpB0NmpLUE4"
+          ],
+          "spell": null,
+          "hint": "",
+          "restriction": {
+            "type": "background"
+          }
+        },
+        "value": {},
+        "title": "Feature",
+        "icon": null
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424870,
+    "modifiedTime": 1708976621338,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Item.GOY0wQLKjHEadVse",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!opg634MXVDZRCgcm"
+}

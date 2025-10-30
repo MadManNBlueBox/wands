@@ -1,0 +1,35 @@
+{
+    "_id": "ef3f5e336f9d0881",
+    "_key": "!items!ef3f5e336f9d0881",
+    "name": "frog brain",
+    "type": "loot",
+    "img": "icons/consumables/meat/frog-leg-raw-green.webp",
+    "effects": [],
+    "folder": "8b9356509439cbd8",
+    "flags": {
+        "core": {}
+    },
+    "system": {
+        "description": {
+            "value": "<p>Alchemy ingredient.</p><p><strong>Rarity:</strong> common</p><hr/><p><strong>Used in:</strong><br>@UUID[Compendium.wands.items-wands.Item.jQ5Y8fArHFHMdez3]{Dreamless Sleep Potion}</p>",
+            "chat": ""
+        },
+        "source": {
+            "custom": "Generated from potion-recipes.json"
+        },
+        "quantity": 1,
+        "weight": 0.1,
+        "price": {
+            "value": 0.5,
+            "denomination": "gp"
+        },
+        "attunement": 0,
+        "equipped": false,
+        "rarity": "common",
+        "identified": true,
+        "properties": []
+    },
+    "ownership": {
+        "default": 0
+    }
+}

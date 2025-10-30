@@ -1,0 +1,110 @@
+{
+  "name": "Protector - Flexibility (Flaw)",
+  "img": "icons/magic/defensive/armor-shield-barrier-steel.webp",
+  "results": [
+    {
+      "_id": "hTsUE0AE1C9RBIMU",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Very Solid: I have little respect for anyone who is not willing to stand up for what is right.",
+      "name": "",
+      "_key": "!tables.results!ovMbxF1L1ZAWC939.hTsUE0AE1C9RBIMU"
+    },
+    {
+      "_id": "oxOjVYgfwM0QN2KK",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mildly Flexible: Secretly, I believe that things would be better if I were a tyrant, ruling over everyone else.",
+      "name": "",
+      "_key": "!tables.results!ovMbxF1L1ZAWC939.oxOjVYgfwM0QN2KK"
+    },
+    {
+      "_id": "SWR1Y3W03mr4hNKZ",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Whippy: Too often, violence is my answer to almost any situation.",
+      "name": "",
+      "_key": "!tables.results!ovMbxF1L1ZAWC939.SWR1Y3W03mr4hNKZ"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "1OYJ2ygxZ9or23lv",
+  "sort": 200000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "ovMbxF1L1ZAWC939",
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156720355,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "RollTable.Qa7H5IglO5fNHqTH",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!ovMbxF1L1ZAWC939"
+}

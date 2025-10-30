@@ -1,0 +1,110 @@
+{
+  "name": "Inanimatus Conjurus",
+  "type": "spell",
+  "img": "icons/magic/defensive/shield-barrier-glowing-triangle-orange.webp",
+  "effects": [],
+  "folder": "Mo9qhFulXOk60lxW",
+  "sort": 100000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "a4hQlSKc5Iz6AFsc",
+  "system": {
+    "description": {
+      "value": "<p>You conjure up an inanimate object in your hand or in an unoccupied space within range that you can see. This object can be no larger than 2 feet on a side and weigh no more than 10 pounds, and its form must be that of a nonmagical object that you have seen.</p>\n<p>The object disappears at the end of the spell's duration or if it takes any damage.</p>\n<p><em><strong>At Higher Levels.</strong></em> When you cast this spell using a spell slot of 2nd level or higher, you may select or stack one of the following effects for each slot level above 1st.</p>\n<ul>\n<li>Increase the side length by 2 feet.</li>\n<li>Increase the weight limit by 10 pounds.</li>\n</ul>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.73",
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": 1,
+      "units": "hour"
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": 10,
+      "long": null,
+      "units": "ft"
+    },
+    "uses": {
+      "value": null,
+      "max": null,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": null
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "level": 1,
+    "school": "trf",
+    "components": {
+      "value": "",
+      "vocal": true,
+      "somatic": true,
+      "material": false,
+      "ritual": true,
+      "concentration": false
+    },
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "scaling": {
+      "mode": "level",
+      "formula": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995425107,
+    "modifiedTime": 1709155579299,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Compendium.waw.spells-wandw.4f48w4sHHmLo6401",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!a4hQlSKc5Iz6AFsc"
+}

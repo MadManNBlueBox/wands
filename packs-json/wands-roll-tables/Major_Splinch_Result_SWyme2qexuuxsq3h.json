@@ -1,0 +1,108 @@
+{
+  "name": "Major Splinch Result",
+  "img": "icons/skills/wounds/injury-pain-body-orange.webp",
+  "description": "A major splinch is far more severe and often life threatening. You lose a large body part, such as a leg or arm, or a piece of flesh is ripped from your body. Roll a number of [[/r d6]] dice equal to your level. You suffer that much slashing damage and a level of exhaustion. This damage cannot be reduced or prevented in any way. At the start of your following turns, you take slashing damage equal to half your level as you bleed out, which ends as soon as you receive hit points from a healing effect.",
+  "results": [
+    {
+      "_id": "HVWDQHAjYkHRatxm",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/commodities/bones/bone-joint-tan.webp",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You lose part of a leg.",
+      "name": "",
+      "_key": "!tables.results!SWyme2qexuuxsq3h.HVWDQHAjYkHRatxm"
+    },
+    {
+      "_id": "d0McDZ9ih4lvpMI7",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/commodities/biological/hand-clawed-tan.webp",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You lose an arm.",
+      "name": "",
+      "_key": "!tables.results!SWyme2qexuuxsq3h.d0McDZ9ih4lvpMI7"
+    },
+    {
+      "_id": "ah9MeK0tZrFFFeL1",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/commodities/biological/pustules-red.webp",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You lose a large amount of flesh.",
+      "name": "",
+      "_key": "!tables.results!SWyme2qexuuxsq3h.ah9MeK0tZrFFFeL1"
+    }
+  ],
+  "formula": "d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "QyRgDsxoMIFbzvJb",
+  "sort": 100000,
+  "flags": {},
+  "_id": "SWyme2qexuuxsq3h",
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156696951,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!SWyme2qexuuxsq3h"
+}

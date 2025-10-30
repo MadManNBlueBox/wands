@@ -1,0 +1,110 @@
+{
+  "name": "Troublemaker - Length (Bond)",
+  "img": "icons/magic/unholy/silhouette-light-fire-blue.webp",
+  "results": [
+    {
+      "_id": "C8fQWcZzklfjez6w",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "9\": An impudent joke once earned me a horrible beating, and I will take my revenge on any bully I encounter.",
+      "name": "",
+      "_key": "!tables.results!gkELBK6K6J3lRmpN.C8fQWcZzklfjez6w"
+    },
+    {
+      "_id": "4bftiuzCtyks1Err",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "11.5\": I will do anything to prove myself superior to my hated rival.",
+      "name": "",
+      "_key": "!tables.results!gkELBK6K6J3lRmpN.4bftiuzCtyks1Err"
+    },
+    {
+      "_id": "AT2UXhr1ZaPkXhK5",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "13.5\": No one else is going to have to endure the hardships I've been through.",
+      "name": "",
+      "_key": "!tables.results!gkELBK6K6J3lRmpN.AT2UXhr1ZaPkXhK5"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "n8EyrfzBwmACsoDw",
+  "sort": 150000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "gkELBK6K6J3lRmpN",
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156760986,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "RollTable.xYEccSNnKNApeoQp",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!gkELBK6K6J3lRmpN"
+}

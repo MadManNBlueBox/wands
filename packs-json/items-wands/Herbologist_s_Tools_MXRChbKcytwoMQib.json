@@ -1,0 +1,47 @@
+{
+  "name": "Herbologist's Tools",
+  "type": "tool",
+  "img": "icons/containers/bags/pouch-leather-green.webp",
+  "effects": [],
+  "folder": "VSpi16qK2PZDTA6e",
+  "sort": 125000,
+  "flags": {},
+  "_id": "MXRChbKcytwoMQib",
+  "system": {
+    "description": {
+      "value": "<p>This set of tools includes a trowel, hand cultivator, pruning shears, dragon-hide gloves, twine, small burlap sacks, a few small pots and a pair of earmuffs.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W",
+    "quantity": 1,
+    "weight": 0,
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "",
+    "identified": true,
+    "toolType": "",
+    "baseItem": "",
+    "ability": "int",
+    "chatFlavor": "",
+    "proficient": 0,
+    "bonus": ""
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424836,
+    "modifiedTime": 1708586727392,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!MXRChbKcytwoMQib"
+}

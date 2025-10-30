@@ -1,181 +1,71 @@
 {
-	"name": "wands",
-	"title": "Wands & Wizards WANDS Rulebook",
-	"description": "Compendium packs for all things Wands & Wizards",
-	"authors": [
-		{
-			"name": "MadManNBlueBox"
-		}
-	],
-	"url": "https://github.com/MadManNBlueBox/wands",
-	"readme": "https://github.com/MadManNBlueBox/wands/blob/master/README.md",
-	"flags": {},
-	"version": "0.11.3",
-	"minimumCoreVersion": "11",
-	"compatibleCoreVersion": "12",
-	"scripts": [],
-	"esmodules": ["./src/wandsandwizards.js"],
-	"styles": [
-		"./styles/waw.css",
-		"./styles/badger.css",
-		"./styles/eagle.css",
-		"./styles/lion.css",
-		"./styles/snake.css",
-		"./styles/beauxbatons.css",
-		"./styles/ilvermorny.css",
-		"./styles/durmstrang.css"
-	],
-	"languages": [
-		{
-			"lang": "en",
-			"name": "English",
-			"path": "lang/en.json"
-		},
-		{
-			"lang": "pt-BR",
-			"name": "Português (Brasil)",
-			"path": "lang/pt-BR.json"
-		}
-	],
-	"packs": [
-		{
-			"name": "features-wands",
-			"label": "Features (WANDS)",
-			"banner": "modules/wands/assets/wandsbanner.webp",
-			"system": "dnd5e",
-			"path": "./packs/features-wands.db",
-			"type": "Item",
-			"module": "wands"
-		},
-		{
-			"name": "backgrounds-wands",
-			"label": "Backgrounds (WANDS)",
-			"banner": "modules/wands/assets/wandsbanner.webp",
-			"system": "dnd5e",
-			"path": "./packs/backgrounds-wands.db",
-			"type": "Item",
-			"module": "wands"
-		},
-		{
-			"name": "casting-styles-and-schools-of-magic-wands",
-			"label": "Casting Styles and Schools of Magic (WANDS)",
-			"banner": "modules/wands/assets/wandsbanner.webp",
-			"system": "dnd5e",
-			"path": "./packs/casting-styles-and-schools-of-magic-wands.db",
-			"type": "Item",
-			"module": "wands"
-		},
-		{
-			"name": "houses-wands",
-			"label": "Houses (WANDS)",
-			"banner": "modules/wands/assets/wandsbanner.webp",
-			"system": "dnd5e",
-			"path": "./packs/houses-wands.db",
-			"type": "Item",
-			"module": "wands"
-		},
-		{
-			"name": "items-wands",
-			"label": "Items (WANDS)",
-			"banner": "modules/wands/assets/wandsbanner.webp",
-			"system": "dnd5e",
-			"path": "./packs/items-wands.db",
-			"type": "Item",
-			"module": "wands"
-		},
-		{
-			"name": "magical-pets-wands",
-			"label": "Magical Pets (WANDS)",
-			"banner": "modules/wands/assets/wandsbanner.webp",
-			"system": "dnd5e",
-			"path": "./packs/magical-pets-wands.db",
-			"type": "Actor",
-			"module": "wands"
-		},
-		{
-			"name": "monsters-wands",
-			"label": "Monsters (WANDS)",
-			"banner": "modules/wands/assets/wandsbanner.webp",
-			"system": "dnd5e",
-			"path": "./packs/monsters-wands.db",
-			"type": "Actor",
-			"module": "wands"
-		},
-		{
-			"name": "spells-wands",
-			"label": "Spells (WANDS)",
-			"banner": "modules/wands/assets/wandsbanner.webp",
-			"system": "dnd5e",
-			"path": "./packs/spells-wands.db",
-			"type": "Item",
-			"module": "wands"
-		},
-		{
-			"name": "animagus-form-wands",
-			"label": "Animagus Form (WANDS)",
-			"banner": "modules/wands/assets/wandsbanner.webp",
-			"system": "dnd5e",
-			"path": "./packs/animagus-form-wands.db",
-			"type": "Actor",
-			"module": "wands"
-		},
-		{
-			"name": "wands-roll-tables",
-			"label": "WANDS Roll Tables (WANDS)",
-			"banner": "modules/wands/assets/wandsbanner.webp",
-			"system": "dnd5e",
-			"path": "./packs/wands-roll-tables.db",
-			"type": "RollTable",
-			"module": "wands"
-		}
-	],
-	"packFolders": [
-		{
-			"name": "WANDS",
-			"sorting": "m",
-			"color": "#000475",
-			"packs": [
-				"wands-roll-tables"
-			],
-			"folders": [
-				{
-					"name": "Wizard Features",
-					"sorting": "m",
-                    "color": "#000599",
-                    "packs": [
-						"casting-styles-and-schools-of-magic-wands",
-						"features-wands",
-						"backgrounds-wands",
-						"houses-wands"
-					]
-				},
-				{
-					"name": "Items & Spells",
-					"sorting": "m",
-                    "color": "#0107b7",
-                    "packs": [
-						"items-wands",
-						"spells-wands"
-					]
-				},
-				{
-					"name": "Magical Creatures",
-					"sorting": "m",
-                    "color": "#0006c2",
-                    "packs": [
-						"magical-pets-wands",
-						"monsters-wands",
-						"animagus-form-wands"
-					]
-				}
-			]
-		}
-	],
-	"system": ["dnd5e"],
-	"socket": false,
-	"manifest": "https://github.com/MadManNBlueBox/wands/releases/download/0.11.3/module.json",
-	"download": "https://github.com/MadManNBlueBox/wands/releases/download/0.11.3/module.zip",
-	"protected": false,
-	"coreTranslation": false,
-	"library": false
+  "id": "wands",
+  "name": "wands",
+  "title": "Wands & Wizards WANDS Rulebook",
+  "description": "Compendium packs for all things Wands & Wizards",
+  "authors": [
+    { "name": "MadManNBlueBox" },
+    { "name": "Sparkcity" },
+    { "name": "jaredraycoleman" }
+  ],
+  "url": "https://github.com/jaredraycoleman/wands",
+  "readme": "https://github.com/jaredraycoleman/wands/blob/master/README.md",
+  "flags": {},
+  "version": "0.12.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.347"
+  },
+  "relationships": {
+    "requires": [
+      { "id": "dnd5e", "type": "system", "compatibility": { "minimum": "3" } }
+    ]
+  },
+  "scripts": [],
+  "esmodules": ["src/wandsandwizards.js"],
+  "styles": [
+    "styles/waw.css",
+    "styles/badger.css",
+    "styles/eagle.css",
+    "styles/lion.css",
+    "styles/snake.css",
+    "styles/beauxbatons.css",
+    "styles/ilvermorny.css",
+    "styles/durmstrang.css"
+  ],
+  "languages": [
+    { "lang": "en", "name": "English", "path": "lang/en.json" },
+    { "lang": "pt-BR", "name": "Português (Brasil)", "path": "lang/pt-BR.json" }
+  ],
+  "packs": [
+    { "name": "features-wands", "label": "Features (WANDS)", "banner": "modules/wands/assets/wandsbanner.webp", "system": "dnd5e", "path": "packs/features-wands", "type": "Item", "module": "wands" },
+    { "name": "backgrounds-wands", "label": "Backgrounds (WANDS)", "banner": "modules/wands/assets/wandsbanner.webp", "system": "dnd5e", "path": "packs/backgrounds-wands", "type": "Item", "module": "wands" },
+    { "name": "casting-styles-and-schools-of-magic-wands", "label": "Casting Styles and Schools of Magic (WANDS)", "banner": "modules/wands/assets/wandsbanner.webp", "system": "dnd5e", "path": "packs/casting-styles-and-schools-of-magic-wands", "type": "Item", "module": "wands" },
+    { "name": "houses-wands", "label": "Houses (WANDS)", "banner": "modules/wands/assets/wandsbanner.webp", "system": "dnd5e", "path": "packs/houses-wands", "type": "Item", "module": "wands" },
+    { "name": "items-wands", "label": "Items (WANDS)", "banner": "modules/wands/assets/wandsbanner.webp", "system": "dnd5e", "path": "packs/items-wands", "type": "Item", "module": "wands" },
+    { "name": "magical-pets-wands", "label": "Magical Pets (WANDS)", "banner": "modules/wands/assets/wandsbanner.webp", "system": "dnd5e", "path": "packs/magical-pets-wands", "type": "Actor", "module": "wands" },
+    { "name": "monsters-wands", "label": "Monsters (WANDS)", "banner": "modules/wands/assets/wandsbanner.webp", "system": "dnd5e", "path": "packs/monsters-wands", "type": "Actor", "module": "wands" },
+    { "name": "spells-wands", "label": "Spells (WANDS)", "banner": "modules/wands/assets/wandsbanner.webp", "system": "dnd5e", "path": "packs/spells-wands", "type": "Item", "module": "wands" },
+    { "name": "animagus-form-wands", "label": "Animagus Form (WANDS)", "banner": "modules/wands/assets/wandsbanner.webp", "system": "dnd5e", "path": "packs/animagus-form-wands", "type": "Actor", "module": "wands" },
+    { "name": "wands-roll-tables", "label": "WANDS Roll Tables (WANDS)", "banner": "modules/wands/assets/wandsbanner.webp", "system": "dnd5e", "path": "packs/wands-roll-tables", "type": "RollTable", "module": "wands" }
+  ],
+  "packFolders": [
+    {
+      "name": "WANDS",
+      "sorting": "m",
+      "color": "#000475",
+      "packs": ["wands-roll-tables"],
+      "folders": [
+        { "name": "Wizard Features", "sorting": "m", "color": "#000599", "packs": ["casting-styles-and-schools-of-magic-wands", "features-wands", "backgrounds-wands", "houses-wands"] },
+        { "name": "Items & Spells", "sorting": "m", "color": "#0107b7", "packs": ["items-wands", "spells-wands"] },
+        { "name": "Magical Creatures", "sorting": "m", "color": "#0006c2", "packs": ["magical-pets-wands", "monsters-wands", "animagus-form-wands"] }
+      ]
+    }
+  ],
+  "socket": false,
+  "manifest": "https://github.com/jaredraycoleman/wands/releases/download/0.12.0/module.json",
+  "download": "https://github.com/jaredraycoleman/wands/archive/refs/tags/0.12.0/module.zip",
+  "protected": false,
+  "coreTranslation": false,
+  "library": false
 }

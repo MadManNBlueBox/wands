@@ -1,0 +1,101 @@
+{
+  "name": "Spellcasting (Willpower)",
+  "type": "feat",
+  "img": "icons/sundries/books/book-embossed-steel-brown.webp",
+  "effects": [],
+  "folder": "iAydmmJhg1PATiSa",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Charisma is your spellcasting ability for your spells. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a spell you cast and when making an attack roll with one.</p>\n<p>You must use a wand as a spellcasting focus for your spells. Your spell slot progression is the standard for full casters.</p>\n<p>Additionally, when you gain a level in this class, you can choose two of the cantrips or spells you know and replace them with two new cantrips or spells, which also must be of a level for which you have spell slots.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "W&W p.11"
+    },
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null,
+      "scale": false
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "requirements": "Willpower",
+    "recharge": {
+      "value": null,
+      "charged": false
+    },
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424760,
+    "modifiedTime": 1708584029480,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "xwYxEfiivByAd8KJ",
+  "sort": 25000,
+  "_key": "!items!xwYxEfiivByAd8KJ"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Tool",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "VSpi16qK2PZDTA6e",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "11.315",
+    "createdTime": 1708586719983,
+    "modifiedTime": 1708586719983,
+    "lastModifiedBy": "6KPKvdrxQhprt6if"
+  },
+  "_key": "!folders!VSpi16qK2PZDTA6e"
+}

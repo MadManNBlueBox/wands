@@ -1,0 +1,215 @@
+{
+  "_id": "n31KaJnrCwRtUyuR",
+  "name": "Charms (School of Magic)",
+  "type": "subclass",
+  "img": "icons/magic/fire/dagger-rune-enchant-flame-strong-purple-pink.webp",
+  "effects": [],
+  "folder": "WlpvdaC2ZslNMvcf",
+  "sort": 100000,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Charms, a type of spell that alters properties of a thing, can be some of the most powerful spells in existence. The Fidelius Charm, for example, can completely hide a person or a place in such a way that no one can find them unless given the Secret. Memory Charms can be so strong as to remove a person's memory or damage their mind permanently.</p><h2 style=\"border-bottom:1px solid var(--color-underline-header)\">Duelists</h2><p>Many charms have been weaponized for magical combat. A wizard's duel is a formal practice in wizarding culture in which wizards or witches faced each other and, at the count of three, attempted to disarm, stun, injure, defeat, or kill each other in order to force submission. A duelist is a master of this art, competing in organized, refereed, and non-lethal duels to test and hone their skills.</p><h2 style=\"border-bottom:1px solid var(--color-underline-header)\">Enchanters</h2><p>Other wizards try their hand at enchantments, a nearly permanent charm placed on an inanimate object. These bewitched objects can range from handy (like a self-stirring coffee mug), to complex (like a top-tier racing broom), to bizarre (like a book acting like a rabid version of its subject matter). An enchanted or bewitched object can be powerful in the hands of the right wizard.</p><h3><strong>School of Magic Spells</strong></h3><table style=\"width:289px;height:68px\"><tbody><tr style=\"height:17px\"><td style=\"width:81px;height:17px\"><p><strong>Spell Level</strong></p></td><td style=\"width:201px;height:17px\"><p><strong>Spells</strong></p></td></tr><tr style=\"height:17px\"><td style=\"width:81px;height:17px\"><p>2nd</p></td><td style=\"width:201px;height:17px\"><p>@Compendium[wands.spells-wands.v1TnTjk2YX18SV1B]{Muffliato}</p></td></tr><tr style=\"height:17px\"><td style=\"width:81px;height:17px\"><p>4th</p></td><td style=\"width:201px;height:17px\"><p>@Compendium[wands.spells-wands.7diyINrwOrLBwxrN]{Capacious Extremis}</p></td></tr><tr style=\"height:17px\"><td style=\"width:81px;height:17px\"><p>5th</p></td><td style=\"width:201px;height:17px\"><p>@Compendium[wands.spells-wands.XKcgpYlHVknc8TiD]{Obliviate}, @Compendium[wands.spells-wands.ThUz2c1Isi0U9bkK]{Piertotum Locomotor}</p></td></tr></tbody></table><p> </p><h2 style=\"border-bottom:1px solid var(--color-underline-header)\">Subclass Features</h2><h3><strong>Bewitching Studies</strong></h3><p>At 1st level, you gain one of the following features.</p><p>@UUID[Compendium.wands.features-wands.Item.Id95hikL7vGvRxVb]{Called Shot}</p><p>@UUID[Compendium.wands.features-wands.Item.23g7Lq1DXPHopXjW]{Protective Enchantments}</p><h3><strong>Advanced Charmswork</strong></h3><p>At 6th level, you gain one of the following features.</p><p>@UUID[Compendium.wands.features-wands.Item.RqKX7cH5cCcnYwN1]{Target Practice}</p><p>@UUID[Compendium.wands.features-wands.Item.iI7mXPakj7JcdPEB]{Professional Charmer}</p><p><strong>Unique Talents</strong></p><p>At 10th level, you gain one of the following features.</p><p>@UUID[Compendium.wands.features-wands.Item.Ahg4D1EmcjawNueB]{Muggle Dueling}</p><p>@UUID[Compendium.wands.features-wands.Item.QBBJvAkKPk5dveuC]{Obliviator}</p><h3><strong>Refined Techniques</strong></h3><p>At 14th level, you gain one of the following features.</p><p>@UUID[Compendium.wands.features-wands.Item.s8IaNnOam5Ngh6dj]{Wand and Shield}</p><p>@UUID[Compendium.wands.features-wands.Item.wenKcholDVy6CkF7]{A Duty to Protect}</p><h3><strong>Pinnacle of Casting</strong></h3><p>At 18th level, you gain one of the following features.</p><p>@UUID[Compendium.wands.features-wands.Item.p77oVAIEHAetHpXg]{Lightning-Fast Wand}</p><p>@UUID[Compendium.wands.features-wands.Item.Pda9NazUBRLh6d7t]{Secret-Keeper}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "",
+    "identifier": "charms",
+    "classIdentifier": "casting-style",
+    "advancement": [
+      {
+        "_id": "g9zs5j85sta210ym",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.spells-wands.v1TnTjk2YX18SV1B"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 2,
+        "title": "Spells"
+      },
+      {
+        "_id": "f4cx6gxifm1xpaig",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.spells-wands.7diyINrwOrLBwxrN"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 4,
+        "title": "Spells"
+      },
+      {
+        "_id": "zhbk7t670dgnbjjt",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.spells-wands.XKcgpYlHVknc8TiD",
+            "Compendium.wands.spells-wands.ThUz2c1Isi0U9bkK"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 5,
+        "title": "Spells"
+      },
+      {
+        "_id": "rLzmEufdwmZ0RJqG",
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "1": 1
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            "Compendium.wands.features-wands.Item.Id95hikL7vGvRxVb",
+            "Compendium.wands.features-wands.Item.23g7Lq1DXPHopXjW"
+          ],
+          "spell": null,
+          "hint": "",
+          "restriction": {
+            "type": "class",
+            "subtype": ""
+          }
+        },
+        "value": {},
+        "title": "Feature",
+        "icon": null
+      },
+      {
+        "_id": "cULPTXnfr6Fj6QPC",
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "6": 1
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            "Compendium.wands.features-wands.Item.RqKX7cH5cCcnYwN1",
+            "Compendium.wands.features-wands.Item.iI7mXPakj7JcdPEB"
+          ],
+          "spell": null,
+          "hint": "",
+          "restriction": {
+            "type": "class",
+            "subtype": ""
+          }
+        },
+        "value": {},
+        "title": "Feature",
+        "icon": null
+      },
+      {
+        "_id": "6WxY908iEUlF7S14",
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "10": 1
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            "Compendium.wands.features-wands.Item.Ahg4D1EmcjawNueB",
+            "Compendium.wands.features-wands.Item.QBBJvAkKPk5dveuC"
+          ],
+          "spell": null,
+          "hint": "",
+          "restriction": {
+            "type": "class",
+            "subtype": ""
+          }
+        },
+        "value": {},
+        "title": "Feature",
+        "icon": null
+      },
+      {
+        "_id": "ihVuqL6RykTqBMHn",
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "14": 1
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            "Compendium.wands.features-wands.Item.s8IaNnOam5Ngh6dj",
+            "Compendium.wands.features-wands.Item.wenKcholDVy6CkF7"
+          ],
+          "spell": {
+            "ability": "",
+            "preparation": "",
+            "uses": {
+              "max": "",
+              "per": ""
+            }
+          },
+          "hint": "",
+          "restriction": {
+            "level": "",
+            "type": "class",
+            "subtype": ""
+          }
+        },
+        "value": {},
+        "title": "Feature",
+        "icon": null
+      },
+      {
+        "_id": "KmLhXI9AA4bWO7UK",
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "18": 1
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            "Compendium.wands.features-wands.Item.p77oVAIEHAetHpXg",
+            "Compendium.wands.features-wands.Item.Pda9NazUBRLh6d7t"
+          ],
+          "spell": null,
+          "hint": "",
+          "restriction": {
+            "type": "class",
+            "subtype": ""
+          }
+        },
+        "value": {},
+        "title": "Feature",
+        "icon": null
+      }
+    ],
+    "spellcasting": {
+      "progression": "full",
+      "ability": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424759,
+    "modifiedTime": 1708980012157,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Item.qtPfcnMIQ5aj1pdC",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!n31KaJnrCwRtUyuR"
+}

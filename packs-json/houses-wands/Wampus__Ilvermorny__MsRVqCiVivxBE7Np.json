@@ -1,0 +1,127 @@
+{
+  "folder": null,
+  "name": "Wampus (Ilvermorny)",
+  "type": "race",
+  "img": "icons/magic/light/beam-rays-teal-purple-small.webp",
+  "system": {
+    "description": {
+      "value": "<p>The house represents the body of the wizard. Wampus was chosen by Webster Boot, one of the first students of Ilvermorny and one of Isolt Sayre's adopted children. Wampus favors warriors, taking after Webster's career in the British colonies as a prominent \"Auror for hire.\"</p><h2>Warriors at Heart</h2><p>Wampus is named after the wampus cat, an extremely dangerous magical creature found in America. The wampus cat is XXXXX classified by the Ministry of Magic: \"Known wizard killer / impossible to train or domesticate,\" which is fitting for the Ilvermorny house's reputation.</p><p>Wampuses rarely back down from a fight, whether it's in the form of an argument, fisticuffs or exchanged hexes. They place great value on swift action and self-defense. Fiercely loyal too, a Wampus is a good person to have on your side and terrible to have against you.</p><h2>Wampus Traits</h2><p>Wampuses' traits can be very useful in times of conflict and turmoil.</p><p><strong>Ability Score Increase.</strong> Your Dexterity score, Constitution score, and one other ability score of choice increase by 1.</p><p><strong>Warrior's Endurance.</strong> When you roll a 16 or higher on a death saving throw, you instantly regain 1 hit point. You can't use this feature again until you finish a long rest.</p><p><strong>Contagious Valor.</strong> Your moxie can be inspiring, and those around you feel more inclined to accompany you into battle against your foes.</p><p><strong>Feat.</strong> You gain one feat of your choice.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "W&W",
+      "page": "p.7",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [
+      {
+        "type": "AbilityScoreImprovement",
+        "_id": "BhDrZJfRqemcPPoO",
+        "configuration": {
+          "points": 1,
+          "fixed": {
+            "str": 0,
+            "dex": 1,
+            "con": 1,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 0,
+        "title": "",
+        "icon": null
+      },
+      {
+        "type": "Size",
+        "_id": "kOXerE9KdCcJq5d4",
+        "configuration": {
+          "sizes": [
+            "med"
+          ]
+        },
+        "level": 0,
+        "value": {}
+      },
+      {
+        "type": "Trait",
+        "configuration": {
+          "grants": [
+            "languages:standard:common"
+          ],
+          "mode": "default",
+          "allowReplacements": false,
+          "choices": []
+        },
+        "_id": "QCpjzcL1yMqA3ZB1",
+        "level": 0,
+        "value": {
+          "chosen": []
+        }
+      },
+      {
+        "_id": "TdJSFdXG9YFDSD2l",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.features-wands.Item.eKRIFNekxx8Az6HR",
+            "Compendium.wands.features-wands.Item.uGzL0mWwlYX6cDrL"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Features",
+        "icon": null
+      }
+    ],
+    "movement": {
+      "burrow": null,
+      "climb": null,
+      "fly": null,
+      "swim": null,
+      "walk": 30,
+      "units": null,
+      "hover": false
+    },
+    "senses": {
+      "darkvision": null,
+      "blindsight": null,
+      "tremorsense": null,
+      "truesight": null,
+      "units": null,
+      "special": ""
+    },
+    "type": {
+      "value": "humanoid"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1708497750730,
+    "modifiedTime": 1708629001758,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "MsRVqCiVivxBE7Np",
+  "sort": 0,
+  "_key": "!items!MsRVqCiVivxBE7Np"
+}

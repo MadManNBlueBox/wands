@@ -1,0 +1,110 @@
+{
+  "_id": "tgPT53glC2cTCnjD",
+  "name": "Avis",
+  "type": "spell",
+  "img": "icons/creatures/mammals/bats-movement-flying-black.webp",
+  "effects": [],
+  "folder": "si2BplEz0X6NqMWP",
+  "sort": 100000,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>You conjure either a @Compendium[wands.monsters-wands.q72pYi6AjW3yGtns]{Swarm of Small Birds} or two @Compendium[wands.monsters-wands.02zV5uFAtxRBHc7q]{Swarm of Tiny Birds} that are a species of your choice. The swarm disappears when it drops to 0 hit points or when the spell ends.</p>\n<p>The conjured birds are friendly to you and your companions. Roll initiative for the summoned swarms as a group, which has its own turns. They obey any verbal commands that you issue to them (no action required by you). If you don't issue any commands to them, they defend themselves from hostile creatures, but otherwise take no actions.</p>\n<p><strong>At Higher Levels.</strong> When you cast this spell using certain higher-level spell slots, more creatures appear - twice as many with a 5th-level slot, three times as many with a 7th-level slot, and four times as many with a 9th-level slot.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p. 63",
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": 1,
+      "units": "hour"
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": 60,
+      "long": null,
+      "units": "ft"
+    },
+    "uses": {
+      "value": null,
+      "max": null,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": null
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "level": 3,
+    "school": "trf",
+    "components": {
+      "value": "",
+      "vocal": true,
+      "somatic": true,
+      "material": false,
+      "ritual": false,
+      "concentration": true
+    },
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "scaling": {
+      "mode": "level",
+      "formula": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995425211,
+    "modifiedTime": 1709155560123,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Compendium.waw.spells-wandw.QIkXJQXlqk1CUmEn",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!tgPT53glC2cTCnjD"
+}

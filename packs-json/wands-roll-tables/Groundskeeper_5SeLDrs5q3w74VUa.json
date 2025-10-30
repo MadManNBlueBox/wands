@@ -1,0 +1,19 @@
+{
+  "name": "Groundskeeper",
+  "sorting": "a",
+  "folder": "CkghkUALJpaMfoup",
+  "type": "RollTable",
+  "_id": "5SeLDrs5q3w74VUa",
+  "sort": 400000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "11.315",
+    "createdTime": 1709156640689,
+    "modifiedTime": 1709156790828,
+    "lastModifiedBy": "6KPKvdrxQhprt6if"
+  },
+  "_key": "!folders!5SeLDrs5q3w74VUa"
+}

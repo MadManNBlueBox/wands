@@ -1,0 +1,109 @@
+{
+  "_id": "xjyXNncVKZgo4z01",
+  "name": "Apparition",
+  "type": "spell",
+  "img": "icons/magic/sonic/explosion-shock-wave-teal.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 13100000,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<section class=\"secret\">\n<p>Apparition is the method by which many adult witches and wizards choose to travel from place to place. When one apparates, they turn on the spot, \"feeling [their] way into nothingness,\" and vanish from their present location to reappear a second later in a new location, accompanied by a loud cracking or popping sound.</p>\n<p>Apparition, much like muggle driving, requires the individual take an exam to acquire a license at the age of 17. To prepare, 16-year-olds can take lessons in apparition, usually by practicing short jumps of only a few feet in the presence of an instructor. This is because the process can be dangerous; if the witch or wizard does not have the proper focus when they apparate, they may leave a part of themselves behind.</p>\n<h2><strong>How to Apparate</strong></h2>\n<p>In order to apparate, you must have a proficiency bonus of +4 or greater; the process demands a certain level of magical skill that is beyond younger witches and wizards.</p>\n<p>Though apparition is not technically a spell, it taxes the body much like a spell, and requires you to expend a spell slot. Longer distances require more power and higher level spell slots. Apparition also requires a wand.</p>\n<table style=\"height:184px;width:96.565%\" border=\"1\">\n<tbody>\n<tr style=\"height:17px\">\n<td style=\"text-align:center;width:19.6312%;height:17px\"><strong>Slot Level</strong></td>\n<td style=\"width:79.4588%;height:17px\"><strong>Apparition Range</strong></td>\n</tr>\n<tr style=\"height:31px\">\n<td style=\"width:19.6312%;height:31px\">\n<p style=\"text-align:center\">1st</p>\n</td>\n<td style=\"width:79.4588%;height:31px\">10 ft</td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"width:19.6312%;height:17px;text-align:center\">2nd</td>\n<td style=\"width:79.4588%;height:17px\">50 ft</td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"width:19.6312%;height:17px;text-align:center\">3rd</td>\n<td style=\"width:79.4588%;height:17px\">200 ft</td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"width:19.6312%;height:17px;text-align:center\">4th</td>\n<td style=\"width:79.4588%;height:17px\">1,000 ft</td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"width:19.6312%;height:17px;text-align:center\">5th</td>\n<td style=\"width:79.4588%;height:17px\">1 mile</td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"width:19.6312%;height:17px;text-align:center\">6th</td>\n<td style=\"width:79.4588%;height:17px\">5 miles</td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"width:19.6312%;height:17px;text-align:center\">7th</td>\n<td style=\"width:79.4588%;height:17px\">20 miles</td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"width:19.6312%;height:17px;text-align:center\">8th</td>\n<td style=\"width:79.4588%;height:17px\">100 miles</td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"width:19.6312%;height:17px;text-align:center\">9th</td>\n<td style=\"width:79.4588%;height:17px\">500 miles</td>\n</tr>\n</tbody>\n</table>\n<p>As an action, you can attempt to disapparate. Make an ability check using your spellcasting ability. Other modifiers may add to or subtract from your total. The final result determines if you arrive successfully. If you do, you immediately apparate in an unoccupied space within the distance allowed by the spell slot you expended, automatically compensating for any creatures or objects that may be in your intended space. Because apparition is not a spell, it cannot be countered.</p>\n<p><strong>Leisurely Departure.</strong> For most adults, apparition is a straight-forward process to get to work, run errands or even go downstairs, and there are no immediate threats distracting you. Some good reasons for not having a leisurely departure are: being under fire, being in the presence of a particularly terrifying creature, or suffering significant wounds (missing half your hit points). Leisurely departure is decided by the HM and grants advantage on your apparition ability check.</p>\n<p> </p>\n<table style=\"width:96.7233%;height:102px\" border=\"1\">\n<tbody>\n<tr style=\"height:17px\">\n<td style=\"width:21.8673%;text-align:center;height:17px\"><strong>Ability Check</strong></td>\n<td style=\"width:77.7736%;height:17px\"><strong>Apparition Result</strong></td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"width:21.8673%;height:17px;text-align:center\">15 or higher</td>\n<td style=\"width:77.7736%;height:17px\">You disapparate properly and arrive safely.</td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"width:21.8673%;height:17px;text-align:center\">11-14</td>\n<td style=\"width:77.7736%;height:17px\">You disapparate but arrive off-target ([[/r d20]]).</td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"width:21.8673%;height:17px;text-align:center\">7-10</td>\n<td style=\"width:77.7736%;height:17px\">The disapparition feels off and you stop yourself. Nothing happens.</td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"width:21.8673%;height:17px;text-align:center\">5-6</td>\n<td style=\"width:77.7736%;height:17px\">You suffer a @Compendium[wands.wands-roll-tables.eOCBeLpbD5nA0wDX]{Minor Splinch} and arrive off-target.</td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"width:21.8673%;height:17px;text-align:center\">4 or lower</td>\n<td style=\"width:77.7736%;height:17px\">You suffer a @Compendium[wands.wands-roll-tables.SWyme2qexuuxsq3h]{Major Splinch} and arrive off-target.</td>\n</tr>\n</tbody>\n</table>\n<h3> </h3>\n<h3><strong>Destination, Determination, Deliberation</strong></h3>\n<p>You must visualize your destination when you attempt to apparate. Typically, this means a wizard can only apparate to a location they've been to before and can clearly remember. Apparating to a new location that is in close proximity to a known location may be possible, but may remove the benefit of leisurely departure or even apply disadvantage to the ability check. How difficult it is to apparate to your desired destination is decided by the HM.</p>\n<p><strong>Off-Target.</strong> If you apparate off-target, you appear a random distance away from the destination in a random direction. Distance off-target is determined by a die roll that gives you the percent of the distance that was to be traveled (i.e. if you meant to travel 120 miles, and rolled a 15, you would be 15% of 120 miles off target, or 18 miles). Depending on the severity of your error, the dice used may be a d20 or d100. To determine the direction, roll a d8 and assign a direction to each die face.</p>\n<p><strong>Wandless Apparition.</strong> Apparating without a wand is far more difficult and dangerous than other wandless magic, which is already rarely practiced. To attempt to apparate without a wand, you must have the Wandless Magic feat, you cannot gain the benefit of a leisurely departure, you have disadvantage on the ability check, and you must expend a spell slot two levels higher than the slot you normally would expend.</p>\n<h3><strong>Side-Along Apparition</strong></h3>\n<p>When you apparate, you may bring along a number of creatures equal to your spellcasting ability modifier. Every passenger imposes a -2 penalty on your apparition roll. Each creature must be holding on to either you or another creature that is also holding on to you, and you must make a separate apparition ability check for each creature with the same total side-along penalty and the same advantage or disadvantage. This roll only determines whether or not that creature is splinched. Normal splinching rules apply.</p>\n<p><strong>Forced Side-Along Apparition.</strong> If a creature is grappling you when you disapparate, they side-along apparate with you and you have disadvantage on the roll, in addition to the side-along penalty from the additional passenger. If an enemy creature is within 5 feet of you when you disapparate, they can use their reaction to attempt to grapple you before you vanish.</p>\n<h3><strong>Splinching</strong></h3>\n<p>When you are splinched, you've left a part of yourself behind at your previous location, instead of apparating your entire body. Usually, splinching is a result of not having the proper determination while apparating. How much of you is left behind is determined by whether you had a minor or major splinch.</p>\n<p>A minor splinch is when the lost body part is generally non-threatening; perhaps an eyebrow, a part of your finger, or a small section of skin. You determine how much slashing damage you suffer by rolling a single d10. This damage cannot be reduced or prevented in any way.</p>\n<p>A major splinch is far more severe and often life threatening. You lose a large body part, such as a leg or arm, or a piece of flesh is ripped from your body. Roll a number of d6 dice equal to your level. You suffer that much slashing damage and a level of exhaustion. This damage cannot be reduced or prevented in any way. At the start of your following turns, you take slashing damage equal to half your level as you bleed out, which ends as soon as you receive hit points from a healing effect.</p>\n<p>If you are splinched, the HM will roll on the appropriate table to determine the result. If you lose flesh, the HM can either determine the location arbitrarily, or you can agree on an appropriate spot. For example, if you were being grabbed by an enemy on your right arm, the splinch would likely have occurred there.</p>\n<table style=\"width:96.888%\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width:6.46959%;text-align:center\"><strong>[[/r d6]]</strong></td>\n<td style=\"width:93.1694%\"><strong>Minor Splinch Result</strong></td>\n</tr>\n<tr>\n<td style=\"width:6.46959%;text-align:center\">1</td>\n<td style=\"width:93.1694%\">You lose a part of a finger.</td>\n</tr>\n<tr>\n<td style=\"width:6.46959%;text-align:center\">2</td>\n<td style=\"width:93.1694%\">You lose a toe.</td>\n</tr>\n<tr>\n<td style=\"width:6.46959%;text-align:center\">3</td>\n<td style=\"width:93.1694%\">You lose a piece of one of your ears.</td>\n</tr>\n<tr>\n<td style=\"width:6.46959%;text-align:center\">4</td>\n<td style=\"width:93.1694%\">You lose a small piece of skin.</td>\n</tr>\n<tr>\n<td style=\"width:6.46959%;text-align:center\">5</td>\n<td style=\"width:93.1694%\">You lose one of your eyebrows.</td>\n</tr>\n<tr>\n<td style=\"width:6.46959%;text-align:center\">6</td>\n<td style=\"width:93.1694%\">You lose an article of clothing.</td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<table style=\"width:96.7956%;height:81px\" border=\"1\">\n<tbody>\n<tr style=\"height:30px\">\n<td style=\"width:6.12681%;text-align:center;height:30px\"><strong>[[/r d6]]</strong></td>\n<td style=\"width:93.5122%;height:30px\"><strong>Major Splinch Result</strong></td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"width:6.12681%;text-align:center;height:17px\">1-2</td>\n<td style=\"width:93.5122%;height:17px\">You lose part of a leg.</td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"width:6.12681%;text-align:center;height:17px\">3</td>\n<td style=\"width:93.5122%;height:17px\">You lose an arm.</td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"width:6.12681%;text-align:center;height:17px\">4-6</td>\n<td style=\"width:93.5122%;height:17px\">You lose a large amount of flesh.</td>\n</tr>\n</tbody>\n</table>\n</section>\n<p>As an action, you turn on the spot, attempting to disapparate into nothingness and appear at your envisioned destination. Based on the distance to your destination, you expend the appropriate spell slot. Make an ability check using your spellcasting ability (Other Formula).</p>\n<p> </p>\n<p>Use the following roll table to determine the result:</p>\n<table style=\"width:99.5562%\" border=\"1\">\n<tbody>\n<tr>\n<td style=\"width:10.2646%;text-align:center\"><strong style=\"text-align:center\">Ability Check</strong></td>\n<td style=\"width:89.438%\"><strong style=\"outline:0px;user-select:none\">Apparition Result</strong></td>\n</tr>\n<tr>\n<td style=\"width:10.2646%;text-align:center\"><span style=\"text-align:center\">15 or higher</span></td>\n<td style=\"width:89.438%\">You disapparate properly and arrive safely.</td>\n</tr>\n<tr>\n<td style=\"width:10.2646%;text-align:center\">11-14</td>\n<td style=\"width:89.438%\">You disapparate but arrive off-target ([[/r d20]]).</td>\n</tr>\n<tr>\n<td style=\"width:10.2646%;text-align:center\">7-10</td>\n<td style=\"width:89.438%\">The disapparition feels off and you stop yourself. Nothing happens.</td>\n</tr>\n<tr>\n<td style=\"width:10.2646%;text-align:center\">5-6</td>\n<td style=\"width:89.438%\">You suffer a @Compendium[wands.wands-roll-tables.eOCBeLpbD5nA0wDX]{Minor Splinch} and arrive off-target.</td>\n</tr>\n<tr>\n<td style=\"width:10.2646%;text-align:center\">4 or below</td>\n<td style=\"width:89.438%\">You suffer a @Compendium[wands.wands-roll-tables.SWyme2qexuuxsq3h]{Major Splinch} and arrive off-target.</td>\n</tr>\n</tbody>\n</table>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p60",
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": "inst"
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "self",
+      "type": ""
+    },
+    "range": {
+      "value": 0.001,
+      "long": 500,
+      "units": "mi"
+    },
+    "uses": {
+      "value": null,
+      "max": null,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "util",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "d20+@mod",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "level": 1,
+    "school": "con",
+    "components": {
+      "value": "",
+      "vocal": false,
+      "somatic": false,
+      "material": false,
+      "ritual": false,
+      "concentration": false
+    },
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "preparation": {
+      "mode": "always",
+      "prepared": false
+    },
+    "scaling": {
+      "mode": "level",
+      "formula": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995425234,
+    "modifiedTime": 1709148462536,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Item.xK02DxaDQAuWbnHf",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!xjyXNncVKZgo4z01"
+}

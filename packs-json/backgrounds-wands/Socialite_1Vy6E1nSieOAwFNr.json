@@ -1,0 +1,53 @@
+{
+  "name": "Socialite",
+  "type": "background",
+  "img": "icons/skills/social/diplomacy-unity-alliance.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {}
+  },
+  "_id": "1Vy6E1nSieOAwFNr",
+  "system": {
+    "description": {
+      "value": "<p>You seem to make friends wherever you go. It might be your forceful personality or the delicious gossip, but no matter what it is, people are drawn to you. You enjoy being the center of attention and feel invigorated by lively crowds, but you might get carried away with impressing your admirers.</p><hr style=\"border-top:1px solid var(--color-border-light-primary);border-bottom:1px solid var(--color-border-light-highlight)\" /><p><strong>Skill Proficiencies:</strong> Deception, Persuasion</p><p><strong>Equipment:</strong> A ring with a family crest or another type of heirloom jewelry, and a peacock feather quill</p><p><strong>Feature:</strong> @UUID[Compendium.wands.backgrounds-wands.Item.DkYENFbwBxF1Cvc3]{Rumor-Monger}</p><hr style=\"border-top:1px solid var(--color-border-light-primary);border-bottom:1px solid var(--color-border-light-highlight)\" /><h3>Wand Characteristics</h3><p>@Compendium[wands.wands-roll-tables.Xy5a4yp6Z0L9iTv5]{Socialite - Wood (Personality Traits)}</p><p>@Compendium[wands.wands-roll-tables.gIXdFaOlhW3F7nrt]{Socialite - Core (Ideal)}</p><p>@Compendium[wands.wands-roll-tables.1lDnmoV1tYwDSDey]{Socialite - Length (Bond)}</p><p>@Compendium[wands.wands-roll-tables.fHvQuSgFu3nv5Q6q]{Socialite - Flexibility (Flaw)}</p><hr style=\"border-top:1px solid var(--color-border-light-primary);border-bottom:1px solid var(--color-border-light-highlight)\" /><h3>Variant</h3><p>@UUID[Compendium.wands.backgrounds-wands.Item.DftCIK6YcbR9TmfO]{Follower}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.37",
+    "advancement": [
+      {
+        "_id": "93ayq5f90cjulw9x",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.backgrounds-wands.Item.DkYENFbwBxF1Cvc3"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Feature",
+        "icon": null
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424736,
+    "modifiedTime": 1708977191620,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Item.70f08bYK89qRHqtG",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!1Vy6E1nSieOAwFNr"
+}

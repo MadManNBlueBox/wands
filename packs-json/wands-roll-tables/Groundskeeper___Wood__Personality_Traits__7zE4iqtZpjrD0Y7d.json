@@ -1,0 +1,240 @@
+{
+  "name": "Groundskeeper - Wood (Personality Traits)",
+  "img": "icons/environment/settlement/hut.webp",
+  "results": [
+    {
+      "_id": "UMrQCJPtgOsYBt1h",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chestnut",
+      "name": "",
+      "_key": "!tables.results!7zE4iqtZpjrD0Y7d.UMrQCJPtgOsYBt1h"
+    },
+    {
+      "_id": "zEDKQ0764gfPEQ81",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "This is a most curious, multi-faceted wood, which takes a great deal of colour from the personality that possesses it. The wand of chestnut is attracted to witches and wizards who are skilled tamers of magical beasts and those who are natural fliers. However, three successive heads of the Wizengamot have possessed chestnut and unicorn wands, for this combination shows a predilection for those concerned with all manner of justice.",
+      "name": "",
+      "_key": "!tables.results!7zE4iqtZpjrD0Y7d.zEDKQ0764gfPEQ81"
+    },
+    {
+      "_id": "CrNbE8sYUe90lMkm",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "English Oak",
+      "name": "",
+      "_key": "!tables.results!7zE4iqtZpjrD0Y7d.CrNbE8sYUe90lMkm"
+    },
+    {
+      "_id": "dJbQfSuRLPg6lZ4j",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A wand for good times and bad, this is a friend as loyal as the wizard who deserves it. Wands of English oak demand partners of strength, courage and fidelity. Less well-known is the propensity for owners of English oak wands to have powerful intuition, and, often, an affinity with the magic of the natural world, with the creatures and plants that are necessary to wizardkind.",
+      "name": "",
+      "_key": "!tables.results!7zE4iqtZpjrD0Y7d.dJbQfSuRLPg6lZ4j"
+    },
+    {
+      "_id": "tH6H563XRzzVD3Yv",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Maple",
+      "name": "",
+      "_key": "!tables.results!7zE4iqtZpjrD0Y7d.tH6H563XRzzVD3Yv"
+    },
+    {
+      "_id": "eKSKMBP7tMcgMr80",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Garrick Ollivander found that witches and wizards chosen by maple wands, a beautiful and desirable wood, are by nature travelers and explorers. They are not stay-at-home wands, and prefer ambition in their owner, otherwise their magic grows lackluster. Fresh challenges and regular changes of scene cause this wand to literally shine, burnishing itself as it grows with its partner in ability and status, earning its reputation as the wand of high achievers.",
+      "name": "",
+      "_key": "!tables.results!7zE4iqtZpjrD0Y7d.eKSKMBP7tMcgMr80"
+    },
+    {
+      "_id": "oW8ogucaOoKLPwYY",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Poplar",
+      "name": "",
+      "_key": "!tables.results!7zE4iqtZpjrD0Y7d.oW8ogucaOoKLPwYY"
+    },
+    {
+      "_id": "v05rRuXQJsa3dICL",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Poplar wands can be relied upon, wands of consistency, strength and uniform power. Always happiest when working with a witch or wizard of clear moral vision, some wizards joke that a poplar wand has never chosen a politician. However, two of the Ministry’s most accomplished Ministers for Magic, Eldritch Diggory and Evangeline Orpington, were possessors of fine, Ollivander-made poplar wands.",
+      "name": "",
+      "_key": "!tables.results!7zE4iqtZpjrD0Y7d.v05rRuXQJsa3dICL"
+    }
+  ],
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "5SeLDrs5q3w74VUa",
+  "sort": 125000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "7zE4iqtZpjrD0Y7d",
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156645271,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "RollTable.BhPwADeXTOr2zs1I",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!7zE4iqtZpjrD0Y7d"
+}

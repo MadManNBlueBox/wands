@@ -1,0 +1,110 @@
+{
+  "name": "Dreamer - Length (Bond)",
+  "img": "icons/magic/time/day-night-sunset-sunrise.webp",
+  "results": [
+    {
+      "_id": "qhikm90oTdXgyakC",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "9.5\": I'm seeking enlightenment, but it always eludes me.",
+      "name": "",
+      "_key": "!tables.results!8eBUdxKOc3nrDxPF.qhikm90oTdXgyakC"
+    },
+    {
+      "_id": "21OgjTlEdGhnlM7J",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "11.5\": I see what others are blind to, and I need to open their eyes.",
+      "name": "",
+      "_key": "!tables.results!8eBUdxKOc3nrDxPF.21OgjTlEdGhnlM7J"
+    },
+    {
+      "_id": "M8NTr0VsnL7iiuzA",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "14\": I suffer recurring dreams of a terrible event in the future and will do anything to prevent it.",
+      "name": "",
+      "_key": "!tables.results!8eBUdxKOc3nrDxPF.M8NTr0VsnL7iiuzA"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "qDW8sBhPerg8KHfM",
+  "sort": 150000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "8eBUdxKOc3nrDxPF",
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156619768,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "RollTable.lfuMzeyCjvxAVmo2",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!8eBUdxKOc3nrDxPF"
+}

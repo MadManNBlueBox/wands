@@ -1,0 +1,35 @@
+{
+    "_id": "3fb8abd17262c482",
+    "_key": "!items!3fb8abd17262c482",
+    "name": "valerian root",
+    "type": "loot",
+    "img": "icons/commodities/flowers/blooms-purple.webp",
+    "effects": [],
+    "folder": "8b9356509439cbd8",
+    "flags": {
+        "core": {}
+    },
+    "system": {
+        "description": {
+            "value": "<p>Alchemy ingredient.</p><p><strong>Rarity:</strong> common</p><hr/><p><strong>Used in:</strong><br>@UUID[Compendium.wands.items-wands.Item.zdXtC9Cbi4VSai92]{Draught of Living Death}<br>@UUID[Compendium.wands.items-wands.Item.9A4SUIROEnN5qB5O]{Weedosoros}</p>",
+            "chat": ""
+        },
+        "source": {
+            "custom": "Generated from potion-recipes.json"
+        },
+        "quantity": 1,
+        "weight": 0.1,
+        "price": {
+            "value": 0.5,
+            "denomination": "gp"
+        },
+        "attunement": 0,
+        "equipped": false,
+        "rarity": "common",
+        "identified": true,
+        "properties": []
+    },
+    "ownership": {
+        "default": 0
+    }
+}

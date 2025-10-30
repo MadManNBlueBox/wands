@@ -1,0 +1,102 @@
+{
+  "name": "Martial Artist",
+  "type": "feat",
+  "img": "icons/skills/melee/hand-grip-staff-blue.webp",
+  "effects": [],
+  "folder": "kBrkVEaWAkteheSS",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Whether as a childhood extracurricular activity or a supplement to your magical dueling, you're trained in striking and grappling. You gain the following benefits.</p>\n<ul>\n<li>Your unarmed strike uses a d6 for damage.</li>\n<li>When you hit a creature with an unarmed strike on your turn, you can try to grapple the target as a bonus action.</li>\n<li>You have advantage on attack rolls against creatures you are grappling.</li>\n<li>While a creature is grappled by you, you can use your action and make another grapple check to try one of the following maneuvers:\n<ul>\n<li><strong>Pin.</strong> If you succeed, you and the creature are both restrained until the grapple ends.</li>\n<li><strong>Takedown.</strong> If you succeed, you make an unarmed strike and the creature is knocked prone.</li>\n<li><strong>Disarm.</strong> If you succeed, the creature is forced to drop one item of your choice that it's holding. You can choose to take the item, ending the grapple.</li>\n</ul>\n</li>\n</ul>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "W&W p.50"
+    },
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null,
+      "scale": false
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    },
+    "requirements": "",
+    "recharge": {
+      "value": null,
+      "charged": false
+    },
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "N8RgN1jdDFyXuWNq": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424854,
+    "modifiedTime": 1708584137562,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "VqHPazoeRtAClwuZ",
+  "sort": 1200000,
+  "_key": "!items!VqHPazoeRtAClwuZ"
+}

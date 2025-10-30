@@ -1,0 +1,35 @@
+{
+  "_id": "380ee89af3e9c547",
+  "_key": "!items!380ee89af3e9c547",
+  "name": "Potion Book — Fifth Year Potions",
+  "type": "loot",
+  "img": "icons/sundries/books/book-backed-wood-tan.webp",
+  "effects": [],
+  "folder": "14e95fa39206684c",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<h2>Fifth Year Potions</h2>\n<p>This book contains recipes and ingredients for the Fifth Year Potions curriculum.</p>\n<hr/>\n<h3>@UUID[Compendium.wands.items-wands.Item.Yka4GkqRAFnAtEfW]{Befuddlement Draught}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.a642c9e47440e609]{lovage} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.7bd20b23a107dfcb]{scurvy grass} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.20e15847f08cb545]{sneezewort} &times; 1</li>\n</ul>\n<h3>@UUID[Compendium.wands.items-wands.Item.dMsbWgmZ4Y1gzzC6]{Draught of Peace}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.68fa500f8013ef84]{porcupine quill} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.4ec36c1c329aad1c]{moonstone} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.fb3d03f90bb9cbc4]{syrup of hellebore} &times; 1</li>\n</ul>\n<h3>@UUID[Compendium.wands.items-wands.Item.VHd6y3FXyTNBryjJ]{Murtlap Essence}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.221439cd6f55e23e]{murtlap tentacle} &times; 2</li>\n<li>@UUID[Compendium.wands.items-wands.Item.fa3e5146c27f6f69]{spirit of myrrh} &times; 1</li>\n</ul>\n<h3>@UUID[Compendium.wands.items-wands.Item.G01FoNIujKOi8pyR]{Noxious Potion}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.917174e2018bf45c]{angel's trumpet} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.b35b7a6eedbcccd2]{moonseed berry} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.fb3d03f90bb9cbc4]{syrup of hellebore} &times; 1</li>\n</ul>\n<h3>@UUID[Compendium.wands.items-wands.Item.9SN9FGJGNIUIEC4a]{Strengthening Solution}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.4867e29cefe149a1]{re'em blood} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.eb4211e5f6b261ee]{fanged geranium fang} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.b25d6990bba5acc9]{salamander blood} &times; 1</li>\n</ul>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Generated from potion-recipes.json"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "properties": []
+  },
+  "ownership": {
+    "default": 0
+  }
+}

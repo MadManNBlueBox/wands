@@ -1,0 +1,110 @@
+{
+  "name": "Cave Inimicum",
+  "type": "spell",
+  "img": "icons/magic/control/debuff-energy-hold-yellow.webp",
+  "effects": [],
+  "folder": "1crSeXZMenf9H1UB",
+  "sort": 100000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "xcJj5h2HbksR2dZg",
+  "system": {
+    "description": {
+      "value": "<p>A forcefield-like dome forms a perimeter around the caster that filters vision of anything or anyone designated by the caster, rendering those objects infallibly invisible. The dome is undetectable from the outside, but slightly visible from the inside, like a wavering glass barrier. Anyone can move through the field freely to see the hidden contents.</p>\n<p><em><strong>At Higher Levels.</strong></em> When you cast this spell using a spell slot of 6th level or higher, you may select or stack one of the following effects for each slot level above 5th.</p>\n<ul>\n<li>Increase the spell radius by 20 feet.</li>\n<li>Increase the duration to 8 hours.</li>\n<li>Add the ability to completely block sounds.</li>\n<li>Add the ability to completely block smells.</li>\n</ul>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.64",
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": 1,
+      "units": "hour"
+    },
+    "target": {
+      "value": 10,
+      "width": null,
+      "units": "ft",
+      "type": "sphere"
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": null,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": null
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "level": 5,
+    "school": "cha",
+    "components": {
+      "value": "",
+      "vocal": true,
+      "somatic": true,
+      "material": false,
+      "ritual": false,
+      "concentration": false
+    },
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "scaling": {
+      "mode": "level",
+      "formula": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995425232,
+    "modifiedTime": 1709162555723,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Compendium.waw.spells-wandw.3kbRoPvyPTgksq9s",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!xcJj5h2HbksR2dZg"
+}

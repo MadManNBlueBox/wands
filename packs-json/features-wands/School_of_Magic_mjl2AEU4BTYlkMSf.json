@@ -1,0 +1,101 @@
+{
+  "name": "School of Magic",
+  "type": "feat",
+  "img": "icons/skills/trades/academics-book-study-runes.webp",
+  "effects": [],
+  "folder": "iAydmmJhg1PATiSa",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>At 1st-level you choose one of the following options as your focused school of magic:</p>\n<p>@Compendium[wands.casting-styles-and-schools-of-magic-wands.n31KaJnrCwRtUyuR]{Charms (School of Magic)}</p>\n<p>@Compendium[wands.casting-styles-and-schools-of-magic-wands.VdxlU1YFkJGwlJSY]{Jinxes, Hexes, and Curses (School of Magic)}</p>\n<p>@Compendium[wands.casting-styles-and-schools-of-magic-wands.zR5SEFVXzxkr4A5T]{Transfiguration (School of Magic)}</p>\n<p>@Compendium[wands.casting-styles-and-schools-of-magic-wands.OhycVSevKDIBxbE2]{Healing (School of Magic)}</p>\n<p>@Compendium[wands.casting-styles-and-schools-of-magic-wands.vywxjPPtRgn5UDBd]{Divination (School of Magic)}</p>\n<p>@Compendium[wands.casting-styles-and-schools-of-magic-wands.6Z6ChZqL42lSkjnH]{Magizoology (School of Magic)}</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "W&W"
+    },
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null,
+      "scale": false
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "requirements": "1st-level",
+    "recharge": {
+      "value": null,
+      "charged": false
+    },
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424768,
+    "modifiedTime": 1708583690541,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "mjl2AEU4BTYlkMSf",
+  "sort": 600000,
+  "_key": "!items!mjl2AEU4BTYlkMSf"
+}

@@ -1,0 +1,240 @@
+{
+  "name": "Socialite - Wood (Personality Traits)",
+  "img": "icons/skills/social/diplomacy-unity-alliance.webp",
+  "results": [
+    {
+      "_id": "GXopuveoMGmPgBhx",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Alder",
+      "name": "",
+      "_key": "!tables.results!Xy5a4yp6Z0L9iTv5.GXopuveoMGmPgBhx"
+    },
+    {
+      "_id": "2hRr2PWjjogFAqFU",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "While the wood itself is unyielding, the ideal owner of an alder wand is not stubborn or obstinate, but often helpful, considerate and most likeable. When an alder wand is happily placed, it becomes a magnificent, loyal helpmate. Of all wand types, alder is best suited to non-verbal spell work, whence comes its reputation for being suitable only for the most advanced witches and wizards.",
+      "name": "",
+      "_key": "!tables.results!Xy5a4yp6Z0L9iTv5.2hRr2PWjjogFAqFU"
+    },
+    {
+      "_id": "tRJEJSC12SWMlgpb",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Apple",
+      "name": "",
+      "_key": "!tables.results!Xy5a4yp6Z0L9iTv5.tRJEJSC12SWMlgpb"
+    },
+    {
+      "_id": "7KF1pDPzyXjGvG9K",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Applewood wands are not made in great numbers. They are powerful and best suited to an owner of high aims and ideals, as this wood mixes poorly with Dark magic. It is said that the possessor of an apple wand will be well-loved and long-lived, and wizards of great personal charm often find their perfect match in an applewood wand.",
+      "name": "",
+      "_key": "!tables.results!Xy5a4yp6Z0L9iTv5.7KF1pDPzyXjGvG9K"
+    },
+    {
+      "_id": "6NQhACCZYErcP36o",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Aspen",
+      "name": "",
+      "_key": "!tables.results!Xy5a4yp6Z0L9iTv5.6NQhACCZYErcP36o"
+    },
+    {
+      "_id": "AUfP94rhXedc0I8Z",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wand-quality aspen wood is prized for its stylish resemblance to ivory and usually outstanding charmwork. The proper owner of the aspen wand is often an accomplished duellist, for the aspen wand is particularly suited to martial magic. An infamous and secretive eighteenth-century duelling club, the Silver Spears, only admitted owners of aspen wands. Owners are generally strong-minded and determined, likely to be attracted by quests; this is a wand for revolutionaries.",
+      "name": "",
+      "_key": "!tables.results!Xy5a4yp6Z0L9iTv5.AUfP94rhXedc0I8Z"
+    },
+    {
+      "_id": "knUExkUp4kQKETip",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pear",
+      "name": "",
+      "_key": "!tables.results!Xy5a4yp6Z0L9iTv5.knUExkUp4kQKETip"
+    },
+    {
+      "_id": "hmo8wSzSInWwYoYo",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The golden-toned wood of pear produces wands of splendid magical powers. Possessors of pear wands are usually popular and well-respected, and no one knows of a single instance where a pear wand was in the possession of a Dark witch or wizard. Pear wands are among the most resilient, and they commonly keep a remarkable appearance of newness, even after many years of hard use.",
+      "name": "",
+      "_key": "!tables.results!Xy5a4yp6Z0L9iTv5.hmo8wSzSInWwYoYo"
+    }
+  ],
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "bI4uOLB4seNA6Rcy",
+  "sort": 125000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "Xy5a4yp6Z0L9iTv5",
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156748846,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "RollTable.JvJLMqW68H9qME99",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!Xy5a4yp6Z0L9iTv5"
+}

@@ -1,0 +1,53 @@
+{
+  "_id": "DftCIK6YcbR9TmfO",
+  "name": "Follower",
+  "type": "background",
+  "img": "icons/skills/social/diplomacy-handshake.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Instead of building social status through the force of your own personality, you've found success by following someone who is more influential or popular than you are. You know how to stay useful to them and use their reputation to influence others. Whether you see yourself as a hero's sidekick or a bully's sycophant, you're happy to watch from the sidelines and be second best.</p><hr style=\"border-top:1px solid var(--color-border-light-primary);border-bottom:1px solid var(--color-border-light-highlight)\" /><p><strong>Skill Proficiencies:</strong> Deception, Persuasion</p><p><strong>Equipment:</strong> A ring with a family crest or another type of heirloom jewelry, and a peacock feather quill</p><p><strong>Feature:</strong> @UUID[Compendium.wands.backgrounds-wands.Item.GWEfVz6PDbUCtEo3]{Forgettable Face}</p><hr style=\"border-top:1px solid var(--color-border-light-primary);border-bottom:1px solid var(--color-border-light-highlight)\" /><h3>Wand Characteristics</h3><p>@Compendium[wands.wands-roll-tables.Xy5a4yp6Z0L9iTv5]{Socialite - Wood (Personality Traits)}</p><p>@Compendium[wands.wands-roll-tables.gIXdFaOlhW3F7nrt]{Socialite - Core (Ideal)}</p><p>@Compendium[wands.wands-roll-tables.1lDnmoV1tYwDSDey]{Socialite - Length (Bond)}</p><p>@Compendium[wands.wands-roll-tables.fHvQuSgFu3nv5Q6q]{Socialite - Flexibility (Flaw)}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.38",
+    "advancement": [
+      {
+        "_id": "93ayq5f90cjulw9x",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.backgrounds-wands.Item.GWEfVz6PDbUCtEo3"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Feature",
+        "icon": null
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424747,
+    "modifiedTime": 1708976319149,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Item.vZXXCXZ35aY75fu1",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!DftCIK6YcbR9TmfO"
+}

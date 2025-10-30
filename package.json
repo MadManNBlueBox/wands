@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "packs:pack": "node scripts/pack-unpack.js pack",
+    "packs:unpack": "node scripts/pack-unpack.js unpack"
+  }
+}

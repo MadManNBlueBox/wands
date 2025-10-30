@@ -1,0 +1,102 @@
+{
+  "name": "Wizard's Best Friend",
+  "type": "feat",
+  "img": "icons/creatures/mammals/ox-bull-horned-glowing-orange.webp",
+  "effects": [],
+  "folder": "ZNrtfcrRGYMDXeuX",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Your care and compassion towards creatures earns you their trust and respect. You can have a beast companion<em>.</em></p>\n<h2>Your Beast Companion</h2>\n<section id=\"chapter-3-schools-of-magic-subclasses-magizoology-your-beast-companion-bonding-with-your-beast\">\n<h3 id=\"chapter-3-schools-of-magic-subclasses-magizoology-your-beast-companion-bonding-with-your-beast\"><strong>Bonding with Your Beast</strong></h3>\n<p>With 8 hours of uninterrupted communication and bonding, you can call upon a non-hostile beast to serve as your faithful companion. When you gain this feature, select your companion from any Small or larger single beast of challenge rating 1/4 or lower. You can have only one beast companion at a time.</p>\n<p>Your beast companion obeys your commands as best it can. The beast moves and acts during your turn, but you determine its actions, decisions, attitudes, and so on. You and your companion can move and act in any order you choose. If you are incapacitated or absent, your companion acts on its own.</p>\n<p>Your companion will fight in unison with you. The following rules apply while it is bonded to you by this feature:</p>\n<ul>\n<li>It can't use its natural attack actions, but it can make unarmed strikes. Its damage die for unarmed strikes becomes a d4.</li>\n<li>It is proficient in two saving throws and two skills of your choice, in addition to its normal proficiencies.</li>\n<li>It uses your proficiency bonus for attacks, as well as for saving throws and skills in which it is proficient.</li>\n<li>It adds your proficiency bonus to its armor class.</li>\n</ul>\n<p>To find your companion's maximum hit points, take the stat block's hit points and add 5 times your caster level. Whenever you gain an Ability Score Improvement, you can also allocate two points among your companion's ability scores. If your beast companion is ever slain or dismissed, a bond may be formed with another beast and that beast will progress according to your current level.</p>\n</section>\n<section id=\"chapter-3-schools-of-magic-subclasses-magizoology-your-beast-companion-commanding-your-beast\">\n<h3 id=\"chapter-3-schools-of-magic-subclasses-magizoology-your-beast-companion-commanding-your-beast\"><strong>Commanding Your Beast</strong></h3>\n<p>You train your companion to follow certain commands. You have a number of Command Dice equal to half your level (rounded down) + your Wisdom modifier. A command die is a d6, and it is used to issue specifically trained commands to beasts, including your beast companion.</p>\n<div>You can issue one command at a time to a beast within 120 feet of you that can hear you; the beast must be able to hear you to follow the command, and the command is wasted if the beast doesn't fulfill it before the end of its next turn. When a command die is rolled, its use is expended. Your command die becomes a d8 when you reach 14th level.</div>\n<section>\n<p>You regain all command dice when you finish a long rest.</p>\n<section id=\"chapter-3-schools-of-magic-subclasses-magizoology-your-beast-companion-commanding-your-beast-beast-commands\">\n<h3 id=\"chapter-3-schools-of-magic-subclasses-magizoology-your-beast-companion-commanding-your-beast-beast-commands\"><strong>Beast Commands</strong></h3>\n<p>Your companion knows two beast commands of your choice. It learns an additional command when you reach 14th level. You can also teach any friendly beast other than your companion only one beast command by spending at least 1 hour per day for 7 days training the creature.</p>\n<p><strong>Attack.</strong> You can use your bonus action and roll a command die to issue this command. Your companion can use its action to take one of its natural attack actions. However, it can't use its Multiattack action, if it has one. If the attack hits, add the result of the command die to the damage roll.</p>\n<p><strong>Down.</strong> You can use your bonus action and roll a command die to issue this command. Your companion uses its reaction to fall prone and attempt to Hide, adding the result of the command die to its Dexterity (Stealth) check. The first attack it makes while hidden in this way also adds the result of the command die to its attack roll.</p>\n<p><strong>Find.</strong> You can use your bonus action and roll a command die to issue this command. Your companion uses its reaction to attempt to Search for hidden creatures or objects, adding the result of the command die to the skill check made for the Search.</p>\n<p><strong>Grab.</strong> When your companion makes an opportunity attack, you can use your reaction and roll a command die to issue this command. If the attack hits, your companion can attempt to grapple the target as part of the attack, adding the result of the command die to the skill check it makes for the attempt.</p>\n<p><strong>Rush.</strong> You can use your bonus action and roll a command die to issue this command. Your companion uses its reaction to take the Help action, aiding the next attack against a creature within its reach that it can see. If this attack hits, the attack deals extra damage equal to the result of the command die.</p>\n</section>\n</section>\n</section>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "W&W p.25"
+    },
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null,
+      "scale": false
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "requirements": "Magizoology",
+    "recharge": {
+      "value": null,
+      "charged": false
+    },
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995425014,
+    "modifiedTime": 1708585426341,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "zZKTRoKCVHjLgqX8",
+  "sort": 150000,
+  "_key": "!items!zZKTRoKCVHjLgqX8"
+}

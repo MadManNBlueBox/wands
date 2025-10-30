@@ -1,0 +1,35 @@
+{
+    "_id": "3be342b5f02c520e",
+    "_key": "!items!3be342b5f02c520e",
+    "name": "syrup of arnica",
+    "type": "loot",
+    "img": "icons/commodities/flowers/lotus-pink.webp",
+    "effects": [],
+    "folder": "8b9356509439cbd8",
+    "flags": {
+        "core": {}
+    },
+    "system": {
+        "description": {
+            "value": "<p>Alchemy ingredient.</p><p><strong>Rarity:</strong> common</p><hr/><p><strong>Used in:</strong><br>@UUID[Compendium.wands.items-wands.Item.nX8DJFD6JgdVzzoG]{Essence of Insanity}<br>@UUID[Compendium.wands.items-wands.Item.9A4SUIROEnN5qB5O]{Weedosoros}</p>",
+            "chat": ""
+        },
+        "source": {
+            "custom": "Generated from potion-recipes.json"
+        },
+        "quantity": 1,
+        "weight": 0.1,
+        "price": {
+            "value": 0.5,
+            "denomination": "gp"
+        },
+        "attunement": 0,
+        "equipped": false,
+        "rarity": "common",
+        "identified": true,
+        "properties": []
+    },
+    "ownership": {
+        "default": 0
+    }
+}

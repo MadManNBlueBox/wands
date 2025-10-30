@@ -1,0 +1,204 @@
+{
+  "name": "Healing (School of Magic)",
+  "type": "subclass",
+  "img": "icons/magic/fire/dagger-rune-enchant-flame-strong-blue.webp",
+  "effects": [],
+  "folder": "WlpvdaC2ZslNMvcf",
+  "sort": 150000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "OhycVSevKDIBxbE2",
+  "system": {
+    "description": {
+      "value": "<p>Healing magic is devoted to improving the physical and mental condition. With many different spells and potions, healing magic requires a wizard to be well-versed in magical conditions and their different remedies.</p><h2 style=\"border-bottom:1px solid var(--color-underline-header)\">Healers</h2><p>A healer is the wizarding world equivalent of a Muggle doctor. They tend to the sick and injured, often finding employment in St Mungo's British Hospital, England's primary wizarding hospital. Healers may find themselves facing artifact accidents, Dark creature bites, magical diseases, potion poisoning, or spell damage.</p><h2 style=\"border-bottom:1px solid var(--color-underline-header)\">Mediwizards</h2><p>A mediwizard takes a much more active role in preserving life; if a healer is a doctor, then a mediwizard is a first responder. Mediwitches travel with research expeditions, watch over professional Flying Broom Sports, accompany monster hunters, and dive into war to save lives.</p><h3><strong>School of Magic Spells</strong></h3><table style=\"width:329px;height:68px\"><tbody><tr style=\"height:17px\"><td style=\"width:103px;height:17px\"><p><strong>Spell Level</strong></p></td><td style=\"width:219px;height:17px\"><p><strong>Spells</strong></p></td></tr><tr style=\"height:17px\"><td style=\"width:103px;height:17px\"><p>Cantrip</p></td><td style=\"width:219px;height:17px\"><p>@Compendium[wands.spells-wands.5zjpnZcFzf46ixGp]{Anapneo}</p></td></tr><tr style=\"height:17px\"><td style=\"width:103px;height:17px\"><p>3rd</p></td><td style=\"width:219px;height:17px\"><p>@Compendium[wands.spells-wands.tsvo5fYrhU0jP9i5]{Intus Sunt}</p></td></tr><tr style=\"height:17px\"><td style=\"width:103px;height:17px\"><p>6th</p></td><td style=\"width:219px;height:17px\"><p>@Compendium[wands.spells-wands.PsGaIKsVev0tbDzQ]{Protego Totalum}, @Compendium[wands.spells-wands.g4z9ulU4uWkk4bHr]{Vulnera Sanentur}</p></td></tr></tbody></table><p> </p><h2 style=\"border-bottom:1px solid var(--color-underline-header)\">Subclass Features</h2><h3><strong>Medical Studies</strong></h3><p>At 1st level, you gain one of the following features.</p><p>@UUID[Compendium.wands.features-wands.Item.09hctYwlTSGmstJa]{Natural Remedies}</p><p>@UUID[Compendium.wands.features-wands.Item.ze6VCRlObvjxSJke]{Unshakable Nerves}</p><h3><strong>Dedicated Protector</strong></h3><p>At 6th level, you gain one of the following features.</p><p>@UUID[Compendium.wands.features-wands.Item.5wU0VKqt3n1At4xP]{Accelerated Recovery}</p><p>@UUID[Compendium.wands.features-wands.Item.gcFvTdmOshIk5OaW]{Durable Shielding}</p><h3><strong>Moral Support</strong></h3><p>At 10th level, you gain one of the following features.</p><p>@UUID[Compendium.wands.features-wands.Item.mdZzD7IwY9aBKoU9]{Phoenix Song}</p><p>@UUID[Compendium.wands.features-wands.Item.zpHbpsIQoogokCEW]{Empathic Bond}</p><h3><strong>Combat Medic</strong></h3><p>At 14th level, you gain one of the following features.</p><p>@UUID[Compendium.wands.features-wands.Item.zUjGUgq5CMUs8Bkv]{Extended Assistance}</p><p>@UUID[Compendium.wands.features-wands.Item.F1yTpv7DyxJM5Vjv]{A Saving-People Thing}</p><h3><strong>Savior</strong></h3><p>At 18th level, you gain one of the following features.</p><p>@UUID[Compendium.wands.features-wands.Item.dxOlNgvzEfL7xTlh]{Phoenix Tears}</p><p>@UUID[Compendium.wands.features-wands.Item.QGlLM158mjz69wdD]{Healing Pulse}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.22",
+    "identifier": "healing",
+    "classIdentifier": "casting-style",
+    "advancement": [
+      {
+        "_id": "by70eg5t346gj6vn",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.spells-wands.5zjpnZcFzf46ixGp"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 1,
+        "title": "Spells"
+      },
+      {
+        "_id": "ed2cnxj8wuvhvely",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.spells-wands.tsvo5fYrhU0jP9i5"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 5,
+        "title": "Spells"
+      },
+      {
+        "_id": "sqqivcjn1otsl0wh",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.spells-wands.PsGaIKsVev0tbDzQ",
+            "Compendium.wands.spells-wands.g4z9ulU4uWkk4bHr"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 11,
+        "title": "Spells"
+      },
+      {
+        "_id": "1ThK4m9NLXxqqMeU",
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "1": 1
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            "Compendium.wands.features-wands.Item.09hctYwlTSGmstJa",
+            "Compendium.wands.features-wands.Item.ze6VCRlObvjxSJke"
+          ],
+          "spell": null,
+          "hint": "",
+          "restriction": {
+            "type": "class"
+          }
+        },
+        "value": {},
+        "title": "Feature",
+        "icon": null
+      },
+      {
+        "_id": "1MEbszPgeGSW6MoT",
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "6": 1
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            "Compendium.wands.features-wands.Item.5wU0VKqt3n1At4xP",
+            "Compendium.wands.features-wands.Item.gcFvTdmOshIk5OaW"
+          ],
+          "spell": null,
+          "hint": "",
+          "restriction": {
+            "type": "class"
+          }
+        },
+        "value": {},
+        "title": "Feature",
+        "icon": null
+      },
+      {
+        "_id": "dydDecrZBN1spDun",
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "10": 1
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            "Compendium.wands.features-wands.Item.mdZzD7IwY9aBKoU9",
+            "Compendium.wands.features-wands.Item.zpHbpsIQoogokCEW"
+          ],
+          "spell": null,
+          "hint": "",
+          "restriction": {
+            "type": "class",
+            "subtype": ""
+          }
+        },
+        "value": {},
+        "title": "Feature",
+        "icon": null
+      },
+      {
+        "_id": "fShybOs4sbFyGIti",
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "14": 1
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            "Compendium.wands.features-wands.Item.zUjGUgq5CMUs8Bkv",
+            "Compendium.wands.features-wands.Item.F1yTpv7DyxJM5Vjv"
+          ],
+          "spell": null,
+          "hint": "",
+          "restriction": {
+            "type": "class"
+          }
+        },
+        "value": {},
+        "title": "Feature",
+        "icon": null
+      },
+      {
+        "_id": "gEypcEh5abCoLHQB",
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "18": 1
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            "Compendium.wands.features-wands.Item.dxOlNgvzEfL7xTlh",
+            "Compendium.wands.features-wands.Item.QGlLM158mjz69wdD"
+          ],
+          "spell": null,
+          "hint": "",
+          "restriction": {
+            "type": "class",
+            "subtype": ""
+          }
+        },
+        "value": {},
+        "title": "Feature",
+        "icon": null
+      }
+    ],
+    "spellcasting": {
+      "progression": "full",
+      "ability": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424745,
+    "modifiedTime": 1708990862956,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Item.J3VGFwKn1P9s0tS8",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!OhycVSevKDIBxbE2"
+}

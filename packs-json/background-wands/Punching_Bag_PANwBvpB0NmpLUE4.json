@@ -1,0 +1,94 @@
+{
+  "name": "Punching Bag",
+  "type": "feat",
+  "img": "icons/containers/bags/coinpouch-simple-leather-tan.webp",
+  "effects": [],
+  "folder": "PAI7mx5WeyvumTAc",
+  "sort": 103125,
+  "flags": {},
+  "_id": "PANwBvpB0NmpLUE4",
+  "system": {
+    "description": {
+      "value": "<p>You may not be coordinated, but at least you've learned how to take a punch. You have resistance to damage dealt by falling, traps or inanimate objects. You also have disadvantage on saving throws made to avoid or resist traps, any rolls made to detect traps and Dexterity (Acrobatics) checks.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.32",
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": 0,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": null
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "type": {
+      "value": "background",
+      "subtype": ""
+    },
+    "requirements": "Klutz",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424769,
+    "modifiedTime": 1708976544373,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!PANwBvpB0NmpLUE4"
+}

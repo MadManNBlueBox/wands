@@ -1,0 +1,127 @@
+{
+  "folder": null,
+  "name": "Beauxbatons",
+  "type": "race",
+  "img": "icons/magic/light/beam-rays-yellow-blue-small.webp",
+  "system": {
+    "description": {
+      "value": "<p>Located in the mountains of France, the Académie de Magie Beauxbâtons or Beauxbatons Academy of Magic is the choice of magical education for young witches and wizards living in Western, Southern, and sometimes even Central Europe. For wizards in the UK, Beauxbatons is most notable for its friendly rivalry to British Magical School, and the two schools have often supported each other throughout history. Beauxbatons is widely recognized for the elegance of its castle, its majestic gardens and its well-prepared cuisine.</p><h2>Tradition and Discipline</h2><p>Etiquette and respect are at the forefront of Beauxbatons customs. The students stand at attention whenever their headmaster or headmistress enters a room and continue doing so until they take a seat or order everyone to return to their tasks.</p><p>There is a strong atmosphere of school pride, and the Academy's traditions are treasured by staff and students alike. While taught to be polite, that pride often shows through when students of Beauxbatons travel abroad.</p><h2>A Delicate Approach to Magic</h2><p>Beauxbatons Academy of Magic teaches its students to approach magic with control and finesse, instead of clumsiness or brute force. The studies revolve around proper dueling forms, taxonomies and knowledge deeply grounded in magical theory.</p><p>To an untrained eye, the deliberate movements of Beauxbatons duelists might resemble a choreographed dance, but it's closer to the precision, quickness and lethality of Muggle fencing.</p><h2>Beauxbatons Student Traits</h2><p>The traits of Beauxbatons students originate from their school's dueling style and from their travels abroad.</p><p><strong>Ability Score Increase.</strong> Your Dexterity score, Wisdom score, and one other ability score of choice increase by 1.</p><p><strong>Nimble Evasion.</strong> Whenever you take the dodge action, add half your proficiency modifier to your AC and your Dexterity saving throws.</p><p><strong>Exchange Student.</strong> You're familiar with the workings of the International Confederation of Wizards and other international associations.</p><p><strong>Feat.</strong> You gain one feat of your choice.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "W&W",
+      "page": "p.6",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [
+      {
+        "type": "AbilityScoreImprovement",
+        "_id": "GZjnlmZvlKWGJ01k",
+        "configuration": {
+          "points": 1,
+          "fixed": {
+            "str": 0,
+            "dex": 1,
+            "con": 0,
+            "int": 0,
+            "wis": 1,
+            "cha": 0
+          },
+          "cap": 2
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 0,
+        "title": "",
+        "icon": null
+      },
+      {
+        "type": "Size",
+        "_id": "wGAjbVBS7jzyimx2",
+        "configuration": {
+          "sizes": [
+            "med"
+          ]
+        },
+        "level": 0,
+        "value": {}
+      },
+      {
+        "type": "Trait",
+        "configuration": {
+          "grants": [
+            "languages:standard:common"
+          ],
+          "mode": "default",
+          "allowReplacements": false,
+          "choices": []
+        },
+        "_id": "2VCFiNHHbEWRu0Bb",
+        "level": 0,
+        "value": {
+          "chosen": []
+        }
+      },
+      {
+        "_id": "gsEeNnLikz7d504d",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.features-wands.Item.BlS1I1coRn3gW5Hu",
+            "Compendium.wands.features-wands.Item.xFevYAMjnAj0GyZt"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Features",
+        "icon": null
+      }
+    ],
+    "movement": {
+      "burrow": null,
+      "climb": null,
+      "fly": null,
+      "swim": null,
+      "walk": 30,
+      "units": null,
+      "hover": false
+    },
+    "senses": {
+      "darkvision": null,
+      "blindsight": null,
+      "tremorsense": null,
+      "truesight": null,
+      "units": null,
+      "special": ""
+    },
+    "type": {
+      "value": "humanoid"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1708494396220,
+    "modifiedTime": 1708628603909,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "ZhMND6dAR2E0t270",
+  "sort": 900000,
+  "_key": "!items!ZhMND6dAR2E0t270"
+}

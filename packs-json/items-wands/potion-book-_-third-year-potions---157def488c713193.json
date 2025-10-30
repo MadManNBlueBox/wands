@@ -1,0 +1,35 @@
+{
+  "_id": "157def488c713193",
+  "_key": "!items!157def488c713193",
+  "name": "Potion Book — Third Year Potions",
+  "type": "loot",
+  "img": "icons/sundries/books/book-embossed-steel-green.webp",
+  "effects": [],
+  "folder": "14e95fa39206684c",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<h2>Third Year Potions</h2>\n<p>This book contains recipes and ingredients for the Third Year Potions curriculum.</p>\n<hr/>\n<h3>@UUID[Compendium.wands.items-wands.Item.XXtozxI3F7LyJhaL]{Antidote of Uncommon Poisons}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.7094132bbbcf2fce]{fire seed} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.4f71afcb39b778d6]{billywig sting} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.ce867b65043ef3ae]{chizpurfle carapace} &times; 1</li>\n</ul>\n<h3>@UUID[Compendium.wands.items-wands.Item.AXz39U6Fh6Lis9Nh]{Baneberry Poison}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.3110065f02257280]{cowbane} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.9885401a14f63db1]{shrivelfig} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.dba77822358e9588]{baneberry} &times; 2</li>\n</ul>\n<h3>@UUID[Compendium.wands.items-wands.Item.9yOwuN0ZegON8W56]{Girding Potion}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.faabe0d5a369da32]{fairy wing} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.2323f3906e46367d]{flying seahorse} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.76f5fa01c8f70a0b]{doxy egg} &times; 1</li>\n</ul>\n<h3>@UUID[Compendium.wands.items-wands.Item.s6zKb1EhdCpLvxdc]{Shrinking Solution}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.3110065f02257280]{cowbane} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.9885401a14f63db1]{shrivelfig} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.95ce17340100f4e9]{wormwood infusion} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.4039425397ddd79e]{woodlice extract} &times; 1</li>\n</ul>\n<h3>@UUID[Compendium.wands.items-wands.Item.eIALIhq5cRFdRsHt]{Wiggenweld Potion}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.fd6805ddd369a21c]{wiggentree bark} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.e7938c6198a3822a]{honeywater} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.7ef7071ab444ff8b]{root of asphodel} &times; 1</li>\n</ul>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Generated from potion-recipes.json"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "properties": []
+  },
+  "ownership": {
+    "default": 0
+  }
+}

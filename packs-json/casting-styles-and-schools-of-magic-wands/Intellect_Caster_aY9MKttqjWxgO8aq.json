@@ -1,0 +1,488 @@
+{
+  "_id": "aY9MKttqjWxgO8aq",
+  "name": "Intellect Caster",
+  "type": "class",
+  "img": "icons/magic/fire/explosion-fireball-large-blue.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Clever wizards delve into the underlying theory of magic. These academics are able to learn a wide variety of spells, although they might struggle in the heat of battle. Their expertise and magical versatility makes them invaluable companions across the wizarding world.</p><h2><strong>Class Features</strong></h2><p>As an Intellect caster, you gain the following class features.</p><h3><strong>Hit Points</strong></h3><p><strong>Hit Dice: </strong>1d8 per Intellect level</p><p><strong>Hit Points at 1st Level:</strong> 8 + your Constitution modifier</p><p><strong>Hit Points at Higher Levels:</strong> 1d8 (or 5) + your Constitution modifier per Intellect level after 1st</p><h3><strong>Proficiencies</strong></h3><p><strong>Saving Throws:</strong> Dexterity, Intelligence</p><p><strong>Skills:</strong> Choose two from Acrobatics, Herbology, Insight, Investigation, Magical Creatures, Magical Theory, Medicine, Muggle Studies and Survival</p><h3><strong>Spellcasting</strong></h3><p>Intelligence is your spellcasting ability for your spells. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a spell you cast and when making an attack roll with one.</p><p>You must use a wand as a spellcasting focus for your spells. Your spell slot progression is the standard for full casters (22 slots at level 20).</p><p>Additionally, when you gain a level in this class, you can choose two of the cantrips or spells you know and replace them with two new cantrips or spells, which also must be of a level for which you have spell slots.</p><h3><strong>Ritual Casting</strong></h3><p>Your ability to recall information allows you to freely cast spells, as long as you have enough time to stop and focus. At 1st level, you can cast a spell as a ritual if that spell has the ritual tag and you know the spell. A ritual version of a spell takes only 1 minute longer to cast than normal. It also doesn't expend a spell slot, which means the ritual version of a spell can't be cast at a higher level.</p><h3><strong>Font of Magic, Metamagic, and Ability Score Improvements</strong></h3><p>Unless differences are shown in the Intellect Progression table, an Intellect caster has all Font of Magic, Sorcery Points, Flexible Casting, Metamagic, and Ability Score Improvement class features from a 5e Sorcerer.</p><h3><strong>Diverse Studies</strong></h3><p>At 3rd level, you gain both level 1 feature of your chosen School of Magic.</p><h3 id=\"the-intellect-caster-class-features-apparition-lessons\"><strong>Apparition Lessons</strong></h3><p>When you reach 9th level, you gain the Apparition ability.</p><h3><strong>Arcane Recovery</strong></h3><p>When you reach 20th level, you have learned to regain some of your magical energy by studying in your free time. Whenever you finish a short rest, you can choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than 10, and none of the slots can be 6th level or higher.</p><h3><strong>Spells</strong></h3><table style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;border-spacing:0px;background-color:#ffffff;font-family:ScalySans;width:616px;margin-bottom:1em;font-size:10pt;line-height:1.1em;z-index:15;break-inside:avoid;overflow:hidden;height:538px\"><thead style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;display:table-row-group;font-weight:800\"><tr style=\"box-sizing:border-box;-webkit-print-color-adjust:exact\"><th style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0px 0.1em 0.3em;text-align:center;vertical-align:bottom;width:38.9896px;height:34px\"><span style=\"font-family:ScalySans\"><strong>Level</strong></span></th><th style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0px 0.1em 0.3em;text-align:center;vertical-align:bottom;width:76.9792px;height:34px\"><p><span style=\"font-family:ScalySans\"><strong>Proficiency<br style=\"box-sizing:border-box;-webkit-print-color-adjust:exact\" />Bonus</strong></span></p></th><th style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0px 0.1em 0.3em;text-align:center;vertical-align:bottom;width:54.9792px;height:34px\"><p><span style=\"font-family:ScalySans\"><strong>Sorcery<br style=\"box-sizing:border-box;-webkit-print-color-adjust:exact\" />Points</strong></span></p></th><th style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0px 0.1em 0.3em;text-align:center;vertical-align:bottom;width:78.9792px;height:34px\"><span style=\"font-family:ScalySans\"><strong>Metamagic</strong></span></th><th style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0px 0.1em 0.3em;text-align:left;vertical-align:bottom;width:254.896px;height:34px\"><span style=\"font-family:ScalySans\"><strong>Features</strong></span></th><th style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0px 0.1em 0.3em;text-align:center;vertical-align:bottom;width:64.9792px;height:34px\"><p><span style=\"font-family:ScalySans\"><strong>Cantrips<br style=\"box-sizing:border-box;-webkit-print-color-adjust:exact\" />Known</strong></span></p></th><th style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0px 0.1em 0.3em;text-align:center;vertical-align:bottom;width:45.1979px;height:34px\"><p><span style=\"font-family:ScalySans\"><strong>Spells<br style=\"box-sizing:border-box;-webkit-print-color-adjust:exact\" />Known</strong></span></p></th></tr></thead><tbody style=\"box-sizing:border-box;-webkit-print-color-adjust:exact\"><tr style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;background-color:#e0e5c1\"><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:38.9896px;height:23px\"><span style=\"font-family:ScalySans\">1st</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:76.9792px;height:23px\"><span style=\"font-family:ScalySans\">+2</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:54.9792px;height:23px\"><span style=\"font-family:ScalySans\">—</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:78.9792px;height:23px\"><span style=\"font-family:ScalySans\">—</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;width:254.896px;height:23px\"><span style=\"font-family:ScalySans\">@UUID[Compendium.wands.features-wands.Item.g1R67HlsjBfjdpHD]{Spellcasting}, @UUID[Compendium.wands.features-wands.Item.yKuuNWPRkDaw8zC6]{Ritual Casting}, @UUID[Compendium.wands.features-wands.Item.mjl2AEU4BTYlkMSf]{School of Magic}</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:64.9792px;height:23px\"><span style=\"font-family:ScalySans\">6</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:45.1979px;height:23px\"><span style=\"font-family:ScalySans\">6</span></td></tr><tr style=\"box-sizing:border-box;-webkit-print-color-adjust:exact\"><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:38.9896px;height:52px\"><span style=\"font-family:ScalySans\">2nd</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:76.9792px;height:52px\"><span style=\"font-family:ScalySans\">+2</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:54.9792px;height:52px\"><span style=\"font-family:ScalySans\">2</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:78.9792px;height:52px\"><span style=\"font-family:ScalySans\">—</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;width:254.896px;height:52px\"><span style=\"font-family:ScalySans\">@UUID[Compendium.wands.features-wands.Item.8hxch8J2qPjoMCez]{Font of Magic}</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:64.9792px;height:52px\"><span style=\"font-family:ScalySans\">6</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:45.1979px;height:52px\"><span style=\"font-family:ScalySans\">8</span></td></tr><tr style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;background-color:#e0e5c1\"><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:38.9896px;height:38px\"><span style=\"font-family:ScalySans\">3rd</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:76.9792px;height:38px\"><span style=\"font-family:ScalySans\">+2</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:54.9792px;height:38px\"><span style=\"font-family:ScalySans\">3</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:78.9792px;height:38px\"><span style=\"font-family:ScalySans\">1</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;width:254.896px;height:38px\"><span style=\"font-family:ScalySans\">@UUID[Compendium.wands.features-wands.Item.1kZzJx0va0Fhi81T]{Metamagic}</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:64.9792px;height:38px\"><span style=\"font-family:ScalySans\">7</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:45.1979px;height:38px\"><span style=\"font-family:ScalySans\">10</span></td></tr><tr style=\"box-sizing:border-box;-webkit-print-color-adjust:exact\"><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:38.9896px;height:23px\"><span style=\"font-family:ScalySans\">4th</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:76.9792px;height:23px\"><span style=\"font-family:ScalySans\">+2</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:54.9792px;height:23px\"><span style=\"font-family:ScalySans\">4</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:78.9792px;height:23px\"><span style=\"font-family:ScalySans\">1</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;width:254.896px;height:23px\"><span style=\"font-family:ScalySans\">Ability Score Improvement</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:64.9792px;height:23px\"><span style=\"font-family:ScalySans\">7</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:45.1979px;height:23px\"><span style=\"font-family:ScalySans\">12</span></td></tr><tr style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;background-color:#e0e5c1\"><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:38.9896px;height:23px\"><span style=\"font-family:ScalySans\">5th</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:76.9792px;height:23px\"><span style=\"font-family:ScalySans\">+3</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:54.9792px;height:23px\"><span style=\"font-family:ScalySans\">4</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:78.9792px;height:23px\"><span style=\"font-family:ScalySans\">1</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;width:254.896px;height:23px\"><span style=\"font-family:ScalySans\">─</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:64.9792px;height:23px\"><span style=\"font-family:ScalySans\">8</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:45.1979px;height:23px\"><span style=\"font-family:ScalySans\">16</span></td></tr><tr style=\"box-sizing:border-box;-webkit-print-color-adjust:exact\"><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:38.9896px;height:23px\"><span style=\"font-family:ScalySans\">6th</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:76.9792px;height:23px\"><span style=\"font-family:ScalySans\">+3</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:54.9792px;height:23px\"><span style=\"font-family:ScalySans\">5</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:78.9792px;height:23px\"><span style=\"font-family:ScalySans\">1</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;width:254.896px;height:23px\"><span style=\"font-family:ScalySans\">School of Magic Feature</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:64.9792px;height:23px\"><span style=\"font-family:ScalySans\">8</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:45.1979px;height:23px\"><span style=\"font-family:ScalySans\">18</span></td></tr><tr style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;background-color:#e0e5c1\"><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:38.9896px;height:23px\"><span style=\"font-family:ScalySans\">7th</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:76.9792px;height:23px\"><span style=\"font-family:ScalySans\">+3</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:54.9792px;height:23px\"><span style=\"font-family:ScalySans\">6</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:78.9792px;height:23px\"><span style=\"font-family:ScalySans\">2</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;width:254.896px;height:23px\"><span style=\"font-family:ScalySans\">Metamagic</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:64.9792px;height:23px\"><span style=\"font-family:ScalySans\">9</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:45.1979px;height:23px\"><span style=\"font-family:ScalySans\">20</span></td></tr><tr style=\"box-sizing:border-box;-webkit-print-color-adjust:exact\"><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:38.9896px;height:23px\"><span style=\"font-family:ScalySans\">8th</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:76.9792px;height:23px\"><span style=\"font-family:ScalySans\">+3</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:54.9792px;height:23px\"><span style=\"font-family:ScalySans\">7</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:78.9792px;height:23px\"><span style=\"font-family:ScalySans\">2</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;width:254.896px;height:23px\"><span style=\"font-family:ScalySans\">Ability Score Improvement</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:64.9792px;height:23px\"><span style=\"font-family:ScalySans\">9</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:45.1979px;height:23px\"><span style=\"font-family:ScalySans\">22</span></td></tr><tr style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;background-color:#e0e5c1\"><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:38.9896px;height:23px\"><span style=\"font-family:ScalySans\">9th</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:76.9792px;height:23px\"><span style=\"font-family:ScalySans\">+4</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:54.9792px;height:23px\"><span style=\"font-family:ScalySans\">7</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:78.9792px;height:23px\"><span style=\"font-family:ScalySans\">2</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;width:254.896px;height:23px\"><span style=\"font-family:ScalySans\">@UUID[Compendium.wands.features-wands.Item.K0sNedD2aum7pe1T]{Apparition Lessons}</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:64.9792px;height:23px\"><span style=\"font-family:ScalySans\">10</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:45.1979px;height:23px\"><span style=\"font-family:ScalySans\">26</span></td></tr><tr style=\"box-sizing:border-box;-webkit-print-color-adjust:exact\"><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:38.9896px;height:23px\"><span style=\"font-family:ScalySans\">10th</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:76.9792px;height:23px\"><span style=\"font-family:ScalySans\">+4</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:54.9792px;height:23px\"><span style=\"font-family:ScalySans\">8</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:78.9792px;height:23px\"><span style=\"font-family:ScalySans\">2</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;width:254.896px;height:23px\"><span style=\"font-family:ScalySans\">School of Magic Feature, Metamagic</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:64.9792px;height:23px\"><span style=\"font-family:ScalySans\">10</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:45.1979px;height:23px\"><span style=\"font-family:ScalySans\">28</span></td></tr><tr style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;background-color:#e0e5c1\"><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:38.9896px;height:23px\"><span style=\"font-family:ScalySans\">11th</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:76.9792px;height:23px\"><span style=\"font-family:ScalySans\">+4</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:54.9792px;height:23px\"><span style=\"font-family:ScalySans\">9</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:78.9792px;height:23px\"><span style=\"font-family:ScalySans\">2</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;width:254.896px;height:23px\"><span style=\"font-family:ScalySans\">─</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:64.9792px;height:23px\"><span style=\"font-family:ScalySans\">11</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:45.1979px;height:23px\"><span style=\"font-family:ScalySans\">30</span></td></tr><tr style=\"box-sizing:border-box;-webkit-print-color-adjust:exact\"><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:38.9896px;height:23px\"><span style=\"font-family:ScalySans\">12th</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:76.9792px;height:23px\"><span style=\"font-family:ScalySans\">+4</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:54.9792px;height:23px\"><span style=\"font-family:ScalySans\">10</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:78.9792px;height:23px\"><span style=\"font-family:ScalySans\">2</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;width:254.896px;height:23px\"><span style=\"font-family:ScalySans\">Ability Score Improvement</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:64.9792px;height:23px\"><span style=\"font-family:ScalySans\">11</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:45.1979px;height:23px\"><span style=\"font-family:ScalySans\">30</span></td></tr><tr style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;background-color:#e0e5c1\"><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:38.9896px;height:23px\"><span style=\"font-family:ScalySans\">13th</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:76.9792px;height:23px\"><span style=\"font-family:ScalySans\">+5</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:54.9792px;height:23px\"><span style=\"font-family:ScalySans\">10</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:78.9792px;height:23px\"><span style=\"font-family:ScalySans\">3</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;width:254.896px;height:23px\"><span style=\"font-family:ScalySans\">Metamagic</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:64.9792px;height:23px\"><span style=\"font-family:ScalySans\">12</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:45.1979px;height:23px\"><span style=\"font-family:ScalySans\">34</span></td></tr><tr style=\"box-sizing:border-box;-webkit-print-color-adjust:exact\"><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:38.9896px;height:23px\"><span style=\"font-family:ScalySans\">14th</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:76.9792px;height:23px\"><span style=\"font-family:ScalySans\">+5</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:54.9792px;height:23px\"><span style=\"font-family:ScalySans\">11</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:78.9792px;height:23px\"><span style=\"font-family:ScalySans\">3</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;width:254.896px;height:23px\"><span style=\"font-family:ScalySans\">School of Magic Feature</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:64.9792px;height:23px\"><span style=\"font-family:ScalySans\">12</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:45.1979px;height:23px\"><span style=\"font-family:ScalySans\">34</span></td></tr><tr style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;background-color:#e0e5c1\"><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:38.9896px;height:23px\"><span style=\"font-family:ScalySans\">15th</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:76.9792px;height:23px\"><span style=\"font-family:ScalySans\">+5</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:54.9792px;height:23px\"><span style=\"font-family:ScalySans\">12</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:78.9792px;height:23px\"><span style=\"font-family:ScalySans\">3</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;width:254.896px;height:23px\"><span style=\"font-family:ScalySans\">─</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:64.9792px;height:23px\"><span style=\"font-family:ScalySans\">13</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:45.1979px;height:23px\"><span style=\"font-family:ScalySans\">36</span></td></tr><tr style=\"box-sizing:border-box;-webkit-print-color-adjust:exact\"><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:38.9896px;height:23px\"><span style=\"font-family:ScalySans\">16th</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:76.9792px;height:23px\"><span style=\"font-family:ScalySans\">+5</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:54.9792px;height:23px\"><span style=\"font-family:ScalySans\">13</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:78.9792px;height:23px\"><span style=\"font-family:ScalySans\">3</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;width:254.896px;height:23px\"><span style=\"font-family:ScalySans\">Ability Score Improvement</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:64.9792px;height:23px\"><span style=\"font-family:ScalySans\">13</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:45.1979px;height:23px\"><span style=\"font-family:ScalySans\">36</span></td></tr><tr style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;background-color:#e0e5c1\"><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:38.9896px;height:23px\"><span style=\"font-family:ScalySans\">17th</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:76.9792px;height:23px\"><span style=\"font-family:ScalySans\">+6</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:54.9792px;height:23px\"><span style=\"font-family:ScalySans\">13</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:78.9792px;height:23px\"><span style=\"font-family:ScalySans\">3</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;width:254.896px;height:23px\"><span style=\"font-family:ScalySans\">─</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:64.9792px;height:23px\"><span style=\"font-family:ScalySans\">14</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:45.1979px;height:23px\"><span style=\"font-family:ScalySans\">40</span></td></tr><tr style=\"box-sizing:border-box;-webkit-print-color-adjust:exact\"><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:38.9896px;height:23px\"><span style=\"font-family:ScalySans\">18th</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:76.9792px;height:23px\"><span style=\"font-family:ScalySans\">+6</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:54.9792px;height:23px\"><span style=\"font-family:ScalySans\">14</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:78.9792px;height:23px\"><span style=\"font-family:ScalySans\">3</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;width:254.896px;height:23px\"><span style=\"font-family:ScalySans\">School of Magic Feature</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:64.9792px;height:23px\"><span style=\"font-family:ScalySans\">14</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:45.1979px;height:23px\"><span style=\"font-family:ScalySans\">40</span></td></tr><tr style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;background-color:#e0e5c1\"><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:38.9896px;height:23px\"><span style=\"font-family:ScalySans\">19th</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:76.9792px;height:23px\"><span style=\"font-family:ScalySans\">+6</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:54.9792px;height:23px\"><span style=\"font-family:ScalySans\">15</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:78.9792px;height:23px\"><span style=\"font-family:ScalySans\">3</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;width:254.896px;height:23px\"><span style=\"font-family:ScalySans\">Ability Score Improvement</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:64.9792px;height:23px\"><span style=\"font-family:ScalySans\">15</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:45.1979px;height:23px\"><span style=\"font-family:ScalySans\">40</span></td></tr><tr style=\"box-sizing:border-box;-webkit-print-color-adjust:exact\"><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:38.9896px;height:23px\"><span style=\"font-family:ScalySans\">20th</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:76.9792px;height:23px\"><span style=\"font-family:ScalySans\">+6</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:54.9792px;height:23px\"><span style=\"font-family:ScalySans\">15</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:78.9792px;height:23px\"><span style=\"font-family:ScalySans\">3</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;width:254.896px;height:23px\"><span style=\"font-family:ScalySans\">@UUID[Compendium.wands.features-wands.Item.YhbP81Hza2VTskb1]{Arcane Recovery}</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:64.9792px;height:23px\"><span style=\"font-family:ScalySans\">15</span></td><td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center;width:45.1979px;height:23px\"><span style=\"font-family:ScalySans\">40</span></td></tr></tbody></table><p> </p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.15",
+    "identifier": "casting-style",
+    "levels": 1,
+    "hitDice": "d8",
+    "hitDiceUsed": 0,
+    "advancement": [
+      {
+        "_id": "umhbomj33zsobwcw",
+        "type": "HitPoints",
+        "configuration": {},
+        "value": {}
+      },
+      {
+        "_id": "ud29rmv0ksosfqrl",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.features-wands.Item.8hxch8J2qPjoMCez"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 2,
+        "title": "Feature"
+      },
+      {
+        "_id": "no4lqpma4maeo9wh",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.features-wands.Item.1kZzJx0va0Fhi81T"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 3,
+        "title": "Feature"
+      },
+      {
+        "_id": "unymb902l2ompjcn",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.spells-wands.xjyXNncVKZgo4z01",
+            "Compendium.wands.features-wands.Item.K0sNedD2aum7pe1T"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 9,
+        "title": "Feature"
+      },
+      {
+        "_id": "mdvhzsk6yto83emj",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.features-wands.Item.g1R67HlsjBfjdpHD",
+            "Compendium.wands.features-wands.Item.yKuuNWPRkDaw8zC6",
+            "Compendium.wands.features-wands.Item.mjl2AEU4BTYlkMSf"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 1,
+        "title": "Feature"
+      },
+      {
+        "_id": "u4tfc9s1yoa2ju3q",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.features-wands.Item.YhbP81Hza2VTskb1"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 20,
+        "title": "Feature"
+      },
+      {
+        "_id": "I3kuCuO4smjaxsHC",
+        "type": "Trait",
+        "level": 1,
+        "configuration": {
+          "mode": "default",
+          "allowReplacements": false,
+          "hint": "",
+          "grants": [
+            "saves:dex",
+            "saves:int"
+          ],
+          "choices": [
+            {
+              "count": 2,
+              "pool": [
+                "skills:acr",
+                "skills:nat",
+                "skills:ins",
+                "skills:inv",
+                "skills:ani",
+                "skills:arc",
+                "skills:med",
+                "skills:his",
+                "skills:sur"
+              ]
+            }
+          ]
+        },
+        "value": {
+          "chosen": [
+            "saves:dex",
+            "saves:int"
+          ]
+        },
+        "title": "",
+        "icon": null,
+        "classRestriction": "primary"
+      },
+      {
+        "_id": "hIxdykNvRVcpWM2Q",
+        "type": "ScaleValue",
+        "configuration": {
+          "identifier": "",
+          "type": "number",
+          "distance": {
+            "units": ""
+          },
+          "scale": {
+            "1": {
+              "value": 6
+            },
+            "3": {
+              "value": 7
+            },
+            "5": {
+              "value": 8
+            },
+            "7": {
+              "value": 9
+            },
+            "9": {
+              "value": 10
+            },
+            "11": {
+              "value": 11
+            },
+            "13": {
+              "value": 12
+            },
+            "15": {
+              "value": 13
+            },
+            "17": {
+              "value": 14
+            },
+            "19": {
+              "value": 15
+            }
+          }
+        },
+        "value": {},
+        "title": "Cantrips Known",
+        "icon": null
+      },
+      {
+        "_id": "8wa6S3ZHUeWaOuTv",
+        "type": "ScaleValue",
+        "configuration": {
+          "identifier": "",
+          "type": "number",
+          "distance": {
+            "units": ""
+          },
+          "scale": {
+            "1": {
+              "value": 6
+            },
+            "2": {
+              "value": 8
+            },
+            "3": {
+              "value": 10
+            },
+            "4": {
+              "value": 12
+            },
+            "5": {
+              "value": 16
+            },
+            "6": {
+              "value": 18
+            },
+            "7": {
+              "value": 20
+            },
+            "8": {
+              "value": 22
+            },
+            "9": {
+              "value": 26
+            },
+            "10": {
+              "value": 28
+            },
+            "11": {
+              "value": 30
+            },
+            "13": {
+              "value": 34
+            },
+            "15": {
+              "value": 36
+            },
+            "17": {
+              "value": 40
+            }
+          }
+        },
+        "value": {},
+        "title": "Spells Known",
+        "icon": null
+      },
+      {
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 2,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 4,
+        "title": "Ability Score Improvement",
+        "icon": "systems/dnd5e/icons/svg/ability-score-improvement.svg",
+        "_id": "zSlKyZ0rzKcd78Cq"
+      },
+      {
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 2,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 8,
+        "title": "Ability Score Improvement",
+        "icon": "systems/dnd5e/icons/svg/ability-score-improvement.svg",
+        "_id": "Psp6dqmMqww0D44O"
+      },
+      {
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 2,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 12,
+        "title": "Ability Score Improvement",
+        "icon": "systems/dnd5e/icons/svg/ability-score-improvement.svg",
+        "_id": "9qahHg5ZfS8bWkjD"
+      },
+      {
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 2,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 16,
+        "title": "Ability Score Improvement",
+        "icon": "systems/dnd5e/icons/svg/ability-score-improvement.svg",
+        "_id": "QYpSCG2AmMi8taC1"
+      },
+      {
+        "_id": "puDaUsYrlks0z5gm",
+        "type": "AbilityScoreImprovement",
+        "configuration": {
+          "points": 2,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 0
+          },
+          "cap": 2
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 19,
+        "title": ""
+      },
+      {
+        "_id": "HyPLs1DpevXL7CpU",
+        "type": "ScaleValue",
+        "configuration": {
+          "identifier": "sorcery-points",
+          "type": "number",
+          "distance": {
+            "units": ""
+          },
+          "scale": {
+            "2": {
+              "value": 2
+            },
+            "3": {
+              "value": 3
+            },
+            "4": {
+              "value": 4
+            },
+            "6": {
+              "value": 5
+            },
+            "7": {
+              "value": 6
+            },
+            "8": {
+              "value": 7
+            },
+            "10": {
+              "value": 8
+            },
+            "11": {
+              "value": 9
+            },
+            "12": {
+              "value": 10
+            },
+            "14": {
+              "value": 11
+            },
+            "15": {
+              "value": 12
+            },
+            "16": {
+              "value": 13
+            },
+            "18": {
+              "value": 14
+            },
+            "19": {
+              "value": 15
+            }
+          }
+        },
+        "value": {},
+        "title": "Sorcery Points",
+        "icon": null
+      },
+      {
+        "_id": "PbzLL3cDwK4uTJRa",
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "3": 1,
+            "7": 1,
+            "13": 1
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            "Compendium.wands.features-wands.Item.0WSEVvMEmPguSJeu",
+            "Compendium.wands.features-wands.Item.7mV9VErFXSkroF9N",
+            "Compendium.wands.features-wands.Item.9Uwuy8LvCZ888TZ3",
+            "Compendium.wands.features-wands.Item.YUmL8vdQJhqCFkis",
+            "Compendium.wands.features-wands.Item.KmZiDGjcDTaiOabW",
+            "Compendium.wands.features-wands.Item.fOwRW1AsQ1H84XL8",
+            "Compendium.wands.features-wands.Item.mzeKANMCzYx4sdnS",
+            "Compendium.wands.features-wands.Item.w5WsO4UkKjAYlQFf"
+          ],
+          "spell": null,
+          "hint": "",
+          "restriction": {
+            "type": "class",
+            "subtype": "metamagic"
+          }
+        },
+        "value": {},
+        "title": "Metamagic",
+        "icon": null
+      }
+    ],
+    "saves": [
+      "dex",
+      "int"
+    ],
+    "skills": {
+      "number": 2,
+      "choices": [
+        "acr",
+        "nat",
+        "ins",
+        "inv",
+        "ani",
+        "arc",
+        "med",
+        "his",
+        "sur"
+      ],
+      "value": []
+    },
+    "spellcasting": {
+      "progression": "full",
+      "ability": "int"
+    },
+    "subclass": ""
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424750,
+    "modifiedTime": 1708978744078,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Compendium.waw.casting-styles-and-schools-of-magic-wandw.RJytPSm3NX6193a9",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!aY9MKttqjWxgO8aq"
+}

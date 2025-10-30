@@ -1,0 +1,110 @@
+{
+  "name": "Obscuro",
+  "type": "spell",
+  "img": "icons/magic/air/wind-stream-blue-gray.webp",
+  "effects": [],
+  "folder": "Mo9qhFulXOk60lxW",
+  "sort": 400000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "czpa0o0AzXB3YYrU",
+  "system": {
+    "description": {
+      "value": "<p>You can conjure a black blindfold that magically wraps itself around a foe's head. Choose one creature that you can see within range to make a Dexterity saving throw. If it fails, the target is blinded for the duration. The creature can remove the blindfold as an action.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.68",
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": "(active until dispelled)"
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": 60,
+      "long": null,
+      "units": "ft"
+    },
+    "uses": {
+      "value": null,
+      "max": null,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "save",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": null
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "dex",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "level": 1,
+    "school": "trf",
+    "components": {
+      "value": "",
+      "vocal": true,
+      "somatic": true,
+      "material": false,
+      "ritual": true,
+      "concentration": false
+    },
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "scaling": {
+      "mode": "none",
+      "formula": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995425150,
+    "modifiedTime": 1709155597676,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Compendium.waw.spells-wandw.TOoMIHZIAzMr1i9W",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!czpa0o0AzXB3YYrU"
+}

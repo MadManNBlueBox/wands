@@ -1,0 +1,127 @@
+{
+  "folder": null,
+  "name": "Eagle",
+  "type": "race",
+  "img": "icons/magic/light/beam-rays-blue-small.webp",
+  "system": {
+    "description": {
+      "value": "<p>Eagles prize wit, learning, and wisdom. It's an ethos etched      into founder Rowena Eagle's diadem: 'wit beyond measure is    man's greatest treasure.' Despite the house's reputation for eccentricity and reclusiveness, Eagles tend to make their  mark on the world. Eagle's house colors are blue and bronze.</p><h2>A Systematic Mind</h2><p>Eagles construct systems to test their decisions against before they feel comfortable calling something right. Their systems give them a way to frame the world and a confidence in their ability to interact with it.</p><p>Eagles do not lack intuition, but often distrust gut instinct. Although they go about it differently, a Eagle can be just as morally motivated as a Lion.</p><h2>Contingency Planners</h2><p>Eagles plan. They collect information, they strategize. They have tools. They run hypotheticals and try to plan ahead for things that might come up. They build things (of varying degrees of actual usefulness) that they can use later, whether that’s an emergency supply pack or vast knowledge in a niche topic. They feel less at home in improvisation and more comfortable taking the time to be prepared.</p><h2>Eagle Traits</h2><p>With a library in their common room, Eagles will always share studious habits.</p><p><strong>Ability Score Increase.</strong> Your Intelligence score, Wisdom score, and one other ability score of choice increase by 1.</p><p><strong>In-Depth Knowledge.</strong> Whenever you make an Intelligence or Wisdom ability check that lets you add your proficiency bonus, you can treat a d20 roll of 5 or lower as a 6.</p><p><strong>Rowena's Library.</strong> You can easily research a desired topic through enlisting your housemates' help and browsing books exclusively found in the Eagle common room.</p><p><strong>Feat.</strong> You gain one feat of your choice.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "W&W",
+      "page": "p.5",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [
+      {
+        "type": "AbilityScoreImprovement",
+        "_id": "rKaKiFAENvWiXDvJ",
+        "configuration": {
+          "points": 1,
+          "fixed": {
+            "str": 0,
+            "dex": 0,
+            "con": 0,
+            "int": 1,
+            "wis": 1,
+            "cha": 0
+          },
+          "cap": 2
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 0,
+        "title": "",
+        "icon": null
+      },
+      {
+        "type": "Size",
+        "_id": "NiwFuU2ig4x8NazM",
+        "configuration": {
+          "sizes": [
+            "med"
+          ]
+        },
+        "level": 0,
+        "value": {}
+      },
+      {
+        "type": "Trait",
+        "configuration": {
+          "grants": [
+            "languages:standard:common"
+          ],
+          "mode": "default",
+          "allowReplacements": false,
+          "choices": []
+        },
+        "_id": "k1sj0NCxlYbZSO1z",
+        "level": 0,
+        "value": {
+          "chosen": []
+        }
+      },
+      {
+        "_id": "ApAMe55F0R9T4i3y",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.features-wands.Item.5EBv9gSd9K8FjmHN",
+            "Compendium.wands.features-wands.Item.vwF5cPJxlnU6bWIt"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Features",
+        "icon": null
+      }
+    ],
+    "movement": {
+      "burrow": null,
+      "climb": null,
+      "fly": null,
+      "swim": null,
+      "walk": 30,
+      "units": null,
+      "hover": false
+    },
+    "senses": {
+      "darkvision": null,
+      "blindsight": null,
+      "tremorsense": null,
+      "truesight": null,
+      "units": null,
+      "special": ""
+    },
+    "type": {
+      "value": "humanoid"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1708495934874,
+    "modifiedTime": 1708628784152,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "yOqv2Wtbmppm5CBD",
+  "sort": 500000,
+  "_key": "!items!yOqv2Wtbmppm5CBD"
+}

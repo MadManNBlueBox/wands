@@ -1,0 +1,47 @@
+{
+  "name": "Potioneer's Kit",
+  "type": "tool",
+  "img": "icons/containers/bags/pack-simple-leather.webp",
+  "effects": [],
+  "folder": "VSpi16qK2PZDTA6e",
+  "sort": 112500,
+  "flags": {},
+  "_id": "9N7466XCneIsi5SV",
+  "system": {
+    "description": {
+      "value": "<p>The Potioneer's Kit includes a set of brass scales, silver knife, cutting board, mortar and pestle, measuring cups, eye dropper and vials, jars and flasks, as well as some staple ingredients that aren't included in recipes.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.85",
+    "quantity": 1,
+    "weight": 0,
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "",
+    "identified": true,
+    "toolType": "",
+    "baseItem": "",
+    "ability": "dex",
+    "chatFlavor": "",
+    "proficient": 0,
+    "bonus": ""
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424825,
+    "modifiedTime": 1708586729466,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!9N7466XCneIsi5SV"
+}

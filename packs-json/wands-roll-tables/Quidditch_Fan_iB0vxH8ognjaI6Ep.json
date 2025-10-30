@@ -1,0 +1,19 @@
+{
+  "name": "Quidditch Fan",
+  "sorting": "a",
+  "folder": "CkghkUALJpaMfoup",
+  "type": "RollTable",
+  "_id": "iB0vxH8ognjaI6Ep",
+  "sort": 800000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "11.315",
+    "createdTime": 1709156732893,
+    "modifiedTime": 1709156799887,
+    "lastModifiedBy": "6KPKvdrxQhprt6if"
+  },
+  "_key": "!folders!iB0vxH8ognjaI6Ep"
+}

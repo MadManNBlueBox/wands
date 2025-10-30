@@ -1,0 +1,117 @@
+{
+  "name": "Noxious Potion",
+  "type": "consumable",
+  "img": "icons/consumables/potions/potion-tube-corked-bubbling-green.webp",
+  "effects": [],
+  "folder": "WnIyLJ4y3sjWvVoi",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>The liquid and fumes of this potion are equally dangerous, allowing for creatively nefarious uses. A creature that ingests or inhales this poison must succeed on a DC 13 Constitution saving throw or take 21 (6d6) poison damage, and must repeat the saving throw at the start of each of its turns. On each successive failed save, the character takes 7 (2d6) poison damage. After three successful saves, the poison ends.</p>\n<p>As an action, you can throw a bottle of Noxious Potion at a point up to 60 feet away, releasing the gas and exposing creatures within 5 feet of that point.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "W&W p.46"
+    },
+    "quantity": 1,
+    "weight": 0.5,
+    "price": {
+      "value": 250,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "target": {
+      "value": 5,
+      "width": null,
+      "units": "ft",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": 60,
+      "long": null,
+      "units": "ft"
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "charges",
+      "autoDestroy": true,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null,
+      "scale": false
+    },
+    "ability": "con",
+    "actionType": "save",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [
+        [
+          "6d6",
+          "poison"
+        ]
+      ],
+      "versatile": "2d6"
+    },
+    "formula": "",
+    "save": {
+      "ability": "con",
+      "dc": 13,
+      "scaling": "flat"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "type": {
+      "value": "potion",
+      "subtype": ""
+    },
+    "container": null,
+    "cover": null,
+    "crewed": false,
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "HJtvMnewDM77SRUs": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424852,
+    "modifiedTime": 1708586944941,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "G01FoNIujKOi8pyR",
+  "sort": 2600000,
+  "_key": "!items!G01FoNIujKOi8pyR"
+}

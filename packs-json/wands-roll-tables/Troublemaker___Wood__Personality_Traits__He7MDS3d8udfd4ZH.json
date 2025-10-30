@@ -1,0 +1,240 @@
+{
+  "name": "Troublemaker - Wood (Personality Traits)",
+  "img": "icons/magic/unholy/silhouette-light-fire-blue.webp",
+  "results": [
+    {
+      "_id": "C8fQWcZzklfjez6w",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dogwood",
+      "name": "",
+      "_key": "!tables.results!He7MDS3d8udfd4ZH.C8fQWcZzklfjez6w"
+    },
+    {
+      "_id": "4bftiuzCtyks1Err",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dogwood wands are quirky, noisy, and mischievous; they have playful natures and insist upon partners who provide excitement and fun. It would be quite wrong to think dogwood wands aren’t capable of serious magic; they perform outstanding spells in difficult conditions, and with a suitably clever owner, can produce dazzling enchantments.",
+      "name": "",
+      "_key": "!tables.results!He7MDS3d8udfd4ZH.4bftiuzCtyks1Err"
+    },
+    {
+      "_id": "AT2UXhr1ZaPkXhK5",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ebony",
+      "name": "",
+      "_key": "!tables.results!He7MDS3d8udfd4ZH.AT2UXhr1ZaPkXhK5"
+    },
+    {
+      "_id": "HQNulFQkOsu3CqNe",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ebony wands are impressive in appearance and reputation, being highly suited to Transfiguration and combative magic. Ebony is happiest in the hand of those with the courage to be themselves. Frequently non-conformist or comfortable with being an outsider, the ebony wand’s perfect match will not be swayed lightly from their beliefs and purpose.",
+      "name": "",
+      "_key": "!tables.results!He7MDS3d8udfd4ZH.HQNulFQkOsu3CqNe"
+    },
+    {
+      "_id": "eFbN8NQ8uQd0scrm",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Elder",
+      "name": "",
+      "_key": "!tables.results!He7MDS3d8udfd4ZH.eFbN8NQ8uQd0scrm"
+    },
+    {
+      "_id": "L1ND5YG95JMkYWQa",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The rarest wand wood of all, and reputed to be unlucky (a baseless superstition), elder wands are trickiest to master. They contain powerful magic, but scorn any owner who is not a superior caster; it takes a remarkable wizard to keep an elder wand. The truth is that only a highly unusual person will find their perfect match in elder, but that witch or wizard in question is certainly marked out for a special destiny.",
+      "name": "",
+      "_key": "!tables.results!He7MDS3d8udfd4ZH.L1ND5YG95JMkYWQa"
+    },
+    {
+      "_id": "MBHd59Xt3vGezN3H",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Holly",
+      "name": "",
+      "_key": "!tables.results!He7MDS3d8udfd4ZH.MBHd59Xt3vGezN3H"
+    },
+    {
+      "_id": "gw6WnK8kfwsKYMdY",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Holly is one of the rarer kinds of wand woods; traditionally considered protective, it works most happily for those who may need help overcoming a tendency to anger and impetuosity. At the same time, holly wands often choose owners engaged in some dangerous and often spiritual quest. Holly is a notoriously difficult wood to team with phoenix feather, but should such a pairing find its match, nothing and nobody should stand in their way.",
+      "name": "",
+      "_key": "!tables.results!He7MDS3d8udfd4ZH.gw6WnK8kfwsKYMdY"
+    }
+  ],
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "n8EyrfzBwmACsoDw",
+  "sort": 125000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "He7MDS3d8udfd4ZH",
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156762210,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "RollTable.R2TmtRnZzET0Wl2p",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!He7MDS3d8udfd4ZH"
+}

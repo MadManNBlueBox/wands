@@ -1,0 +1,19 @@
+{
+  "name": "Race Features",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "iywfvRuhk9XTtOAX",
+  "sort": 300000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "11.315",
+    "createdTime": 1708584092628,
+    "modifiedTime": 1708584172267,
+    "lastModifiedBy": "6KPKvdrxQhprt6if"
+  },
+  "_key": "!folders!iywfvRuhk9XTtOAX"
+}

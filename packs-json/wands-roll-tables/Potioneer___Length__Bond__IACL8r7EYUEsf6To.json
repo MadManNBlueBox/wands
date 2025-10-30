@@ -1,0 +1,110 @@
+{
+  "name": "Potioneer - Length (Bond)",
+  "img": "icons/tools/laboratory/vials-blue-pink.webp",
+  "results": [
+    {
+      "_id": "6w5XsM6IWGdHAPNB",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "9\": I will face any challenge to win the approval of my family.",
+      "name": "",
+      "_key": "!tables.results!IACL8r7EYUEsf6To.6w5XsM6IWGdHAPNB"
+    },
+    {
+      "_id": "6R7bKKRsi1zWDxlE",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "10.5\": I idolize legendary wizards and measure my deeds against theirs.",
+      "name": "",
+      "_key": "!tables.results!IACL8r7EYUEsf6To.6R7bKKRsi1zWDxlE"
+    },
+    {
+      "_id": "a5Q1ZA1T4RZ9DvYn",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "12\": I am the only one carrying on my name, and it is up to me to immortalize it in history.",
+      "name": "",
+      "_key": "!tables.results!IACL8r7EYUEsf6To.a5Q1ZA1T4RZ9DvYn"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "phDA2akNgGJRaX0z",
+  "sort": 150000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "IACL8r7EYUEsf6To",
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156710018,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "RollTable.vvDIXBHuR2RwNCVZ",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!IACL8r7EYUEsf6To"
+}

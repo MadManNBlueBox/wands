@@ -1,0 +1,110 @@
+{
+  "name": "Alohomora",
+  "type": "spell",
+  "img": "icons/sundries/misc/key-brass.webp",
+  "effects": [],
+  "folder": "B9e8v8Eqsm3HuZzJ",
+  "sort": 200000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "7iEiSq5gvaTOm5TS",
+  "system": {
+    "description": {
+      "value": "<p>Choose a door or window that you can see within range, that uses mundane or magical means to prevent access.</p>\n<p>A target that is held shut by a mundane lock or that is stuck or barred becomes unlocked, unstuck, or unbarred. If the object has multiple locks, only one of them is unlocked.</p>\n<p>If you choose a target that is held shut with Colloportus, that spell is removed.</p>\n<p>When you cast the spell, the mechanism noisily turns and unlocks. This noise emanates from the target object and is audible from as far away as 100 feet.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.62",
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": "inst"
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": 60,
+      "long": null,
+      "units": "ft"
+    },
+    "uses": {
+      "value": null,
+      "max": null,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": null
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "level": 0,
+    "school": "cha",
+    "components": {
+      "value": "",
+      "vocal": true,
+      "somatic": true,
+      "material": false,
+      "ritual": false,
+      "concentration": false
+    },
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "scaling": {
+      "mode": "none",
+      "formula": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424878,
+    "modifiedTime": 1709148150087,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Compendium.waw.spells-wandw.g3SobwNgnosTHQLY",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!7iEiSq5gvaTOm5TS"
+}

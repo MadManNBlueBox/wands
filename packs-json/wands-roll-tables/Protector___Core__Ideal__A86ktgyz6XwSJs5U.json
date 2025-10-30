@@ -1,0 +1,110 @@
+{
+  "name": "Protector - Core (Ideal)",
+  "img": "icons/magic/defensive/armor-shield-barrier-steel.webp",
+  "results": [
+    {
+      "_id": "hTsUE0AE1C9RBIMU",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unicorn Hair: Charity. I always try to help those in need, no matter what the personal cost.",
+      "name": "",
+      "_key": "!tables.results!A86ktgyz6XwSJs5U.hTsUE0AE1C9RBIMU"
+    },
+    {
+      "_id": "oxOjVYgfwM0QN2KK",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dragon Heartstring: Fairness. No one should get preferential treatment, and no one is above justice.",
+      "name": "",
+      "_key": "!tables.results!A86ktgyz6XwSJs5U.oxOjVYgfwM0QN2KK"
+    },
+    {
+      "_id": "SWR1Y3W03mr4hNKZ",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Phoenix Feather: Might. History is written by the victors, and the strong will always win.",
+      "name": "",
+      "_key": "!tables.results!A86ktgyz6XwSJs5U.SWR1Y3W03mr4hNKZ"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "1OYJ2ygxZ9or23lv",
+  "sort": 100000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "A86ktgyz6XwSJs5U",
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156719000,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "RollTable.Ahp773xn2CwTT6Sf",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!A86ktgyz6XwSJs5U"
+}

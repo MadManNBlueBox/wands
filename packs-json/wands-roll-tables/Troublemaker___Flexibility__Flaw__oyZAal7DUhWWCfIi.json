@@ -1,0 +1,110 @@
+{
+  "name": "Troublemaker - Flexibility (Flaw)",
+  "img": "icons/magic/unholy/silhouette-light-fire-blue.webp",
+  "results": [
+    {
+      "_id": "C8fQWcZzklfjez6w",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stiff: Once someone questions my courage, I never back down no matter how dangerous the situation.",
+      "name": "",
+      "_key": "!tables.results!oyZAal7DUhWWCfIi.C8fQWcZzklfjez6w"
+    },
+    {
+      "_id": "4bftiuzCtyks1Err",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Slightly Bendy: I remember every insult I've received and nurse a silent resentment toward anyone who's ever wronged me.",
+      "name": "",
+      "_key": "!tables.results!oyZAal7DUhWWCfIi.4bftiuzCtyks1Err"
+    },
+    {
+      "_id": "AT2UXhr1ZaPkXhK5",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Flexible: I'll say anything to avoid having to do extra work.",
+      "name": "",
+      "_key": "!tables.results!oyZAal7DUhWWCfIi.AT2UXhr1ZaPkXhK5"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "n8EyrfzBwmACsoDw",
+  "sort": 200000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "oyZAal7DUhWWCfIi",
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156760106,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "RollTable.KHTHbJYIT9aNazDI",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!oyZAal7DUhWWCfIi"
+}

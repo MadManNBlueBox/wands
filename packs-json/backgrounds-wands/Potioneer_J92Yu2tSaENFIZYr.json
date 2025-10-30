@@ -1,0 +1,53 @@
+{
+  "name": "Potioneer",
+  "type": "background",
+  "img": "icons/tools/laboratory/vials-blue-pink.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {}
+  },
+  "_id": "J92Yu2tSaENFIZYr",
+  "system": {
+    "description": {
+      "value": "<p>More than once, you've been accused of perfectionism, but your attention to detail allows you to succeed where others fail. This trait shines when you turn your focus to brewing potions. You approach situations with drive and vigor, and live with strong conviction in your values and principles.</p><hr style=\"border-top:1px solid var(--color-border-light-primary);border-bottom:1px solid var(--color-border-light-highlight)\" /><p><strong>Skill Proficiencies:</strong> Herbology, Potion-making</p><p><strong>Tool Proficiencies:</strong> @UUID[Compendium.wands.items-wands.9N7466XCneIsi5SV]{Potioneer's Kit}</p><p><strong>Equipment:</strong> A @UUID[Compendium.wands.items-wands.9N7466XCneIsi5SV]{Potioneer's kit}, and a muggle notebook with a ballpoint pen</p><p><strong>Feature:</strong> @UUID[Compendium.wands.backgrounds-wands.Item.QyIL838DMhWlpxuM]{Regular Customer}</p><hr style=\"border-top:1px solid var(--color-border-light-primary);border-bottom:1px solid var(--color-border-light-highlight)\" /><h3>Wand Characteristics</h3><p>@Compendium[wands.wands-roll-tables.syVrV4kESfKRQ4Cp]{Potioneer - Wood (Personality Traits)}</p><p>@Compendium[wands.wands-roll-tables.hbqNQEFAql96OWeX]{Potioneer - Core (Ideal)}</p><p>@Compendium[wands.wands-roll-tables.IACL8r7EYUEsf6To]{Potioneer - Length (Bond)}</p><p>@Compendium[wands.wands-roll-tables.yTAP6fE8aWEbiHwe]{Potioneer - Flexibility (Flaw)}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.34",
+    "advancement": [
+      {
+        "_id": "93ayq5f90cjulw9x",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.backgrounds-wands.Item.QyIL838DMhWlpxuM"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Feature",
+        "icon": null
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424767,
+    "modifiedTime": 1708976810641,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Item.XMYq2fOIXahWLBFf",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!J92Yu2tSaENFIZYr"
+}

@@ -1,0 +1,102 @@
+{
+  "name": "Wand and Shield",
+  "type": "feat",
+  "img": "icons/magic/control/debuff-energy-hold-teal-blue.webp",
+  "effects": [],
+  "folder": "ZNrtfcrRGYMDXeuX",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>You've uncovered an ancient dueling style, allowing both offense and defense at the same time. When you cast @Compendium[wands.spells-wands.EgRBuzwafm5XCPxo]{Protego}<em> </em>or @Compendium[wands.spells-wands.XUX8NuUWEEhOaNMS]{Protego Maxima}, you can transition the spell's casting to your off-hand, freeing up your wand to cast other spells. The spell still requires concentration, but you are able to cast and maintain another concentration spell with your wand. Any factor that affects your ability to maintain concentration is applied individually to each effect (e.g. upon taking damage make a Constitution saving throw for each spell).</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "W&W p.17"
+    },
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null,
+      "scale": false
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "requirements": "Charms",
+    "recharge": {
+      "value": null,
+      "charged": false
+    },
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995425090,
+    "modifiedTime": 1708585420757,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "s8IaNnOam5Ngh6dj",
+  "sort": 6300000,
+  "_key": "!items!s8IaNnOam5Ngh6dj"
+}

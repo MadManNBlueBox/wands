@@ -1,0 +1,19 @@
+{
+  "name": "Dreamer",
+  "sorting": "a",
+  "folder": "CkghkUALJpaMfoup",
+  "type": "RollTable",
+  "_id": "qDW8sBhPerg8KHfM",
+  "sort": 300000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "11.315",
+    "createdTime": 1709156615450,
+    "modifiedTime": 1709156788579,
+    "lastModifiedBy": "6KPKvdrxQhprt6if"
+  },
+  "_key": "!folders!qDW8sBhPerg8KHfM"
+}

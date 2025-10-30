@@ -1,0 +1,110 @@
+{
+  "name": "Potioneer - Flexibility (Flaw)",
+  "img": "icons/tools/laboratory/vials-blue-pink.webp",
+  "results": [
+    {
+      "_id": "6w5XsM6IWGdHAPNB",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hard: I'm convinced of my work's significance, and blind to my shortcomings and the risk of failure.",
+      "name": "",
+      "_key": "!tables.results!yTAP6fE8aWEbiHwe.6w5XsM6IWGdHAPNB"
+    },
+    {
+      "_id": "6R7bKKRsi1zWDxlE",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Barely Yielding: Once I pick a goal, I become obsessed with it to the detriment of everything else in my life.",
+      "name": "",
+      "_key": "!tables.results!yTAP6fE8aWEbiHwe.6R7bKKRsi1zWDxlE"
+    },
+    {
+      "_id": "a5Q1ZA1T4RZ9DvYn",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Quite Flexible: I'm horribly jealous of anyone who outshines my work. Everywhere I go, I'm surrounded by rivals.",
+      "name": "",
+      "_key": "!tables.results!yTAP6fE8aWEbiHwe.a5Q1ZA1T4RZ9DvYn"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "phDA2akNgGJRaX0z",
+  "sort": 200000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "yTAP6fE8aWEbiHwe",
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156709150,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "RollTable.bf7Kkk7DnLzmALwB",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!yTAP6fE8aWEbiHwe"
+}

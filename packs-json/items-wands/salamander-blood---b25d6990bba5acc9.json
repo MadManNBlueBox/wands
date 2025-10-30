@@ -1,0 +1,35 @@
+{
+    "_id": "b25d6990bba5acc9",
+    "_key": "!items!b25d6990bba5acc9",
+    "name": "salamander blood",
+    "type": "loot",
+    "img": "icons/commodities/materials/slime-red.webp",
+    "effects": [],
+    "folder": "8b9356509439cbd8",
+    "flags": {
+        "core": {}
+    },
+    "system": {
+        "description": {
+            "value": "<p>Alchemy ingredient.</p><p><strong>Rarity:</strong> uncommon</p><hr/><p><strong>Used in:</strong><br>@UUID[Compendium.wands.items-wands.Item.aDKqv3T1MRfd0y7J]{Fire Protection Potion}<br>@UUID[Compendium.wands.items-wands.Item.9SN9FGJGNIUIEC4a]{Strengthening Solution}</p>",
+            "chat": ""
+        },
+        "source": {
+            "custom": "Generated from potion-recipes.json"
+        },
+        "quantity": 1,
+        "weight": 0.1,
+        "price": {
+            "value": 2.5,
+            "denomination": "gp"
+        },
+        "attunement": 0,
+        "equipped": false,
+        "rarity": "uncommon",
+        "identified": true,
+        "properties": []
+    },
+    "ownership": {
+        "default": 0
+    }
+}

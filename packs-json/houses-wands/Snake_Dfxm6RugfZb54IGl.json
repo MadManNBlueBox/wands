@@ -1,0 +1,127 @@
+{
+  "folder": null,
+  "name": "Snake",
+  "type": "race",
+  "img": "icons/magic/light/beam-rays-green-small.webp",
+  "system": {
+    "description": {
+      "value": "<p>Snake produces more than its share of Dark wizards, but also turns out leaders who are proud, ambitious, resourceful, and cunning. Merlin is one particularly famous Snake. What others may call cheating or manipulation, a Snake calls \"playing the game.\" Snake's house colors are green and silver.</p><h2>Inner Circle</h2><p>Snakes are fiercely loyal to the people they care for most. Snake is the place where \"you’ll make your real friends\"; they prioritize individual loyalties and find their moral core in protecting and caring for the people they are closest to.</p><p>Snake’s reputation for ambition comes from prioritizing themselves and the select people they deem important. Ambition is something you can find in all four houses, but Snake’s looks most obviously selfish.</p><h2>Machiavellian Maneuvers</h2><p>Snakes improvise. They are the most adaptive, finding their strength in responding quickly to whatever a situation throws at them. They improvise differently than Lions, trying new angles instead of strong-arming the situation. They might have different \"faces\" for different situations, only truly being themselves when they’re alone or feel safe.</p><h2>Snake Traits</h2><p>Although Snakes like to keep their secrets, there are some obvious traits they all have.</p><p><strong>Ability Score Increase.</strong> Your Dexterity score, Charisma score, and one other ability score of choice increase by 1.</p><p><strong>Compromising Information.</strong> Whenever you make a Charisma check related to using a person's secrets, you are considered proficient in the appropriate skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.</p><p><strong>A Noble Quality. </strong>You're able to adopt a persona of importance to blend in among high-ranking officials and prestigious witches and wizards.</p><p><strong>Feat.</strong> You gain one feat of your choice.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "W&W",
+      "page": "p.5",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [
+      {
+        "type": "AbilityScoreImprovement",
+        "_id": "TqpE2zq2xUZ2yctz",
+        "configuration": {
+          "points": 1,
+          "fixed": {
+            "str": 0,
+            "dex": 1,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 1
+          },
+          "cap": 2
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 0,
+        "title": "",
+        "icon": null
+      },
+      {
+        "type": "Size",
+        "_id": "RKyVkVw9UCAAuIA9",
+        "configuration": {
+          "sizes": [
+            "med"
+          ]
+        },
+        "level": 0,
+        "value": {}
+      },
+      {
+        "type": "Trait",
+        "configuration": {
+          "grants": [
+            "languages:standard:common"
+          ],
+          "mode": "default",
+          "allowReplacements": false,
+          "choices": []
+        },
+        "_id": "4EpiBAzCZxXV0ZoG",
+        "level": 0,
+        "value": {
+          "chosen": []
+        }
+      },
+      {
+        "_id": "kABabWrqHhAComgQ",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.features-wands.Item.bZ3VyayJTuRaUaHh",
+            "Compendium.wands.features-wands.Item.6fOzz7YuV8iHp8QL"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Features",
+        "icon": null
+      }
+    ],
+    "movement": {
+      "burrow": null,
+      "climb": null,
+      "fly": null,
+      "swim": null,
+      "walk": 30,
+      "units": null,
+      "hover": false
+    },
+    "senses": {
+      "darkvision": null,
+      "blindsight": null,
+      "tremorsense": null,
+      "truesight": null,
+      "units": null,
+      "special": ""
+    },
+    "type": {
+      "value": "humanoid"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1708497544628,
+    "modifiedTime": 1708628934707,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "Dfxm6RugfZb54IGl",
+  "sort": 300000,
+  "_key": "!items!Dfxm6RugfZb54IGl"
+}

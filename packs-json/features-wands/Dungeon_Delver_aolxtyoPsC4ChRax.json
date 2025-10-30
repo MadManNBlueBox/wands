@@ -1,0 +1,107 @@
+{
+  "name": "Dungeon Delver",
+  "type": "feat",
+  "img": "icons/environment/settlement/pyramid.webp",
+  "effects": [],
+  "folder": "kBrkVEaWAkteheSS",
+  "flags": {
+    "plutonium": {
+      "page": "feats.html",
+      "source": "PHB",
+      "hash": "dungeon%20delver_phb"
+    },
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<div>\n\t\t\t\n\t\t\t<div class=\"rd__b  rd__b--3\"><p>Alert to the hidden traps and secret doors found in many dungeons, you gain the following benefits:</p><div class=\"rd__spc-inline-post\"></div><ul class=\"rd__list\"><li class=\"rd__li \">You have advantage on Wisdom (<span class=\"help--hover\">Perception</span>) and Intelligence (<span class=\"help--hover\">Investigation</span>) checks made to detect the presence of secret doors.</li><li class=\"rd__li \">You have advantage on saving throws made to avoid or resist traps.</li><li class=\"rd__li \">You have resistance to the damage dealt by traps.</li><li class=\"rd__li \">Traveling at a fast pace doesn't impose the normal -5 penalty on your passive Wisdom (<span class=\"help--hover\">Perception</span>) score.</li></ul></div>\n\t\t</div>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "PHB p.166"
+    },
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": 0,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null,
+      "scale": false
+    },
+    "ability": "",
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    },
+    "requirements": "",
+    "recharge": {
+      "value": null,
+      "charged": true
+    },
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "N8RgN1jdDFyXuWNq": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424885,
+    "modifiedTime": 1708584127148,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "aolxtyoPsC4ChRax",
+  "sort": 500000,
+  "_key": "!items!aolxtyoPsC4ChRax"
+}

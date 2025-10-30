@@ -1,0 +1,35 @@
+{
+    "_id": "0059796088df1302",
+    "_key": "!items!0059796088df1302",
+    "name": "venomous tentacula leaf",
+    "type": "loot",
+    "img": "icons/consumables/plants/leaf-herb-green.webp",
+    "effects": [],
+    "folder": "8b9356509439cbd8",
+    "flags": {
+        "core": {}
+    },
+    "system": {
+        "description": {
+            "value": "<p>Alchemy ingredient.</p><p><strong>Rarity:</strong> rare</p><hr/><p><strong>Used in:</strong><br>@UUID[Compendium.wands.items-wands.Item.7R1TDQsY6cJ9u3DQ]{Erumpent Potion}</p>",
+            "chat": ""
+        },
+        "source": {
+            "custom": "Generated from potion-recipes.json"
+        },
+        "quantity": 1,
+        "weight": 0.1,
+        "price": {
+            "value": 25,
+            "denomination": "gp"
+        },
+        "attunement": 0,
+        "equipped": false,
+        "rarity": "rare",
+        "identified": true,
+        "properties": []
+    },
+    "ownership": {
+        "default": 0
+    }
+}

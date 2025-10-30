@@ -1,0 +1,112 @@
+{
+  "name": "Wideye Potion",
+  "type": "consumable",
+  "img": "icons/consumables/potions/bottle-bulb-corked-green.webp",
+  "effects": [],
+  "folder": "WnIyLJ4y3sjWvVoi",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Also known as the Awakening Potion, drinking this potion removes up to two levels of exhaustion. Other uses are awakening someone from non-magical drugging or concussion, and side effects include restlessness and insomnia.</p>\n<p> </p>\n<table style=\"width:98.533%;height:145px\">\n<tbody>\n<tr style=\"height:10px\">\n<td style=\"width:16.7705%;text-align:center;height:10px\" colspan=\"2\"><strong><br /></strong><strong>Insomnia</strong></td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"width:16.7705%;text-align:center;height:17px\"><strong>[[/r d10]]</strong></td>\n<td style=\"width:82.3196%;text-align:center;height:17px\"><strong>Effect</strong></td>\n</tr>\n<tr style=\"height:16px\">\n<td style=\"width:16.7705%;height:16px;text-align:center\">\n<p>1</p>\n</td>\n<td style=\"width:82.3196%;height:16px\">You cannot sleep. You gain no healing benefits from an extended rest, though for the purposes of spell casting, you have taken an extended rest.</td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"text-align:center;height:51px\">2</td>\n<td style=\"width:82.3196%;height:51px\">You have a half night of very troubled sleep. Others can hear you cry out at terrible dreams. You only regain half of the hit dice and HP that you would normally recover.</td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"width:16.7705%;height:17px;text-align:center\">3-4</td>\n<td style=\"width:82.3196%;height:17px\">You have a poor night's sleep. You recover one fewer hit die and two fewer HP (this increases to 2 and 5, respectively, at 10 level) than you would otherwise recover.</td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"width:16.7705%;height:17px;text-align:center\">5-9</td>\n<td style=\"width:82.3196%;height:17px\">Messia (or a different other-worldly force) sends a projection of herself to comfort you until you are asleep. You gain all the benefits of you extended rest.</td>\n</tr>\n<tr style=\"height:17px\">\n<td style=\"width:16.7705%;height:17px;text-align:center\">10</td>\n<td style=\"width:82.3196%;height:17px\">Messia (or different other-worldly force) comes in person to comfort you as you sleep (often only for a moment and after you have already passed into a shaky slumber). You gain all the benefits of an extended rest and wake up with 5 temp HP (this increases to 10 at 10th level).</td>\n</tr>\n</tbody>\n</table>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "W&W p.47"
+    },
+    "quantity": 1,
+    "weight": 0.5,
+    "price": {
+      "value": 250,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": "inst"
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "charges",
+      "autoDestroy": true,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null,
+      "scale": false
+    },
+    "ability": "",
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "type": {
+      "value": "potion",
+      "subtype": ""
+    },
+    "container": null,
+    "cover": null,
+    "crewed": false,
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "HJtvMnewDM77SRUs": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424906,
+    "modifiedTime": 1708586944941,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "OVpq2HeRQKJEk8RO",
+  "sort": 800000,
+  "_key": "!items!OVpq2HeRQKJEk8RO"
+}

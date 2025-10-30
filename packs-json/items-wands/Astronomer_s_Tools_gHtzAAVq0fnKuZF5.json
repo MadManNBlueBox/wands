@@ -1,0 +1,47 @@
+{
+  "name": "Astronomer's Tools",
+  "type": "tool",
+  "img": "icons/magic/time/day-night-sunset-sunrise.webp",
+  "effects": [],
+  "folder": "VSpi16qK2PZDTA6e",
+  "sort": 100000,
+  "flags": {},
+  "_id": "gHtzAAVq0fnKuZF5",
+  "system": {
+    "description": {
+      "value": "<p>This tubular case contains a featherlight-charmed travel telescope, a sextant, an astro-compass, several star charts, spare parchment, ink and a quill.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W",
+    "quantity": 1,
+    "weight": 0,
+    "price": 0,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "",
+    "identified": true,
+    "toolType": "",
+    "baseItem": "",
+    "ability": "int",
+    "chatFlavor": "",
+    "proficient": 0,
+    "bonus": ""
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424850,
+    "modifiedTime": 1708586723560,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!gHtzAAVq0fnKuZF5"
+}

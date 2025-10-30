@@ -1,0 +1,110 @@
+{
+  "_id": "E2pOKP8nQx7G9Gqn",
+  "name": "Serpensortia",
+  "type": "spell",
+  "img": "icons/creatures/reptiles/serpent-horned-green.webp",
+  "effects": [],
+  "folder": "nkdO00rwGm5WtwMN",
+  "sort": 400000,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>You conjure a venomous snake from thin air. A @Compendium[wands.monsters-wands.OHH1mYOc2yEn1zkd]{Pit Viper} appears in an unoccupied space that you can see within range. Roll initiative for the summoned creature, which has its own turns. Although the pit viper won't willingly attack the caster, you cannot control the actions or targets of the pit viper. It is possible for the pit viper to be turned against you through magical means.</p>\n<p><strong>At Higher Levels.</strong> When you cast this spell using a higher level spell slot, multiple pit vipers are conjured in unoccupied spaces that you can see within range. Choose from the following options: two pit vipers (4th level), three pit vipers (6th level), or four pit vipers (8th level). Initiative is rolled as a group.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.82",
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": "inst"
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": 30,
+      "long": null,
+      "units": "ft"
+    },
+    "uses": {
+      "value": null,
+      "max": null,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": null
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "level": 2,
+    "school": "trf",
+    "components": {
+      "value": "",
+      "vocal": true,
+      "somatic": true,
+      "material": false,
+      "ritual": false,
+      "concentration": false
+    },
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "scaling": {
+      "mode": "level",
+      "formula": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424954,
+    "modifiedTime": 1709155610280,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Compendium.waw.spells-wandw.eUbd9hMpYtADse66",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!E2pOKP8nQx7G9Gqn"
+}

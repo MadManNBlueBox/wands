@@ -1,0 +1,110 @@
+{
+  "name": "Troublemaker - Core (Ideal)",
+  "img": "icons/magic/unholy/silhouette-light-fire-blue.webp",
+  "results": [
+    {
+      "_id": "C8fQWcZzklfjez6w",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unicorn Hair: Aspiration. I'm going to prove that I'm worthy of a better life.",
+      "name": "",
+      "_key": "!tables.results!VytZ33lhwe8kZ0N7.C8fQWcZzklfjez6w"
+    },
+    {
+      "_id": "4bftiuzCtyks1Err",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dragon Heartstring: Cynicism. I only help the people who help me; that’s how you survive.",
+      "name": "",
+      "_key": "!tables.results!VytZ33lhwe8kZ0N7.4bftiuzCtyks1Err"
+    },
+    {
+      "_id": "AT2UXhr1ZaPkXhK5",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Phoenix Feather: Freedom. When people follow rules blindly, they imprison themselves.",
+      "name": "",
+      "_key": "!tables.results!VytZ33lhwe8kZ0N7.AT2UXhr1ZaPkXhK5"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "n8EyrfzBwmACsoDw",
+  "sort": 100000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "VytZ33lhwe8kZ0N7",
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156758505,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "RollTable.Lz8DjrDM18keXsOv",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!VytZ33lhwe8kZ0N7"
+}

@@ -1,0 +1,110 @@
+{
+  "name": "Fidelius Mysteria Celare",
+  "type": "spell",
+  "img": "icons/magic/unholy/silhouette-robe-evil-power.webp",
+  "effects": [],
+  "folder": "BGUbAbLRcdOEKDSz",
+  "sort": 100000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "eFzSkIgxYHLaKlEs",
+  "system": {
+    "description": {
+      "value": "<p>When cast upon a single dwelling that fits within range, it becomes a secret, infallibly invisible and inaccessible by anyone else. This effect reaches to the dwelling's property lines, or if no property lines are defined, the edge of the hemisphere centered on the caster at the time of casting.</p>\n<p>You choose yourself or one person within the area of the spell to be the Secret-Keeper. If the Secret-Keeper tells someone the secret (the location of the dwelling) verbally or in writing, that person can see the secret like the Secret-Keeper and step onto the property. It's impossible for anyone other than the Secret-Keeper to share the secret. If the Secret-Keeper dies, everyone who knows the secret becomes Secret-Keepers and can share the secret with others.</p>\n<p>Three dimensional space is warped around the secret, as if the space occupied by the secret never existed. If a person walks directly towards the secret, they will magically appear on the other side. Nothing will remain that indicates or gives clues to the existence of the secret. If anyone knew the location of the secret before the spell is cast, they forget the exact address but remember the general area where the secret is located.</p>\n<p>This spell is completely undetectable and the area can't be targeted by divination spells. The spell's effects will only end if you dispel it or all Secret-Keepers have died.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.70",
+    "activation": {
+      "type": "hour",
+      "cost": 1,
+      "condition": "(active until dispelled)"
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": 150,
+      "width": null,
+      "units": "ft",
+      "type": "sphere"
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": "self"
+    },
+    "uses": {
+      "value": null,
+      "max": null,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": null
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "level": 9,
+    "school": "cha",
+    "components": {
+      "value": "",
+      "vocal": true,
+      "somatic": true,
+      "material": false,
+      "ritual": false,
+      "concentration": false
+    },
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "scaling": {
+      "mode": "none",
+      "formula": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995425154,
+    "modifiedTime": 1709149121042,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Compendium.waw.spells-wandw.ldYW3Cvr80IRF5lX",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!eFzSkIgxYHLaKlEs"
+}

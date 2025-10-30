@@ -1,0 +1,102 @@
+{
+  "name": "Survivalist",
+  "type": "feat",
+  "img": "icons/creatures/magical/humanoid-giant-forest-blue.webp",
+  "effects": [],
+  "folder": "ZNrtfcrRGYMDXeuX",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>You are particularly adept at traveling through and surviving in natural environments.</p>\n<p>You gain proficiency in either Herbology or Survival. Between Herbology and Survival, choose one that you're proficient in; your proficiency bonus is doubled when you make any check using that chosen skill. Also, you and your group gain the following benefits:</p>\n<ul>\n<li>Difficult terrain doesn’t slow your group’s travel.</li>\n<li>Your group can't be surprised while resting, as long as you are keeping watch.</li>\n<li>If a hit die roll is lower than their proficiency bonus, your group can reroll it once and take the higher result.</li>\n</ul>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "W&W p.24"
+    },
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null,
+      "scale": false
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "requirements": "Magizoology",
+    "recharge": {
+      "value": null,
+      "charged": false
+    },
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424833,
+    "modifiedTime": 1708585377903,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "hn3Ni3YL48Wml4vz",
+  "sort": 5600000,
+  "_key": "!items!hn3Ni3YL48Wml4vz"
+}

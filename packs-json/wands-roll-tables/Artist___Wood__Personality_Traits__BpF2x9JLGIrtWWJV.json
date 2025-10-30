@@ -1,0 +1,188 @@
+{
+  "_id": "BpF2x9JLGIrtWWJV",
+  "name": "Artist - Wood (Personality Traits)",
+  "img": "icons/tools/hand/brush-paint-pink.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "ZDbeQHvn65RB0vAR",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pine",
+      "name": "",
+      "_key": "!tables.results!BpF2x9JLGIrtWWJV.ZDbeQHvn65RB0vAR"
+    },
+    {
+      "_id": "LHqvlH6YkH1e5Xrx",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pine wands always choose an independent, individual master who may be perceived as a loner, intriguing and perhaps mysterious. Pine wands enjoy being used creatively, and unlike some others, will adapt unprotestingly to new methods and spells. Many wandmakers insist that pine wands are able to detect, and perform best for, owners who are destined for long lives. The pine wand is one of those that are sensitive to non-verbal magic.",
+      "name": "",
+      "_key": "!tables.results!BpF2x9JLGIrtWWJV.LHqvlH6YkH1e5Xrx"
+    },
+    {
+      "_id": "Nxr8WgV8EjO0i5Bi",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Red Oak",
+      "name": "",
+      "_key": "!tables.results!BpF2x9JLGIrtWWJV.Nxr8WgV8EjO0i5Bi"
+    },
+    {
+      "_id": "FjfxZL1UQt1OZLOm",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You will often hear the ignorant say that red oak is an infallible sign of its owner’s hot temper. In fact, the true match for a red oak wand is possessed of unusually fast reactions, making it a perfect duelling wand. Less common than English oak, its ideal master is light of touch, quick-witted and adaptable, often the creator of distinctive, trademark spells, and a good man or woman in a fight.",
+      "name": "",
+      "_key": "!tables.results!BpF2x9JLGIrtWWJV.FjfxZL1UQt1OZLOm"
+    },
+    {
+      "_id": "dpKLCmZuQSIBTzR5",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sycamore",
+      "name": "",
+      "_key": "!tables.results!BpF2x9JLGIrtWWJV.dpKLCmZuQSIBTzR5"
+    },
+    {
+      "_id": "nwLVZt0LclXPszmg",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The sycamore makes a questing wand, eager for experience and losing brilliance in mundane activities. These may combust if allowed to become ‘bored,’ and many aging witches and wizards are disconcerted to find their wand bursting into flame as they ask it, one more time, to fetch their slippers. The sycamore’s ideal owner is curious, vital and adventurous, and with such an owner, it demonstrates a highly-prized capacity to learn and adapt.",
+      "name": "",
+      "_key": "!tables.results!BpF2x9JLGIrtWWJV.nwLVZt0LclXPszmg"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "2kep2yCIRJxRNGso",
+  "sort": 125000,
+  "flags": {
+    "core": {}
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156576982,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "RollTable.55ONeZvBXNGtXxHl",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!BpF2x9JLGIrtWWJV"
+}

@@ -1,0 +1,35 @@
+{
+    "_id": "d263b2f59746b271",
+    "_key": "!items!d263b2f59746b271",
+    "name": "bursting mushroom",
+    "type": "loot",
+    "img": "icons/commodities/flowers/lotus-pink.webp",
+    "effects": [],
+    "folder": "8b9356509439cbd8",
+    "flags": {
+        "core": {}
+    },
+    "system": {
+        "description": {
+            "value": "<p>Alchemy ingredient.</p><p><strong>Rarity:</strong> uncommon</p><hr/><p><strong>Used in:</strong><br>@UUID[Compendium.wands.items-wands.Item.ybrrj6Qzry3wjW6B]{Aging Potion}<br>@UUID[Compendium.wands.items-wands.Item.aDKqv3T1MRfd0y7J]{Fire Protection Potion}</p>",
+            "chat": ""
+        },
+        "source": {
+            "custom": "Generated from potion-recipes.json"
+        },
+        "quantity": 1,
+        "weight": 0.1,
+        "price": {
+            "value": 2.5,
+            "denomination": "gp"
+        },
+        "attunement": 0,
+        "equipped": false,
+        "rarity": "uncommon",
+        "identified": true,
+        "properties": []
+    },
+    "ownership": {
+        "default": 0
+    }
+}

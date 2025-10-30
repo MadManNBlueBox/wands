@@ -1,0 +1,110 @@
+{
+  "name": "Colovaria",
+  "type": "spell",
+  "img": "icons/magic/fire/explosion-fireball-small-purple.webp",
+  "effects": [],
+  "folder": "B9e8v8Eqsm3HuZzJ",
+  "sort": 103125,
+  "flags": {
+    "core": {}
+  },
+  "_id": "G9jNNlFA4ZJYSuIz",
+  "system": {
+    "description": {
+      "value": "<p>You change the color of any target within range that lasts for the duration, to any desired complexity. The color may only be reverted by dispelling the charm.</p>\n<p>Physical interaction with the object reveals that the object has retained its original texture and material, but its color has truly changed.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.64",
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": 1,
+      "units": "hour"
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": 30,
+      "long": null,
+      "units": "ft"
+    },
+    "uses": {
+      "value": null,
+      "max": null,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": null
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "level": 0,
+    "school": "cha",
+    "components": {
+      "value": "",
+      "vocal": true,
+      "somatic": true,
+      "material": false,
+      "ritual": false,
+      "concentration": false
+    },
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "scaling": {
+      "mode": "none",
+      "formula": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424977,
+    "modifiedTime": 1709148294260,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Compendium.waw.spells-wandw.YSetYbphC81ZqWng",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!G9jNNlFA4ZJYSuIz"
+}

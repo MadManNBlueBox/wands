@@ -1,0 +1,207 @@
+{
+  "name": "Transfiguration (School of Magic)",
+  "type": "subclass",
+  "img": "icons/magic/fire/dagger-rune-enchant-flame-strong-orange.webp",
+  "effects": [],
+  "folder": "WlpvdaC2ZslNMvcf",
+  "sort": 106250,
+  "flags": {
+    "core": {}
+  },
+  "_id": "zR5SEFVXzxkr4A5T",
+  "system": {
+    "description": {
+      "value": "<p>Transfiguration is a branch of magic that focuses on the alteration of the form or appearance of an object, via the manipulation of the object's molecular structure. Transfiguration is regarded as “very hard work” and is “more scientific” than any other form of magic, i.e. the practicing witch or wizard has to get it exactly right for the transfiguration to be successful.</p><h2 style=\"border-bottom:1px solid var(--color-underline-header)\">Animagi</h2><p>The most legendary practitioner of transfiguration is an Animagus, a witch or wizard who can self-transfigure into an animal at will. It takes skill, practice, and patience for wizards and witches to become Animagi. The process is long and arduous, and has the potential to backfire and cause the transformation to go horribly wrong. As a result, there are very few Animagi, and the power they possess requires registration with the <span style=\"color:#191813;font-size:13px\">British Government of Magic</span>.</p><h2 style=\"border-bottom:1px solid var(--color-underline-header)\">Alchemists</h2><p>A far less known application of transfiguration is Alchemy, the branch of magic and an ancient science concerned with the study of the structure, composition, and magical properties of the four basic elements (earth, air, fire, and water), as well as the transmutation of substances. Intimately connected with potion-making, chemistry and transfiguration, there are many who hold it to be the most difficult magic.</p><h3><strong>School of Magic Spells</strong></h3><table style=\"width:314px\"><tbody><tr><td style=\"width:119px\"><p><strong>Spell Level</strong></p></td><td style=\"width:188px\"><p><strong>Spells</strong></p></td></tr><tr><td style=\"width:119px\"><p>2nd</p></td><td style=\"width:188px\"><p>@Compendium[wands.spells-wands.5FshZ3pIIzYxRyxv]{Orbis}, @Compendium[wands.spells-wands.bgbal4Kr9r6jWrDi]{Reparifarge}</p></td></tr><tr><td style=\"width:119px\"><p>3rd</p></td><td style=\"width:188px\"><p>@Compendium[wands.spells-wands.I3Tq6dodRnATfA7a]{Ignis Laqueis}</p></td></tr><tr><td style=\"width:119px\"><p>4th</p></td><td style=\"width:188px\"><p>@Compendium[wands.spells-wands.ewtmiKM90jo1BauV]{Lapifors}</p></td></tr></tbody></table><p> </p><h2 style=\"border-bottom:1px solid var(--color-underline-header)\">Subclass Features</h2><h3><strong>Scientific Studies</strong></h3><p>At 1st level, you gain one of the following features.</p><p>@UUID[Compendium.wands.features-wands.Item.6H4CZeQjDoAlMXn1]{Anatomy Textbook}</p><p>@UUID[Compendium.wands.features-wands.Item.dSp1iqUguu0uaOZx]{Intuitive Conversion}</p><h3><strong>Transfiguration Prodigy</strong></h3><p>At 6th level, you gain one of the following features.</p><p>@UUID[Compendium.wands.features-wands.Item.dCaSJnUhQVjdRsIo]{Animagus Transformation}</p><p>@UUID[Compendium.wands.features-wands.Item.DH8llNE5QemeV7tH]{Elementalist}</p><h3><strong>Precise Control</strong></h3><p>At 10th level, you gain one of the following features.</p><p>@UUID[Compendium.wands.features-wands.Item.qjY0M07KyCS5A8yx]{Partial Transfiguration}</p><p>@UUID[Compendium.wands.features-wands.Item.eg9ujYaElmZXzkYd]{Molding the Elements}</p><h3><strong>Magically Reinforged</strong></h3><p>At 14th level, you gain one of the following features.</p><p>@UUID[Compendium.wands.features-wands.Item.Ok82C70D89EGBKjs]{Durable Constructs}</p><p>@UUID[Compendium.wands.features-wands.Item.fM13prfsCgpvcPwn]{Fortified Structures}</p><h3><strong>Molecular Manipulator</strong></h3><p>At 18th level, you gain one of the following features.</p><p>@UUID[Compendium.wands.features-wands.Item.VdRKM0dXVRIzQSeL]{Apex Predator}</p><p>@UUID[Compendium.wands.features-wands.Item.cm7nxYmVwUILWlpY]{True Alchemist}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.19",
+    "identifier": "transfiguration",
+    "classIdentifier": "casting-style",
+    "advancement": [
+      {
+        "_id": "us52rt5wnzbca5zq",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.spells-wands.5FshZ3pIIzYxRyxv",
+            "Compendium.wands.spells-wands.bgbal4Kr9r6jWrDi"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 3,
+        "title": "Spells"
+      },
+      {
+        "_id": "2k34qb39fub7olyt",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.spells-wands.I3Tq6dodRnATfA7a"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 5,
+        "title": "Spells"
+      },
+      {
+        "_id": "ekz989mtjqbomqwd",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.spells-wands.ewtmiKM90jo1BauV"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 7,
+        "title": "Spells"
+      },
+      {
+        "_id": "zovhkBBaqpWzanLg",
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "14": 1
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            "Compendium.wands.features-wands.Item.Ok82C70D89EGBKjs",
+            "Compendium.wands.features-wands.Item.fM13prfsCgpvcPwn"
+          ],
+          "spell": null,
+          "hint": "",
+          "restriction": {
+            "type": "class",
+            "subtype": ""
+          }
+        },
+        "value": {},
+        "title": "Feature",
+        "icon": null
+      },
+      {
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "10": 1
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            "Compendium.wands.features-wands.Item.qjY0M07KyCS5A8yx",
+            "Compendium.wands.features-wands.Item.eg9ujYaElmZXzkYd"
+          ],
+          "spell": null,
+          "hint": "",
+          "restriction": {
+            "type": "class",
+            "subtype": ""
+          }
+        },
+        "value": {},
+        "title": "Feature",
+        "icon": null,
+        "_id": "vRmVLHWlIbd2Vdav"
+      },
+      {
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "6": 1
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            "Compendium.wands.features-wands.Item.dCaSJnUhQVjdRsIo",
+            "Compendium.wands.features-wands.Item.DH8llNE5QemeV7tH"
+          ],
+          "spell": null,
+          "hint": "",
+          "restriction": {
+            "type": "class",
+            "subtype": ""
+          }
+        },
+        "value": {},
+        "title": "Feature",
+        "icon": null,
+        "_id": "X6TIrBB1DdZNESGX"
+      },
+      {
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "1": 1
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            "Compendium.wands.features-wands.Item.6H4CZeQjDoAlMXn1",
+            "Compendium.wands.features-wands.Item.dSp1iqUguu0uaOZx"
+          ],
+          "spell": null,
+          "hint": "",
+          "restriction": {
+            "type": "class",
+            "subtype": ""
+          }
+        },
+        "value": {},
+        "title": "Feature",
+        "icon": null,
+        "_id": "4EFNva2iEH6A37Dz"
+      },
+      {
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "18": 1
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            "Compendium.wands.features-wands.Item.VdRKM0dXVRIzQSeL",
+            "Compendium.wands.features-wands.Item.cm7nxYmVwUILWlpY"
+          ],
+          "spell": null,
+          "hint": "",
+          "restriction": {
+            "type": "class",
+            "subtype": ""
+          }
+        },
+        "value": {},
+        "title": "Feature",
+        "icon": null,
+        "_id": "w4qe50ZAqCtihXB6"
+      }
+    ],
+    "spellcasting": {
+      "progression": "full",
+      "ability": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424768,
+    "modifiedTime": 1708992290776,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Item.MXp3dekKOxu2ooDq",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!zR5SEFVXzxkr4A5T"
+}

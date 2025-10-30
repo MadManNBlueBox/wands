@@ -1,0 +1,35 @@
+{
+  "_id": "34d0f344d76dcb06",
+  "_key": "!items!34d0f344d76dcb06",
+  "name": "Potion Book — Sixth Year Potions",
+  "type": "loot",
+  "img": "icons/sundries/books/book-embossed-roots-green.webp",
+  "effects": [],
+  "folder": "14e95fa39206684c",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<h2>Sixth Year Potions</h2>\n<p>This book contains recipes and ingredients for the Sixth Year Potions curriculum.</p>\n<hr/>\n<h3>@UUID[Compendium.wands.items-wands.Item.zdXtC9Cbi4VSai92]{Draught of Living Death}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.3fb8abd17262c482]{valerian root} &times; 2</li>\n<li>@UUID[Compendium.wands.items-wands.Item.7ef7071ab444ff8b]{root of asphodel} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.4f4e97ca5f0d40da]{sloth brain} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.4b090350c5ca5a7c]{sopophorous bean} &times; 2</li>\n<li>@UUID[Compendium.wands.items-wands.Item.51dfc6fad3c8b932]{african sea salt} &times; 1</li>\n</ul>\n<h3>@UUID[Compendium.wands.items-wands.Item.7R1TDQsY6cJ9u3DQ]{Erumpent Potion}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.0059796088df1302]{venomous tentacula leaf} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.7094132bbbcf2fce]{fire seed} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.073c099ffadc80f6]{erumpent horn} &times; 2</li>\n<li>@UUID[Compendium.wands.items-wands.Item.f4ce544ed1774e6a]{exploding ginger eyelash} &times; 1</li>\n</ul>\n<h3>@UUID[Compendium.wands.items-wands.Item.gHs8gZya7LLOZV7w]{Memory Potion}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.884fb4f43debadd7]{galanthus nivalis} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.20e15847f08cb545]{sneezewort} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.a39966365ad9c0c0]{jobberknoll feather} &times; 1</li>\n</ul>\n<h3>@UUID[Compendium.wands.items-wands.Item.LWyajeY6pJnCJ7U0]{Polyjuice Potion}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.30f1d55d6ecdd788]{boomslang skin} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.c68b9e017a32f8d2]{full-moon fluxweed} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.24251132afb5c6f0]{knotgrass} &times; 2</li>\n<li>@UUID[Compendium.wands.items-wands.Item.4ab49ec62b7ff261]{lacewing fly} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.778e2515af19afb4]{bicorn horn} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.4b090350c5ca5a7c]{sopophorous bean} &times; 1</li>\n</ul>\n<h3>@UUID[Compendium.wands.items-wands.Item.dRD8sQrfloqHoawd]{Skele-Gro}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.85d4231098751df4]{chinese chomping cabbage} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.f613e18c4e06765a]{pufferfish eye} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.221439cd6f55e23e]{murtlap tentacle} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.d5ab5b407c5e929c]{griffin claw} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.278d967d52622d4c]{scarab beetle} &times; 1</li>\n</ul>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Generated from potion-recipes.json"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "properties": []
+  },
+  "ownership": {
+    "default": 0
+  }
+}

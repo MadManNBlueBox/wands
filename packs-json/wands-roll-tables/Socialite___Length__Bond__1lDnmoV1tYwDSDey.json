@@ -1,0 +1,110 @@
+{
+  "name": "Socialite - Length (Bond)",
+  "img": "icons/skills/social/diplomacy-unity-alliance.webp",
+  "results": [
+    {
+      "_id": "GXopuveoMGmPgBhx",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "10\": I want to be famous, whatever it takes.",
+      "name": "",
+      "_key": "!tables.results!1lDnmoV1tYwDSDey.GXopuveoMGmPgBhx"
+    },
+    {
+      "_id": "2hRr2PWjjogFAqFU",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "12\": Family and institutions are most important--friends and sycophants come and go.",
+      "name": "",
+      "_key": "!tables.results!1lDnmoV1tYwDSDey.2hRr2PWjjogFAqFU"
+    },
+    {
+      "_id": "tRJEJSC12SWMlgpb",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "13\": It is my duty to lead and inspire others.",
+      "name": "",
+      "_key": "!tables.results!1lDnmoV1tYwDSDey.tRJEJSC12SWMlgpb"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "bI4uOLB4seNA6Rcy",
+  "sort": 150000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "1lDnmoV1tYwDSDey",
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156747845,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "RollTable.DxosXebfaEGxgqQv",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!1lDnmoV1tYwDSDey"
+}

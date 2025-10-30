@@ -1,0 +1,108 @@
+{
+  "_id": "8wdzlW5UqGK4UyT8",
+  "name": "Demiguise Cloak",
+  "type": "equipment",
+  "img": "icons/equipment/back/cloak-brown.webp",
+  "effects": [],
+  "folder": "O28fSj9g2pbEZ1mQ",
+  "sort": 100000,
+  "flags": {},
+  "system": {
+    "description": {
+      "value": "<p> A demiguise cloak is a rough cloak woven with a thick silvery-white fiber. The outer layer is made from the hair of a Demiguise, a rare and elusive magical creature from Asia with the ability to turn invisible at will. The cloak functions as perfect camouflage from all angles, but when the wearer moves, there is a perceptible delay before the cloak matches its new surroundings. In combat, this often gives its wearer a visible but blurred appearance.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.38",
+    "quantity": 1,
+    "weight": 18,
+    "price": 400,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": 0,
+      "per": null
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": null
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "armor": {
+      "value": 13,
+      "type": "light",
+      "dex": 2
+    },
+    "hp": {
+      "value": 0,
+      "max": 0,
+      "dt": null,
+      "conditions": ""
+    },
+    "baseItem": "",
+    "speed": {
+      "value": null,
+      "conditions": ""
+    },
+    "strength": null,
+    "stealth": false,
+    "proficient": true
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424821,
+    "modifiedTime": 1708586683414,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!8wdzlW5UqGK4UyT8"
+}

@@ -1,0 +1,246 @@
+{
+  "name": "Corruption Severe Effects",
+  "img": "icons/magic/death/projectile-skull-flaming-green.webp",
+  "description": "<p>Experimenting with Dark magic almost always results from an unquenchable thirst for power, an incredibly intense fear or a deep well of hatred. By using twisted magic and committing unspeakable acts, that inner darkness takes a toll on a Dark witch's physical and mental well-being.</p>",
+  "results": [
+    {
+      "_id": "ZbPmagBocQrb72xg",
+      "type": "document",
+      "img": "icons/magic/death/skull-horned-goat-pentagram-red.webp",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Phobic",
+      "documentUuid": "Compendium.wands.features-wands.Item.Y3anHlfFvmqhbsEm",
+      "description": "",
+      "_key": "!tables.results!0HycHJC360Bn1KIs.ZbPmagBocQrb72xg"
+    },
+    {
+      "_id": "XUoGvho8xqMow8le",
+      "type": "document",
+      "img": "icons/creatures/unholy/demons-horned-glowing-pink.webp",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Jittery",
+      "documentUuid": "Compendium.wands.features-wands.Item.iUruyzGbgmjDPUVg",
+      "description": "",
+      "_key": "!tables.results!0HycHJC360Bn1KIs.XUoGvho8xqMow8le"
+    },
+    {
+      "_id": "zKAN7ETmSRIfNrLv",
+      "type": "document",
+      "img": "icons/magic/control/encase-creature-humanoid-hold.webp",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Unnatural Pallor",
+      "documentUuid": "Compendium.wands.features-wands.Item.GuU4oMsPFkFpzorP",
+      "description": "",
+      "_key": "!tables.results!0HycHJC360Bn1KIs.zKAN7ETmSRIfNrLv"
+    },
+    {
+      "_id": "AINpEz2R8cHhu1XE",
+      "type": "document",
+      "img": "icons/magic/nature/stealth-hide-eyes-green.webp",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Paranoid",
+      "documentUuid": "Compendium.wands.features-wands.Item.ysAn2dJhmEIDntbP",
+      "description": "",
+      "_key": "!tables.results!0HycHJC360Bn1KIs.AINpEz2R8cHhu1XE"
+    },
+    {
+      "_id": "P4KgpsVcIFmaKXYl",
+      "type": "document",
+      "img": "icons/magic/death/undead-skeleton-deformed-red.webp",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Crimson Pupils",
+      "documentUuid": "Compendium.wands.features-wands.Item.QiVVsr1653UIDixu",
+      "description": "",
+      "_key": "!tables.results!0HycHJC360Bn1KIs.P4KgpsVcIFmaKXYl"
+    },
+    {
+      "_id": "67yA0wqqAe3zL07s",
+      "type": "document",
+      "img": "icons/magic/acid/projectile-glowing-bubbles.webp",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Distracted",
+      "documentUuid": "Compendium.wands.features-wands.Item.qOFMIxXhii0sCzQ9",
+      "description": "",
+      "_key": "!tables.results!0HycHJC360Bn1KIs.67yA0wqqAe3zL07s"
+    },
+    {
+      "_id": "RnoDVw2McM2GN8TC",
+      "type": "document",
+      "img": "icons/creatures/mammals/humanoid-cat-skulking-teal.webp",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Hallucinations",
+      "documentUuid": "Compendium.wands.features-wands.Item.Tehmrfm0ZJtYIODU",
+      "description": "",
+      "_key": "!tables.results!0HycHJC360Bn1KIs.RnoDVw2McM2GN8TC"
+    },
+    {
+      "_id": "xf6knVRN7XUbcbRp",
+      "type": "document",
+      "img": "icons/creatures/reptiles/lizard-mouth-glowing-red.webp",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "name": "Sadistic",
+      "documentUuid": "Compendium.wands.features-wands.Item.55BKrk3KIpvESzwH",
+      "description": "",
+      "_key": "!tables.results!0HycHJC360Bn1KIs.xf6knVRN7XUbcbRp"
+    }
+  ],
+  "formula": "d8",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "msDlZwjP4f7Qeguj",
+  "sort": 200000,
+  "flags": {},
+  "_id": "0HycHJC360Bn1KIs",
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156610101,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!0HycHJC360Bn1KIs"
+}

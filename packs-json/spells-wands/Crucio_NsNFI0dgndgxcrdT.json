@@ -1,0 +1,110 @@
+{
+  "name": "Crucio",
+  "type": "spell",
+  "img": "icons/magic/unholy/projectile-fireball-green.webp",
+  "effects": [],
+  "folder": "wDQQ46W9IxnfutpQ",
+  "sort": 200000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "NsNFI0dgndgxcrdT",
+  "system": {
+    "description": {
+      "value": "<p>With a single word and a heart full of hatred, waves of intense pain assail one creature you can see within range. If the target has 100 hit points or fewer, it is subject to crippling pain. Otherwise, the spell has no effect on it.</p>\n<p>While the target is affected by crippling pain, any speed it has can be no higher than 10 feet. The target also has disadvantage on attack rolls, ability checks, and saving throws, other than Constitution saving throws. Finally, if the target tries to cast a spell, it must first succeed on a Constitution saving throw, or the casting fails and the spell is wasted.</p>\n<p>A target suffering this pain must make a Constitution saving throw at the end of each of its turns. On a failed save, the target gains one level of exhaustion.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.65",
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": "Dedication"
+    },
+    "duration": {
+      "value": 1,
+      "units": "minute"
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": 30,
+      "long": null,
+      "units": "ft"
+    },
+    "uses": {
+      "value": null,
+      "max": null,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "save",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": null
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "con",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "level": 7,
+    "school": "jhc",
+    "components": {
+      "value": "",
+      "vocal": true,
+      "somatic": true,
+      "material": false,
+      "ritual": false,
+      "concentration": true
+    },
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "scaling": {
+      "mode": "none",
+      "formula": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995425027,
+    "modifiedTime": 1709155351032,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Compendium.waw.spells-wandw.j8FdWf5BwhfUYdTN",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!NsNFI0dgndgxcrdT"
+}

@@ -1,0 +1,127 @@
+{
+  "folder": null,
+  "name": "Thunderbird (Ilvermorny)",
+  "type": "race",
+  "img": "icons/magic/control/buff-flight-wings-runes-blue-white.webp",
+  "system": {
+    "description": {
+      "value": "<p>Thunderbird is said to represent the soul of the wizard and is home to adventurers. The house was named and created by Chadwick Boot, Webster Boot's older brother, Isolt Sayre's other adopted son, and one of the first students of Ilvermorny. The Thunderbird house has been associated with Chadwick's later accomplishments as an international traveller and author of magical textbooks.</p><h2>Discovery and Creation</h2><p>The house is named after the awe-inspiring thunderbird, whose natural habitat is in southwestern United States. Thanks to its ability to create storms and its wide-ranging travels around North America, it's the most widely known magical creatures among indigenous No-Maj communities. Thunderbird students similarly feel a yearning to venture beyond the ordinary.</p><p>That desire can be expressed through literal or conceptual exploration, as Thunderbirds are just as likely to forge new paths in their chosen field as forge new paths through untamed wilderness. Wherever they go, they'll go boldy.</p><h2>Thunderbird Traits</h2><p>One thing that's a constant for all Thunderbirds is change.</p><p><strong>Ability Score Increase.</strong> Your Strength score, Charisma score, and one other ability score of choice increase by 1.</p><p><strong>Adventurer's Footing.</strong> Moving through nonmagical difficult terrain costs you no extra movement.</p><p><strong>Dependable Bearings.</strong> You have a good sense of direction and can easily use notable landmarks and geography to remember the general layout of areas.</p><p><strong>Feat.</strong> You gain one feat of your choice.</p>",
+      "chat": ""
+    },
+    "source": {
+      "book": "W&W",
+      "page": "p.8",
+      "custom": "",
+      "license": ""
+    },
+    "advancement": [
+      {
+        "type": "AbilityScoreImprovement",
+        "_id": "OGFKPrpZEdC3oJOB",
+        "configuration": {
+          "points": 1,
+          "fixed": {
+            "str": 1,
+            "dex": 0,
+            "con": 0,
+            "int": 0,
+            "wis": 0,
+            "cha": 1
+          },
+          "cap": 2
+        },
+        "value": {
+          "type": "asi"
+        },
+        "level": 0,
+        "title": "",
+        "icon": null
+      },
+      {
+        "type": "Size",
+        "_id": "L66zunffNyNSDWRw",
+        "configuration": {
+          "sizes": [
+            "med"
+          ]
+        },
+        "level": 0,
+        "value": {}
+      },
+      {
+        "type": "Trait",
+        "configuration": {
+          "grants": [
+            "languages:standard:common"
+          ],
+          "mode": "default",
+          "allowReplacements": false,
+          "choices": []
+        },
+        "_id": "5Vo9vg9XHL7aNba4",
+        "level": 0,
+        "value": {
+          "chosen": []
+        }
+      },
+      {
+        "_id": "74Us0z9l6TZVj1pG",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.features-wands.Item.D45jKuNucX2YtWgs",
+            "Compendium.wands.features-wands.Item.QscDzf2amq2A0Chj"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Features",
+        "icon": null
+      }
+    ],
+    "movement": {
+      "burrow": null,
+      "climb": null,
+      "fly": null,
+      "swim": null,
+      "walk": 30,
+      "units": null,
+      "hover": false
+    },
+    "senses": {
+      "darkvision": null,
+      "blindsight": null,
+      "tremorsense": null,
+      "truesight": null,
+      "units": null,
+      "special": ""
+    },
+    "type": {
+      "value": "humanoid"
+    }
+  },
+  "effects": [],
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1708497645655,
+    "modifiedTime": 1708628966096,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "REiacbansQNLrsvL",
+  "sort": 100000,
+  "_key": "!items!REiacbansQNLrsvL"
+}

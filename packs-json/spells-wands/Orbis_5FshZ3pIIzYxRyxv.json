@@ -1,0 +1,115 @@
+{
+  "_id": "5FshZ3pIIzYxRyxv",
+  "name": "Orbis",
+  "type": "spell",
+  "img": "icons/creatures/tentacles/tentacles-thing-green.webp",
+  "effects": [],
+  "folder": "nkdO00rwGm5WtwMN",
+  "sort": 200000,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>You choose a space on the ground that is currently occupied by a creature you can see within range. The ground becomes a thick liquid and swirls out from under the creature in an orb-like shape. The material then slams back down and regains its previous solidity in an attempt to bury the creature's legs. The target must make a Dexterity saving throw. On a failed save, the target takes 3d6 bludgeoning damage and is restrained for the spell’s duration.</p>\n<p>As an action, you can cause the earth to crush the restrained target, who must make a Strength saving throw. It takes 3d6 bludgeoning damage on a failed save, or half as much damage on a successful one.</p>\n<p>To break out, the restrained target use its action to make a Strength check against your spell save DC. On a success, the target pulls its legs free and is no longer restrained.</p>\n<p><strong>At Higher Levels.</strong> When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d6 for each slot level above 2nd.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.78",
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": 1,
+      "units": "minute"
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": 60,
+      "long": null,
+      "units": "ft"
+    },
+    "uses": {
+      "value": null,
+      "max": null,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "save",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": null
+    },
+    "damage": {
+      "parts": [
+        [
+          "3d6",
+          "bludgeoning"
+        ]
+      ],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "dex",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "level": 2,
+    "school": "trf",
+    "components": {
+      "value": "",
+      "vocal": true,
+      "somatic": true,
+      "material": false,
+      "ritual": false,
+      "concentration": true
+    },
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "scaling": {
+      "mode": "level",
+      "formula": "1d6"
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424848,
+    "modifiedTime": 1709155600256,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Compendium.waw.spells-wandw.4P1VLHyFIoZrU5XO",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!5FshZ3pIIzYxRyxv"
+}

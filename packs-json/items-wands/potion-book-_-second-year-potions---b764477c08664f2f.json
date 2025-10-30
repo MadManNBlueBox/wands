@@ -1,0 +1,35 @@
+{
+  "_id": "b764477c08664f2f",
+  "_key": "!items!b764477c08664f2f",
+  "name": "Potion Book — Second Year Potions",
+  "type": "loot",
+  "img": "icons/sundries/books/book-embossed-gold-green.webp",
+  "effects": [],
+  "folder": "14e95fa39206684c",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<h2>Second Year Potions</h2>\n<p>This book contains recipes and ingredients for the Second Year Potions curriculum.</p>\n<hr/>\n<h3>@UUID[Compendium.wands.items-wands.Item.3dD30dB0SoYXzGGe]{Doxycide}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.3110065f02257280]{cowbane} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.bede4f80fe71a32b]{hemlock} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.773e31d882d57ce1]{bundimun secretion} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.4e4f583ac0284f89]{streeler shell} &times; 1</li>\n</ul>\n<h3>@UUID[Compendium.wands.items-wands.Item.jQ5Y8fArHFHMdez3]{Dreamless Sleep Potion}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.88483df978705940]{poppy head} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.dba77822358e9588]{baneberry} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.ef3f5e336f9d0881]{frog brain} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.bae3023ebfeb46d9]{octopus} &times; 1</li>\n</ul>\n<h3>@UUID[Compendium.wands.items-wands.Item.GcaawJhErL46zMtg]{Elixir to Induce Euphoria}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.2fb60adc3769e85f]{peppermint} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.9885401a14f63db1]{shrivelfig} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.95ce17340100f4e9]{wormwood infusion} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.68fa500f8013ef84]{porcupine quill} &times; 1</li>\n</ul>\n<h3>@UUID[Compendium.wands.items-wands.Item.XlMmaW8RlljzkcDv]{Sleeping Draught}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.917174e2018bf45c]{angel's trumpet} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.7bd20b23a107dfcb]{scurvy grass} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.f4c3802951ad1568]{flobberworm mucus} &times; 1</li>\n</ul>\n<h3>@UUID[Compendium.wands.items-wands.Item.I2aqoLQfkyDsQRBi]{Swelling Solution}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.40d0a6d736fd638c]{bat spleen} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.4a332bdd692bdca9]{nettle} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.f613e18c4e06765a]{pufferfish eye} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.f4ce544ed1774e6a]{exploding ginger eyelash} &times; 1</li>\n</ul>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Generated from potion-recipes.json"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "properties": []
+  },
+  "ownership": {
+    "default": 0
+  }
+}

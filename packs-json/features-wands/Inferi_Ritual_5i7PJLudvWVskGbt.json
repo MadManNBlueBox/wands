@@ -1,0 +1,101 @@
+{
+  "name": "Inferi Ritual",
+  "type": "feat",
+  "img": "icons/magic/acid/pouring-gas-smoke-liquid.webp",
+  "effects": [],
+  "folder": "cVVwqz2mnpY5I8ZU",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>By focusing for 10 minutes and expending a 5th level spell slot, this ritual creates an undead servant. Choose a corpse of a Medium or Small humanoid you can touch. Your spell imbues the target with a foul mimicry of life, raising it as an @Compendium[wands.monsters-wands.DkY5yTEyIaZ39zTN]{Inferius}.</p>\n<p>As a bonus action, you can mentally command any of your inferi if one is within 60 feet of you (if you control multiple, you can command any or all with the same command). You decide its action and movement during its next turn, or you can issue a general command, such as to guard a particular corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete.</p>\n<p>The Dark magic that binds the corpse is permanent. The inferius will only deanimate if you die or if it is destroyed.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "W&W p.54"
+    },
+    "activation": {
+      "type": "special",
+      "cost": null,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null,
+      "scale": false
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    },
+    "requirements": "Vile Corruption",
+    "recharge": {
+      "value": null,
+      "charged": false
+    },
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424828,
+    "modifiedTime": 1708585845798,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "5i7PJLudvWVskGbt",
+  "sort": 300000,
+  "_key": "!items!5i7PJLudvWVskGbt"
+}

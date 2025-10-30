@@ -1,0 +1,108 @@
+{
+  "_id": "Esw2azHBNNrsx6Qw",
+  "name": "Winter Cloak",
+  "type": "equipment",
+  "img": "icons/equipment/back/cloak-heavy-fur-blue.webp",
+  "effects": [],
+  "folder": "O28fSj9g2pbEZ1mQ",
+  "sort": 112500,
+  "flags": {},
+  "system": {
+    "description": {
+      "value": "<p>One of the required supplies for attendance at British Wizard Shcool, this heavy winter cloak keeps its wearer quite warm in cold, snowy winters. A winter cloak helps conceal a duelist's intended movements from their opponents, but the weight and bulk can be a hindrance.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.38",
+    "quantity": 1,
+    "weight": 20,
+    "price": 9,
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "",
+    "identified": true,
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": 0,
+      "per": null
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": null
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "armor": {
+      "value": 11,
+      "type": "light",
+      "dex": 2
+    },
+    "hp": {
+      "value": 0,
+      "max": 0,
+      "dt": null,
+      "conditions": ""
+    },
+    "baseItem": "",
+    "speed": {
+      "value": null,
+      "conditions": ""
+    },
+    "strength": null,
+    "stealth": true,
+    "proficient": true
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424829,
+    "modifiedTime": 1708586694690,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!Esw2azHBNNrsx6Qw"
+}

@@ -1,0 +1,35 @@
+{
+    "_id": "bede4f80fe71a32b",
+    "_key": "!items!bede4f80fe71a32b",
+    "name": "hemlock",
+    "type": "loot",
+    "img": "icons/commodities/flowers/cornflower-blue.webp",
+    "effects": [],
+    "folder": "8b9356509439cbd8",
+    "flags": {
+        "core": {}
+    },
+    "system": {
+        "description": {
+            "value": "<p>Alchemy ingredient.</p><p><strong>Rarity:</strong> common</p><hr/><p><strong>Used in:</strong><br>@UUID[Compendium.wands.items-wands.Item.3dD30dB0SoYXzGGe]{Doxycide}<br>@UUID[Compendium.wands.items-wands.Item.9A4SUIROEnN5qB5O]{Weedosoros}</p>",
+            "chat": ""
+        },
+        "source": {
+            "custom": "Generated from potion-recipes.json"
+        },
+        "quantity": 1,
+        "weight": 0.1,
+        "price": {
+            "value": 0.5,
+            "denomination": "gp"
+        },
+        "attunement": 0,
+        "equipped": false,
+        "rarity": "common",
+        "identified": true,
+        "properties": []
+    },
+    "ownership": {
+        "default": 0
+    }
+}

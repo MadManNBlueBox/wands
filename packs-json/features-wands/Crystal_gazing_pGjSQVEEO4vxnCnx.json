@@ -1,0 +1,101 @@
+{
+  "name": "Crystal-gazing",
+  "type": "feat",
+  "img": "icons/commodities/gems/pearl-water.webp",
+  "effects": [],
+  "folder": "ZNrtfcrRGYMDXeuX",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>By gazing into the cloudy depths of the crystal ball, you can spend 7 sorcery points to see a particular creature you choose for 10 minutes. The target must make a Wisdom saving throw, which is modified by how well you know the target and the sort of physical connection you have to it. If a target knows you're using this ability, it can fail the saving throw voluntarily if it wants to be observed.</p>\n<table style=\"-webkit-print-color-adjust:exact;border-spacing:0px;background-color:#eee5ce;font-family:ScalySans;width:324.667px;margin-bottom:1em;font-size:10pt;line-height:1.1em;z-index:15;break-inside:avoid;overflow:visible\">\n<thead style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;display:table-row-group;font-weight:800\">\n<tr style=\"box-sizing:border-box;-webkit-print-color-adjust:exact\">\n<th style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0px 0.1em 0.3em;text-align:left;vertical-align:bottom\">Knowledge</th>\n<th style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0px 0.1em 0.3em;text-align:center;vertical-align:bottom\">Save Modifier</th>\n</tr>\n</thead>\n<tbody style=\"box-sizing:border-box;-webkit-print-color-adjust:exact\">\n<tr style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;background-color:#e0e5c1\">\n<td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em\">Secondhand (you have heard of the target)</td>\n<td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center\">0</td>\n</tr>\n<tr style=\"box-sizing:border-box;-webkit-print-color-adjust:exact\">\n<td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em\">Firsthand (you have met the target)</td>\n<td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center\">-5</td>\n</tr>\n<tr style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;background-color:#e0e5c1\">\n<td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em\">Familiar (you know the target well)</td>\n<td style=\"box-sizing:border-box;-webkit-print-color-adjust:exact;padding:0.3em 0.1em;text-align:center\">-10</td>\n</tr>\n</tbody>\n</table>\n<p>On a successful save, the target isn't affected, and you can't use this ability against it again for 24 hours.</p>\n<p>On a failed save, this ability lets you see as if you were there, within 10 feet of the target. Your view moves with the target, remaining within 10 feet of it for the duration.</p>\n<p>Instead of targeting a creature, you can choose a location you have seen before as the target of this ability. When you do, your view shows that location and doesn't move.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "W&W p.24"
+    },
+    "activation": {
+      "type": "special",
+      "cost": 7,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": null,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": 7,
+      "scale": false
+    },
+    "ability": "",
+    "actionType": "save",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "wis",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "requirements": "Divination",
+    "recharge": {
+      "value": null,
+      "charged": false
+    },
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424963,
+    "modifiedTime": 1708585288216,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "pGjSQVEEO4vxnCnx",
+  "sort": 1500000,
+  "_key": "!items!pGjSQVEEO4vxnCnx"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Apparition Result",
+  "sorting": "a",
+  "folder": null,
+  "type": "RollTable",
+  "_id": "QyRgDsxoMIFbzvJb",
+  "sort": 500000,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "11.315",
+    "createdTime": 1709156692385,
+    "modifiedTime": 1709156776230,
+    "lastModifiedBy": "6KPKvdrxQhprt6if"
+  },
+  "_key": "!folders!QyRgDsxoMIFbzvJb"
+}

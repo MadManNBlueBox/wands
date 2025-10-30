@@ -1,0 +1,54 @@
+{
+  "name": "Groundskeeper",
+  "type": "background",
+  "img": "icons/environment/settlement/hut.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {}
+  },
+  "_id": "n0JksTNtROKFN90p",
+  "system": {
+    "description": {
+      "value": "<p>Your childhood has always been spent outdoors, climbing trees or capturing insects. You've always felt an intense connection to all forms of life around you, and that drives you to be considerate towards other beings. Going without fresh air leaves you feeling trapped, but some greenery and a ray of sunshine is all it takes to put you in a great mood.</p><hr style=\"border-top:1px solid var(--color-border-light-primary);border-bottom:1px solid var(--color-border-light-highlight)\" /><p><strong>Skill Proficiencies:</strong> Survival, Magical Creatures</p><p><strong>Tool Proficiencies: </strong>@Compendium[wands.items-wands.MXRChbKcytwoMQib]{Herbologist's Tools}</p><p><strong>Equipment:</strong> @UUID[Compendium.wands.items-wands.MXRChbKcytwoMQib]{Herbologist's tools}, and a compass</p><p><strong>Feature:</strong> @UUID[Compendium.wands.backgrounds-wands.Item.flxM2mS2hZ93PWet]{Value All Life}</p><hr style=\"border-top:1px solid var(--color-border-light-primary);border-bottom:1px solid var(--color-border-light-highlight)\" /><h3>Wand Characteristics</h3><p>@Compendium[wands.wands-roll-tables.7zE4iqtZpjrD0Y7d]{Groundskeeper - Wood (Personality Traits)}</p><p>@Compendium[wands.wands-roll-tables.bhigZFsRUd11qwAY]{Groundskeeper - Core (Ideal)}</p><p>@Compendium[wands.wands-roll-tables.nwGWFXLDWcCP0tX5]{Groundskeeper - Length (Bond)}</p><p>@Compendium[wands.wands-roll-tables.wMczx4beRG0O4nXb]{Groundskeeper - Flexibility (Flaw)}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.32",
+    "advancement": [
+      {
+        "_id": "7bhe45ey5f8oecoz",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.items-wands.MXRChbKcytwoMQib",
+            "Compendium.wands.backgrounds-wands.Item.flxM2mS2hZ93PWet"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Feature",
+        "icon": null
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424858,
+    "modifiedTime": 1708976356044,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Item.t3PUAkfiWDHgk1zs",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!n0JksTNtROKFN90p"
+}

@@ -1,0 +1,94 @@
+{
+  "_id": "x1hgjn8FxPcbmQpe",
+  "name": "Creative Thinker",
+  "type": "feat",
+  "img": "icons/commodities/tech/cog-bronze.webp",
+  "effects": [],
+  "folder": "PAI7mx5WeyvumTAc",
+  "sort": 150000,
+  "flags": {},
+  "system": {
+    "description": {
+      "value": "<p>Having found yourself in some predicaments, you're quick to look for a way out; \"work smart, not hard\" is your motto. Your invented alibis always sound half-reasonable to others, and you're good at finding figurative and literal shortcuts. Also, rule-breakers are more willing to share their secrets with you.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.37",
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": 0,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": null
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "type": {
+      "value": "background",
+      "subtype": ""
+    },
+    "requirements": "Troublemaker",
+    "recharge": {
+      "value": null,
+      "charged": false
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424874,
+    "modifiedTime": 1708976524428,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!x1hgjn8FxPcbmQpe"
+}

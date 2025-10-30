@@ -1,0 +1,35 @@
+{
+  "_id": "98c70938ded78eff",
+  "_key": "!items!98c70938ded78eff",
+  "name": "Potion Book — Seventh Year Potions",
+  "type": "loot",
+  "img": "icons/sundries/books/book-embossed-jewel-silver-green.webp",
+  "effects": [],
+  "folder": "14e95fa39206684c",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<h2>Seventh Year Potions</h2>\n<p>This book contains recipes and ingredients for the Seventh Year Potions curriculum.</p>\n<hr/>\n<h3>@UUID[Compendium.wands.items-wands.Item.nX8DJFD6JgdVzzoG]{Essence of Insanity}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.6bec23944cb32fda]{weed-of-sorrows} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.393e5b93a26575aa]{runespoor egg} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.60d01761dbb8e572]{giant purple toad wart} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.0528a250cd5eacfe]{belladonna essence} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.3be342b5f02c520e]{syrup of arnica} &times; 1</li>\n</ul>\n<h3>@UUID[Compendium.wands.items-wands.Item.KVH85gQA7h2L3dwP]{Invisibility Potion}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.30f1d55d6ecdd788]{boomslang skin} &times; 2</li>\n<li>@UUID[Compendium.wands.items-wands.Item.d2426a750f809da3]{unicorn hair} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.51dfc6fad3c8b932]{african sea salt} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.76f5fa01c8f70a0b]{doxy egg} &times; 1</li>\n</ul>\n<h3>@UUID[Compendium.wands.items-wands.Item.gUuPcdPmgWIQOS9K]{Mandrake Restorative Draught}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.446ce3a4cfd780e4]{mandrake root} &times; 3</li>\n<li>@UUID[Compendium.wands.items-wands.Item.ce867b65043ef3ae]{chizpurfle carapace} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.fa3e5146c27f6f69]{spirit of myrrh} &times; 1</li>\n</ul>\n<h3>@UUID[Compendium.wands.items-wands.Item.9A4SUIROEnN5qB5O]{Weedosoros}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.bede4f80fe71a32b]{hemlock} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.3fb8abd17262c482]{valerian root} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.6bec23944cb32fda]{weed-of-sorrows} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.0528a250cd5eacfe]{belladonna essence} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.3be342b5f02c520e]{syrup of arnica} &times; 1</li>\n</ul>\n<h3>@UUID[Compendium.wands.items-wands.Item.Hgbk2ejlRQQareof]{Wit-Sharpening Potion}</h3>\n<ul>\n<li>@UUID[Compendium.wands.items-wands.Item.393e5b93a26575aa]{runespoor egg} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.159022b804ab4277]{newt spleen} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.c15c1f84f9708218]{dragon claw} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.278d967d52622d4c]{scarab beetle} &times; 1</li>\n<li>@UUID[Compendium.wands.items-wands.Item.4f4e97ca5f0d40da]{sloth brain} &times; 1</li>\n</ul>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "Generated from potion-recipes.json"
+    },
+    "quantity": 1,
+    "weight": 1,
+    "price": {
+      "value": 0,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "common",
+    "identified": true,
+    "properties": []
+  },
+  "ownership": {
+    "default": 0
+  }
+}

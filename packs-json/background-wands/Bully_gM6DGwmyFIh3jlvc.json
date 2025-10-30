@@ -1,0 +1,53 @@
+{
+  "_id": "gM6DGwmyFIh3jlvc",
+  "name": "Bully",
+  "type": "background",
+  "img": "icons/skills/social/intimidation-impressing.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>When you feel powerless, you hurt those weaker than you to regain some semblance of control. It might be a necessary coping mechanism, an assertive demeanor or an innately sadistic nature. You might even be very selective about your victims or only lash out in relatively harmless ways. Regardless, you're a bully and you thrive off of feeling superior.</p><hr style=\"border-top:1px solid var(--color-border-light-primary);border-bottom:1px solid var(--color-border-light-highlight)\" /><p><strong>Skill Proficiencies:</strong> Athletics, Intimidation</p><p><strong>Equipment:</strong> A Beater's bat, and a picture of a loved one</p><p><strong>Feature:</strong> @UUID[Compendium.wands.backgrounds-wands.Item.k0LULtBYNJ2xMSOu]{Common Thug}</p><hr style=\"border-top:1px solid var(--color-border-light-primary);border-bottom:1px solid var(--color-border-light-highlight)\" /><h3>Wand Characteristics</h3><p>@Compendium[wands.wands-roll-tables.OUnFRyyfNFEPTHcq]{Protector - Wood (Personality Traits)}</p><p>@Compendium[wands.wands-roll-tables.A86ktgyz6XwSJs5U]{Protector - Core (Ideal)}</p><p>@Compendium[wands.wands-roll-tables.RPwbn9Qm7tFYKivz]{Protector - Length (Bond)}</p><p>@Compendium[wands.wands-roll-tables.ovMbxF1L1ZAWC939]{Protector - Flexibility (Flaw)}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.36",
+    "advancement": [
+      {
+        "_id": "93ayq5f90cjulw9x",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.backgrounds-wands.Item.k0LULtBYNJ2xMSOu"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Feature",
+        "icon": null
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424837,
+    "modifiedTime": 1708976072857,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Item.52hNY5XHhii7eSv9",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!gM6DGwmyFIh3jlvc"
+}

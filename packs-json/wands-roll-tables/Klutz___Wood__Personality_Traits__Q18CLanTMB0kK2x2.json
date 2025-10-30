@@ -1,0 +1,188 @@
+{
+  "_id": "Q18CLanTMB0kK2x2",
+  "name": "Klutz - Wood (Personality Traits)",
+  "img": "icons/commodities/materials/hair-tuft-brown.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "0jIEhXdw07oRRSDz",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ash",
+      "name": "",
+      "_key": "!tables.results!Q18CLanTMB0kK2x2.0jIEhXdw07oRRSDz"
+    },
+    {
+      "_id": "jf6PoyprcHCw8jwE",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The ash wand clings to its one true master and ought not to be passed on or gifted from the original owner, because it will lose power and skill. Witches and wizards best suited to ash wands are not lightly swayed from their beliefs or purposes. However, a brash or over-confident witch or wizard will be disappointed by its effects. The ideal owner may be stubborn, and will certainly be courageous, but never crass or arrogant.",
+      "name": "",
+      "_key": "!tables.results!Q18CLanTMB0kK2x2.jf6PoyprcHCw8jwE"
+    },
+    {
+      "_id": "8sb6UPJl2DJShMNE",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cypress",
+      "name": "",
+      "_key": "!tables.results!Q18CLanTMB0kK2x2.8sb6UPJl2DJShMNE"
+    },
+    {
+      "_id": "vcz4x7J18skqVQUx",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cypress wands are associated with nobility and dying a heroic death, historically. Fortunately, the possessors of cypress wands are rarely called upon to lay down their lives, but doubtless many of them would do so if required. Wands of cypress find their soulmates among the brave, the bold and the self-sacrificing: those who are unafraid to confront the shadows in their own and others’ natures.",
+      "name": "",
+      "_key": "!tables.results!Q18CLanTMB0kK2x2.vcz4x7J18skqVQUx"
+    },
+    {
+      "_id": "fkUIz6NhqQfbIhpn",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Willow",
+      "name": "",
+      "_key": "!tables.results!Q18CLanTMB0kK2x2.fkUIz6NhqQfbIhpn"
+    },
+    {
+      "_id": "HwY3T9W8bltjcNUS",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Willow is an uncommon wand wood with healing power, and their ideal owner often has some (usually unwarranted) insecurity, however well they may try and hide it. With a handsome appearance and well-founded reputation for enabling advanced, non-verbal magic, the willow wands have consistently selected those of greatest potential, rather than those who feel they have little to learn.",
+      "name": "",
+      "_key": "!tables.results!Q18CLanTMB0kK2x2.HwY3T9W8bltjcNUS"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "i9GaPu99jBLcimYX",
+  "sort": 125000,
+  "flags": {
+    "core": {}
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156657853,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "RollTable.x1xxXArYv0TfojVQ",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!Q18CLanTMB0kK2x2"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Healing",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "OI2OO3t69pDmfTEe",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "11.315",
+    "createdTime": 1709148488253,
+    "modifiedTime": 1709162944436,
+    "lastModifiedBy": "6KPKvdrxQhprt6if"
+  },
+  "_key": "!folders!OI2OO3t69pDmfTEe"
+}

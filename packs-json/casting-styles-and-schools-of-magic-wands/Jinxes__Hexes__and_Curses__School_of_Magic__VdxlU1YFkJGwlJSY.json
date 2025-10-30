@@ -1,0 +1,208 @@
+{
+  "name": "Jinxes, Hexes, and Curses (School of Magic)",
+  "type": "subclass",
+  "img": "icons/magic/fire/dagger-rune-enchant-flame-strong-red.webp",
+  "effects": [],
+  "folder": "WlpvdaC2ZslNMvcf",
+  "sort": 125000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "VdxlU1YFkJGwlJSY",
+  "system": {
+    "description": {
+      "value": "<p>Formally referred to as Dark charms, jinxes, hexes and curses are often associated with the Dark Arts because they inflict malicious effects on the target. While jinxes are mostly irritating and hexes are a little worse or more painful, curses are the worst kind of Dark magic. All three Unforgivables are classified as curses, and the average civilian wizard could go their whole life without casting a serious curse.</p><h2 style=\"border-bottom:1px solid var(--color-underline-header)\">Aurors</h2><p>Curses are mainstays in the arsenals of Aurors, highly-trained specialist officers tasked with upholding the law and protecting their magical communities from large-scale threats. To be successful, an Auror must be capable across a variety of skills, like curses, counter-spells, transfiguration, poisons, antidotes, concealment, disguise, and tracking.</p><h2 style=\"border-bottom:1px solid var(--color-underline-header)\">Curse-Breakers</h2><p>On the other end of the spectrum, a curse-breaker removes, counters or breaks curses placed on objects or places for a living. Whilst curse-breakers could work for the British Government of Magic, the term is also used to denote a number of adventurous bankers employed by British Wizarding Bank, tasked with disabling and countering curses in ancient tombs or historical sites to bring back gold and treasure.</p><h3><strong>School of Magic Spells</strong></h3><table style=\"width:309px;height:68px\"><tbody><tr style=\"height:17px\"><td style=\"width:79px;height:17px\"><p><strong>Spell Level</strong></p></td><td style=\"width:223px;height:17px\"><p><strong>Spells</strong></p></td></tr><tr style=\"height:17px\"><td style=\"width:79px;height:17px\"><p>3rd</p></td><td style=\"width:223px;height:17px\"><p>@Compendium[wands.spells-wands.8tt8LszN4RUexC1o]{Langlock}</p></td></tr><tr style=\"height:17px\"><td style=\"width:79px;height:17px\"><p>4th</p></td><td style=\"width:223px;height:17px\"><p>@Compendium[wands.spells-wands.dYlo34EKocPSL3CF]{Sectumsempra}</p></td></tr><tr style=\"height:17px\"><td style=\"width:79px;height:17px\"><p>5th</p></td><td style=\"width:223px;height:17px\"><p>@Compendium[wands.spells-wands.vdKNNez7BuFB79hc]{Nullum Effugium}, @Compendium[wands.spells-wands.VIHuOkkoWTVDidKr]{Omnifracto}</p></td></tr></tbody></table><p> </p><h2 style=\"border-bottom:1px solid var(--color-underline-header)\">Subclass Features</h2><h3><strong>Practical Studies</strong></h3><p>At 1st level, you gain one of the following features.</p><p>@UUID[Compendium.wands.features-wands.Item.g7E4rUyV8LkHCUUX]{Auror Training}</p><p>@UUID[Compendium.wands.features-wands.Item.tNfarNLf7XYynLBA]{Curse-Breaking}</p><h3><strong>Combat-Ready</strong></h3><p>At 6th level, you gain one of the following features.</p><p>@UUID[Compendium.wands.features-wands.Item.iT3xh6wHCOkjg9o2]{Forceful Magic}</p><p>@UUID[Compendium.wands.features-wands.Item.AxOv8zagJ4gmqzlg]{Magical Adrenaline}</p><h3><strong>Specialized Skills</strong></h3><p>At 10th level, you gain one of the following features.</p><p>@UUID[Compendium.wands.features-wands.Item.qyYgiYGZ3gVAPPGp]{Dark Traces}</p><p>@UUID[Compendium.wands.features-wands.Item.vLyqRGiUCxB2rAbi]{Ward-Breaker}</p><h3><strong>Cursemaster</strong></h3><p>At 14th level, you gain one of the following features.</p><p>@UUID[Compendium.wands.features-wands.Item.TZL55PehzHqaKvUk]{Dark Duelist}</p><p>@UUID[Compendium.wands.features-wands.Item.pzr9bHEYyqyi18Oh]{Defensive Arts}</p><h3><strong>Legendary</strong></h3><p>At 18th level, you gain one of the following features.</p><p>@UUID[Compendium.wands.features-wands.Item.4Vm2EKoawas4zBZk]{Auror Alert}</p><p>@UUID[Compendium.wands.features-wands.Item.xlcBvtKFpNTv9RA1]{Unraveling Magic}</p><p>@UUID[Compendium.wands.features-wands.Item.sAzCUPDwePlBUE9a]{Fractured Soul}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.18",
+    "identifier": "jinxes-hexes-and-curses",
+    "classIdentifier": "casting-style",
+    "advancement": [
+      {
+        "_id": "ojz28tm54usw7kat",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.spells-wands.8tt8LszN4RUexC1o"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 5,
+        "title": "Spells"
+      },
+      {
+        "_id": "bqyigwkarlelgf83",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.spells-wands.dYlo34EKocPSL3CF"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 7,
+        "title": "Spell"
+      },
+      {
+        "_id": "m0snbjbqnjsdbn96",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.spells-wands.vdKNNez7BuFB79hc",
+            "Compendium.wands.spells-wands.VIHuOkkoWTVDidKr"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 9,
+        "title": "Spell"
+      },
+      {
+        "_id": "MxfWHZvpFPkcEcGP",
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "1": 1
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            "Compendium.wands.features-wands.Item.g7E4rUyV8LkHCUUX",
+            "Compendium.wands.features-wands.Item.tNfarNLf7XYynLBA"
+          ],
+          "spell": null,
+          "hint": "",
+          "restriction": {
+            "type": "class",
+            "subtype": ""
+          }
+        },
+        "value": {},
+        "title": "Feature",
+        "icon": null
+      },
+      {
+        "_id": "qWnJRFENAdhlhHYj",
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "6": 1
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            "Compendium.wands.features-wands.Item.iT3xh6wHCOkjg9o2",
+            "Compendium.wands.features-wands.Item.AxOv8zagJ4gmqzlg"
+          ],
+          "spell": null,
+          "hint": "",
+          "restriction": {
+            "type": "class",
+            "subtype": ""
+          }
+        },
+        "value": {},
+        "title": "Feature",
+        "icon": null
+      },
+      {
+        "_id": "ryzKmhuNXTM5yUTK",
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "10": 1
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            "Compendium.wands.features-wands.Item.qyYgiYGZ3gVAPPGp",
+            "Compendium.wands.features-wands.Item.vLyqRGiUCxB2rAbi"
+          ],
+          "spell": null,
+          "hint": "",
+          "restriction": {
+            "type": "class",
+            "subtype": ""
+          }
+        },
+        "value": {},
+        "title": "Feature",
+        "icon": null
+      },
+      {
+        "_id": "IPE7kDu1avnY5WnW",
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "14": 1
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            "Compendium.wands.features-wands.Item.TZL55PehzHqaKvUk",
+            "Compendium.wands.features-wands.Item.pzr9bHEYyqyi18Oh"
+          ],
+          "spell": null,
+          "hint": "",
+          "restriction": {
+            "type": "class",
+            "subtype": ""
+          }
+        },
+        "value": {},
+        "title": "Feature",
+        "icon": null
+      },
+      {
+        "_id": "rwK8nOYeUjGaRung",
+        "type": "ItemChoice",
+        "configuration": {
+          "choices": {
+            "18": 1
+          },
+          "allowDrops": true,
+          "type": "feat",
+          "pool": [
+            "Compendium.wands.features-wands.Item.4Vm2EKoawas4zBZk",
+            "Compendium.wands.features-wands.Item.xlcBvtKFpNTv9RA1",
+            "Compendium.wands.features-wands.Item.sAzCUPDwePlBUE9a"
+          ],
+          "spell": null,
+          "hint": "",
+          "restriction": {
+            "type": "class",
+            "subtype": ""
+          }
+        },
+        "value": {},
+        "title": "Feature",
+        "icon": null
+      }
+    ],
+    "spellcasting": {
+      "progression": "full",
+      "ability": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424747,
+    "modifiedTime": 1708991603573,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Item.Ddvwss32ckf2eqmj",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!VdxlU1YFkJGwlJSY"
+}

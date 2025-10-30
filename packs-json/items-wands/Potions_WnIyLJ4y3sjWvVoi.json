@@ -1,0 +1,19 @@
+{
+  "name": "Potions",
+  "sorting": "a",
+  "folder": null,
+  "type": "Item",
+  "_id": "WnIyLJ4y3sjWvVoi",
+  "sort": 0,
+  "color": null,
+  "flags": {},
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "11.315",
+    "createdTime": 1708586768663,
+    "modifiedTime": 1708586768663,
+    "lastModifiedBy": "6KPKvdrxQhprt6if"
+  },
+  "_key": "!folders!WnIyLJ4y3sjWvVoi"
+}

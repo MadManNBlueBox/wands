@@ -1,0 +1,110 @@
+{
+  "name": "Tarantallegra",
+  "type": "spell",
+  "img": "icons/skills/movement/feet-winged-boots-brown.webp",
+  "effects": [],
+  "folder": "GcHvloTAn06pmDrT",
+  "sort": 500000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "irqqg1GDa5fHRafz",
+  "system": {
+    "description": {
+      "value": "<p>This entertaining jinx forces its victim to do a comic dance in place: shuffling, tapping its feet, and capering. Make a ranged spell attack against a target within range. On a hit, a dancing creature must use all its movement to dance without leaving its space until the end of your next turn. While the creature is affected by this spell, it has disadvantage on Dexterity saving throws and attack rolls and other creatures have advantage on attack rolls against it. As an action, a dancing creature makes a Wisdom saving throw to regain control of itself. On a successful save, the spell ends.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.83",
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": 1,
+      "units": "minute"
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": 60,
+      "long": null,
+      "units": "ft"
+    },
+    "uses": {
+      "value": null,
+      "max": null,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "rsak",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "wis",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "level": 2,
+    "school": "jhc",
+    "components": {
+      "value": "",
+      "vocal": true,
+      "somatic": true,
+      "material": false,
+      "ritual": false,
+      "concentration": true
+    },
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "scaling": {
+      "mode": "none",
+      "formula": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995425174,
+    "modifiedTime": 1709155427002,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Compendium.waw.spells-wandw.v4rXnvsL0bSuvJq0",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!irqqg1GDa5fHRafz"
+}

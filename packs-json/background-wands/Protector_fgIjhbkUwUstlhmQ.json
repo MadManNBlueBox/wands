@@ -1,0 +1,53 @@
+{
+  "name": "Protector",
+  "type": "background",
+  "img": "icons/magic/defensive/armor-shield-barrier-steel.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {}
+  },
+  "_id": "fgIjhbkUwUstlhmQ",
+  "system": {
+    "description": {
+      "value": "<p>You have a strong sense of justice and do everything you can to stand up for victims, likely because of an instinctive empathy or your own history of being victimized. Seeing a narcissist take advantage of someone else makes you feel sick. You've made sure you're physically capable of stopping the people you care about from being hurt, so you make an excellent ally to the downtrodden.</p><hr style=\"border-top:1px solid var(--color-border-light-primary);border-bottom:1px solid var(--color-border-light-highlight)\" /><p><strong>Skill Proficiencies:</strong> Athletics, Intimidation</p><p><strong>Equipment:</strong> A Beater's bat, and a picture of a loved one</p><p><strong>Feature:</strong> @UUID[Compendium.wands.backgrounds-wands.Item.i79ohukQiIll4kei]{People's Champ}</p><hr style=\"border-top:1px solid var(--color-border-light-primary);border-bottom:1px solid var(--color-border-light-highlight)\" /><h3>Wand Characteristics</h3><p>@Compendium[wands.wands-roll-tables.OUnFRyyfNFEPTHcq]{Protector - Wood (Personality Traits)}</p><p>@Compendium[wands.wands-roll-tables.A86ktgyz6XwSJs5U]{Protector - Core (Ideal)}</p><p>@Compendium[wands.wands-roll-tables.RPwbn9Qm7tFYKivz]{Protector - Length (Bond)}</p><p>@Compendium[wands.wands-roll-tables.ovMbxF1L1ZAWC939]{Protector - Flexibility (Flaw)}</p><hr style=\"border-top:1px solid var(--color-border-light-primary);border-bottom:1px solid var(--color-border-light-highlight)\" /><h3>Variant</h3><p>@UUID[Compendium.wands.backgrounds-wands.Item.gM6DGwmyFIh3jlvc]{Bully}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.35",
+    "advancement": [
+      {
+        "_id": "93ayq5f90cjulw9x",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.backgrounds-wands.Item.i79ohukQiIll4kei"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Feature",
+        "icon": null
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424829,
+    "modifiedTime": 1708976941333,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Item.5ztqwdvSFKTI66Wo",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!fgIjhbkUwUstlhmQ"
+}

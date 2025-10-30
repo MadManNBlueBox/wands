@@ -1,0 +1,110 @@
+{
+  "name": "Partis Temporus",
+  "type": "spell",
+  "img": "icons/environment/settlement/stone-stairs.webp",
+  "effects": [],
+  "folder": "b1gW0xVEV2yZNQnj",
+  "sort": 1000000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "ngKwdVOw8HNwcjwK",
+  "system": {
+    "description": {
+      "value": "<p>This unique charm redirects magical effects to create an opening. On any area spell of 3rd level or lower that forms a line, wall, or perimeter, an opening appears in the spell's effect at a point of your choice that you can see within range and lasts for the duration. You choose the opening’s dimensions: up to 5 feet wide and 8 feet tall. For a spell of 4th level or higher on the target, make an ability check using your spellcasting ability. The DC equals 10 + the spell’s level. On a successful check, the opening is created. The opening can be dispelled at will.</p>\n<p><strong>At Higher Levels.</strong> When you cast this spell using a spell slot of 3rd level or higher, you automatically create an opening in the spell if the spell's level is one level higher than, equal to or less than the level of the spell slot you used.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.78",
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": null,
+      "units": "inst"
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": 90,
+      "long": null,
+      "units": "ft"
+    },
+    "uses": {
+      "value": null,
+      "max": null,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": null
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "level": 2,
+    "school": "cha",
+    "components": {
+      "value": "",
+      "vocal": true,
+      "somatic": true,
+      "material": false,
+      "ritual": false,
+      "concentration": false
+    },
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "scaling": {
+      "mode": "level",
+      "formula": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995425190,
+    "modifiedTime": 1709154956231,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Compendium.waw.spells-wandw.CoNfVYka9lufeGBP",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!ngKwdVOw8HNwcjwK"
+}

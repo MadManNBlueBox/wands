@@ -1,0 +1,112 @@
+{
+  "name": "Antidote of Uncommon Poisons",
+  "type": "consumable",
+  "img": "icons/consumables/potions/potion-bottle-skull-label-poison-teal.webp",
+  "effects": [],
+  "folder": "WnIyLJ4y3sjWvVoi",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>When you drink this potion, this more potent antidote counteracts poisons and you gain advantage on saving throws against poison for 1 hour. If you took poison damage in the previous minute, you regain all of your hit points lost to poison damage, up to a maximum of 30 hit points.</p><p><strong>Antidote to:</strong> @UUID[Compendium.wands.items-wands.Item.AXz39U6Fh6Lis9Nh]{Baneberry Poison}, @UUID[Compendium.wands.items-wands.Item.dMJSoR9YqsE5tQPJ]{Bloodroot Poison}, @UUID[Compendium.wands.items-wands.Item.3dD30dB0SoYXzGGe]{Doxycide}, @UUID[Compendium.wands.items-wands.Item.Mw777QpIjrZlCqY8]{Garrotting Gas}, @UUID[Compendium.wands.items-wands.Item.bpTjlZQGRKSavvXl]{Moonseed Poison}, @UUID[Compendium.wands.items-wands.Item.G01FoNIujKOi8pyR]{Noxious Potion}</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "W&W p.42"
+    },
+    "quantity": 1,
+    "weight": 0.5,
+    "price": {
+      "value": 250,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "uncommon",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "charges",
+      "autoDestroy": true,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null,
+      "scale": false
+    },
+    "ability": "",
+    "actionType": "heal",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "type": {
+      "value": "potion",
+      "subtype": ""
+    },
+    "container": null,
+    "cover": null,
+    "crewed": false,
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "HJtvMnewDM77SRUs": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995425062,
+    "modifiedTime": 1708586944941,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "XXtozxI3F7LyJhaL",
+  "sort": 6700000,
+  "_key": "!items!XXtozxI3F7LyJhaL"
+}

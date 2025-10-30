@@ -1,0 +1,35 @@
+{
+    "_id": "884fb4f43debadd7",
+    "_key": "!items!884fb4f43debadd7",
+    "name": "galanthus nivalis",
+    "type": "loot",
+    "img": "icons/commodities/flowers/daisy-white.webp",
+    "effects": [],
+    "folder": "8b9356509439cbd8",
+    "flags": {
+        "core": {}
+    },
+    "system": {
+        "description": {
+            "value": "<p>Alchemy ingredient.</p><p><strong>Rarity:</strong> common</p><hr/><p><strong>Used in:</strong><br>@UUID[Compendium.wands.items-wands.Item.l4NJDA43TZHjSwFO]{Antidote of Common Poisons}<br>@UUID[Compendium.wands.items-wands.Item.gHs8gZya7LLOZV7w]{Memory Potion}</p>",
+            "chat": ""
+        },
+        "source": {
+            "custom": "Generated from potion-recipes.json"
+        },
+        "quantity": 1,
+        "weight": 0.1,
+        "price": {
+            "value": 0.5,
+            "denomination": "gp"
+        },
+        "attunement": 0,
+        "equipped": false,
+        "rarity": "common",
+        "identified": true,
+        "properties": []
+    },
+    "ownership": {
+        "default": 0
+    }
+}

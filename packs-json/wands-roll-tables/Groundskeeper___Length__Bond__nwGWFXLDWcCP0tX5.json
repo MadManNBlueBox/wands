@@ -1,0 +1,110 @@
+{
+  "name": "Groundskeeper - Length (Bond)",
+  "img": "icons/environment/settlement/hut.webp",
+  "results": [
+    {
+      "_id": "0gzYYMBiMHnzU87q",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "10.5\": An injury to unspoiled wilderness is an injury to me.",
+      "name": "",
+      "_key": "!tables.results!nwGWFXLDWcCP0tX5.0gzYYMBiMHnzU87q"
+    },
+    {
+      "_id": "GGbBLN8wrtg1CKVW",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "11\": I owe my life to the wizard who took me in when my parents died.",
+      "name": "",
+      "_key": "!tables.results!nwGWFXLDWcCP0tX5.GGbBLN8wrtg1CKVW"
+    },
+    {
+      "_id": "45eRwP2qsEm7FcoV",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "13.5\": It is my duty to preserve and sustain endangered creatures.",
+      "name": "",
+      "_key": "!tables.results!nwGWFXLDWcCP0tX5.45eRwP2qsEm7FcoV"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "5SeLDrs5q3w74VUa",
+  "sort": 150000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "nwGWFXLDWcCP0tX5",
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156644336,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "RollTable.DcQAbyzs8As9W7Bg",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!nwGWFXLDWcCP0tX5"
+}

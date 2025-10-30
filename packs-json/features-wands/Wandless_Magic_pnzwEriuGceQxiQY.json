@@ -1,0 +1,102 @@
+{
+  "name": "Wandless Magic",
+  "type": "feat",
+  "img": "icons/magic/water/water-hand.webp",
+  "effects": [],
+  "folder": "kBrkVEaWAkteheSS",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Through studying ancient tomes or channeling some of the volatile magic of your youth, you're able to perform small magical feats without your wand. If you know any of the following spells, you can cast them without needing a wand or somatic component: @Compendium[wands.spells-wands.5mSNhiu5OIbTGPYM]{Accio}<em>, @Compendium[wands.spells-wands.7iEiSq5gvaTOm5TS]{Alohomora}, @Compendium[wands.spells-wands.G9jNNlFA4ZJYSuIz]{Colovaria}, @Compendium[wands.spells-wands.I1r49bYvyXaIyyIz]{Illegibilus}, @Compendium[wands.spells-wands.rLPfrlJJcEIPbVMg]{Incendio Glacia}, @Compendium[wands.spells-wands.6aI5t4FtiaYxGRyd]{Pereo}, @Compendium[wands.spells-wands.2QW1xUgLxIfWSdyx]{Wingardium Leviosa}</em>.</p>\n<p>You cannot expend a higher level spell slot when casting in this way.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "W&W p.51"
+    },
+    "activation": {
+      "type": "",
+      "cost": 0,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null,
+      "scale": false
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "type": {
+      "value": "feat",
+      "subtype": ""
+    },
+    "requirements": "",
+    "recharge": {
+      "value": null,
+      "charged": false
+    },
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "N8RgN1jdDFyXuWNq": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424877,
+    "modifiedTime": 1708584153464,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "pnzwEriuGceQxiQY",
+  "sort": 125000,
+  "_key": "!items!pnzwEriuGceQxiQY"
+}

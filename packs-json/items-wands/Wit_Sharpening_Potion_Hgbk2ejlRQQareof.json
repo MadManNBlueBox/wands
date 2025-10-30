@@ -1,0 +1,112 @@
+{
+  "name": "Wit-Sharpening Potion",
+  "type": "consumable",
+  "img": "icons/consumables/potions/bottle-round-empty-glass.webp",
+  "effects": [],
+  "folder": "WnIyLJ4y3sjWvVoi",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>When you drink this potion, your brain's neurological functioning is maximized, raising your Intelligence and Wisdom scores to 20 for 1 hour. The potion has no effect if your ability scores are equal to or greater than that score.</p><p><strong>Antidote to:</strong> @UUID[Compendium.wands.items-wands.Item.Yka4GkqRAFnAtEfW]{Befuddlement Draught}, @UUID[Compendium.wands.items-wands.Item.jHOQchs3Qs0zGJi8]{Beguiling Bubbles}, @UUID[Compendium.wands.spells-wands.Item.h0cxfGrQ4Rpdc66J]{Confundo}, @UUID[Compendium.wands.items-wands.Item.kMuvqAHWCk6NhpyA]{Confusing Concoction},  @UUID[Compendium.wands.items-wands.Item.g6wYrrXuD8NtzKbH]{Cupid Crystals}, @UUID[Compendium.wands.items-wands.Item.TT8MGBykxNrmyXM6]{Gregory's Unctuous Unction}, @UUID[Compendium.wands.items-wands.Item.jl13cyryEdqlRZQq]{Heartbreak Teardrops}, @UUID[Compendium.wands.spells-wands.Item.43T1UgLO8IFiAlrb]{Infirma Cerebra}, @UUID[Compendium.wands.items-wands.Item.YpAD7DG1j8eYA0Iz]{Twilight Moonbeams}</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "W&W p.47"
+    },
+    "quantity": 1,
+    "weight": 0.5,
+    "price": {
+      "value": 2500,
+      "denomination": "gp"
+    },
+    "attunement": 0,
+    "equipped": false,
+    "rarity": "rare",
+    "identified": true,
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": "1",
+      "units": "hour"
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 1,
+      "max": "1",
+      "per": "charges",
+      "autoDestroy": true,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null,
+      "scale": false
+    },
+    "ability": "",
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "flat"
+    },
+    "unidentified": {
+      "description": ""
+    },
+    "type": {
+      "value": "potion",
+      "subtype": ""
+    },
+    "container": null,
+    "cover": null,
+    "crewed": false,
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "HJtvMnewDM77SRUs": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424863,
+    "modifiedTime": 1708993593853,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "Hgbk2ejlRQQareof",
+  "sort": 200000,
+  "_key": "!items!Hgbk2ejlRQQareof"
+}

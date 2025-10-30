@@ -1,0 +1,110 @@
+{
+  "_id": "5HeMomzrSnAwH3cb",
+  "name": "Colloshoo",
+  "type": "spell",
+  "img": "icons/equipment/feet/boots-collared-simple-leather.webp",
+  "effects": [],
+  "folder": "0bwXoRhtRkBMRaak",
+  "sort": 100000,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>This creative hex sticks a being's shoes to the ground, rooting them in place. Choose a being you can see within range that is wearing shoes to make a Dexterity saving throw. On a failed save, the target is restrained for the duration. If the saving throw fails by 5 or more, the target is knocked prone as well. The target can use its action to take off its shoes, or make a Strength check against your spell save DC. On a success, it pulls its shoes free.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.67",
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": "creature must be wearing shoes"
+    },
+    "duration": {
+      "value": 1,
+      "units": "minute"
+    },
+    "target": {
+      "value": 1,
+      "width": null,
+      "units": "",
+      "type": "creature"
+    },
+    "range": {
+      "value": 90,
+      "long": null,
+      "units": "ft"
+    },
+    "uses": {
+      "value": null,
+      "max": null,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "save",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": null
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "dex",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "level": 1,
+    "school": "jhc",
+    "components": {
+      "value": "",
+      "vocal": true,
+      "somatic": true,
+      "material": false,
+      "ritual": false,
+      "concentration": true
+    },
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "scaling": {
+      "mode": "none",
+      "formula": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424851,
+    "modifiedTime": 1709155342628,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Compendium.waw.spells-wandw.P5FoInnZ86AYPX1z",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!5HeMomzrSnAwH3cb"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Quidditch Fan",
+  "type": "background",
+  "img": "icons/skills/melee/hand-grip-staff-blue.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {}
+  },
+  "_id": "yhHeDBl46VYBBsNs",
+  "system": {
+    "description": {
+      "value": "<p>Whether your fondest childhood memories were at your local team's matches or you just discovered the sport upon arriving at Hogwarts, you <strong>love</strong> quidditch. It makes complete sense, given your competitive streak and affinity for rough-housing. You use your common sense and ability to take initiative to get by.</p><hr style=\"border-top:1px solid var(--color-border-light-primary);border-bottom:1px solid var(--color-border-light-highlight)\" /><p><strong>Skill Proficiencies:</strong> Acrobatics, Athletics</p><p><strong>Tool Proficiencies:</strong> Vehicle (Broomstick)</p><p><strong>Equipment:</strong> A quaffle, and a chocolate frog card of your favorite quidditch player</p><p><strong>Feature:</strong> @UUID[Compendium.wands.backgrounds-wands.Item.zLix4G4HPiLH7nGO]{Superfan}</p><hr style=\"border-top:1px solid var(--color-border-light-primary);border-bottom:1px solid var(--color-border-light-highlight)\" /><h3>Wand Characteristics</h3><p>@Compendium[wands.wands-roll-tables.0NBvFWcUXFyjzGFy]{Quidditch Fan - Wood (Personality Traits)}</p><p>@Compendium[wands.wands-roll-tables.QPMQBwBpdPnUpQCo]{Quidditch Fan - Core (Ideal)}</p><p>@Compendium[wands.wands-roll-tables.1wETAYKuFNqx7uQi]{Quidditch Fan - Length (Bond)}</p><p>@Compendium[wands.wands-roll-tables.J8jEltY1ovdg23eE]{Quidditch Fan - Flexibility (Flaw)}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.36",
+    "advancement": [
+      {
+        "_id": "93ayq5f90cjulw9x",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.backgrounds-wands.Item.zLix4G4HPiLH7nGO"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Feature",
+        "icon": null
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424878,
+    "modifiedTime": 1708976991425,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Item.5ztqwdvSFKTI66Wo",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!yhHeDBl46VYBBsNs"
+}

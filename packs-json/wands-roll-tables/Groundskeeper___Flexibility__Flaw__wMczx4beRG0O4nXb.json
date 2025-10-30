@@ -1,0 +1,110 @@
+{
+  "name": "Groundskeeper - Flexibility (Flaw)",
+  "img": "icons/environment/settlement/hut.webp",
+  "results": [
+    {
+      "_id": "0gzYYMBiMHnzU87q",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Brittle: I am suspicious of strangers and suspect the worst of them.",
+      "name": "",
+      "_key": "!tables.results!wMczx4beRG0O4nXb.0gzYYMBiMHnzU87q"
+    },
+    {
+      "_id": "GGbBLN8wrtg1CKVW",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Slightly Springy: I speak quite tactlessly, without really thinking through my words.",
+      "name": "",
+      "_key": "!tables.results!wMczx4beRG0O4nXb.GGbBLN8wrtg1CKVW"
+    },
+    {
+      "_id": "45eRwP2qsEm7FcoV",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Quite Bendy: Don't expect me to save those who can't save themselves. It is nature's way that the strong thrive and the weak perish.",
+      "name": "",
+      "_key": "!tables.results!wMczx4beRG0O4nXb.45eRwP2qsEm7FcoV"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "5SeLDrs5q3w74VUa",
+  "sort": 200000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "wMczx4beRG0O4nXb",
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156643402,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "RollTable.KPlnF3XYiVyEBjfj",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!wMczx4beRG0O4nXb"
+}

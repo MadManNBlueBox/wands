@@ -1,0 +1,110 @@
+{
+  "name": "Petrificus Totalus",
+  "type": "spell",
+  "img": "icons/equipment/neck/choker-chain-thick-silver.webp",
+  "effects": [],
+  "folder": "0bwXoRhtRkBMRaak",
+  "sort": 700000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "Uwbo0my3Ot8QSnOD",
+  "system": {
+    "description": {
+      "value": "<p>This spell makes a being's arms and legs snap together, and it will fall down, stiff as a board. Make a ranged spell attack against a being within range. On a hit, the target is knocked prone and paralyzed for the duration.</p>\n<p><strong>At Higher Levels.</strong> When you cast this spell using a spell slot of 3rd level or higher, you can target a beast instead of a being.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.79",
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": "Dedication"
+    },
+    "duration": {
+      "value": 1,
+      "units": "minute"
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": 60,
+      "long": null,
+      "units": "ft"
+    },
+    "uses": {
+      "value": null,
+      "max": null,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "rwak",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "level": 1,
+    "school": "jhc",
+    "components": {
+      "value": "",
+      "vocal": true,
+      "somatic": true,
+      "material": false,
+      "ritual": false,
+      "concentration": true
+    },
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "scaling": {
+      "mode": "level",
+      "formula": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995425073,
+    "modifiedTime": 1709155412220,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Compendium.waw.spells-wandw.NYYSuzBkQ1wMegb9",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!Uwbo0my3Ot8QSnOD"
+}

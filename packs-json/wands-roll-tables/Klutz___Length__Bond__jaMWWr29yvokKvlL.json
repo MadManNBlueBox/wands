@@ -1,0 +1,110 @@
+{
+  "_id": "jaMWWr29yvokKvlL",
+  "name": "Klutz - Length (Bond)",
+  "img": "icons/commodities/materials/hair-tuft-brown.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "0jIEhXdw07oRRSDz",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "9\": Someone is depending on me, and I'll never forgive myself if I let them down.",
+      "name": "",
+      "_key": "!tables.results!jaMWWr29yvokKvlL.0jIEhXdw07oRRSDz"
+    },
+    {
+      "_id": "fkUIz6NhqQfbIhpn",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "12.5\": I have to prove to that I'm not a disappointment to my family, mentors or peers.",
+      "name": "",
+      "_key": "!tables.results!jaMWWr29yvokKvlL.fkUIz6NhqQfbIhpn"
+    },
+    {
+      "_id": "HwY3T9W8bltjcNUS",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "14\": I will be fiercely loyal to anyone who doesn't see me for my faults, but for who I am.",
+      "name": "",
+      "_key": "!tables.results!jaMWWr29yvokKvlL.HwY3T9W8bltjcNUS"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "i9GaPu99jBLcimYX",
+  "sort": 150000,
+  "flags": {
+    "core": {}
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156656943,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "RollTable.EWBfPmktvV5UVcXO",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!jaMWWr29yvokKvlL"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Dreamer",
+  "type": "background",
+  "img": "icons/magic/time/day-night-sunset-sunrise.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {}
+  },
+  "_id": "nBwNva27F2csNopX",
+  "system": {
+    "description": {
+      "value": "<p>Your dreams fill your thoughts, distracted by all of life's possibilities. Introspection comes easily to you and frankly, you don't understand how a person can live without looking for meaning, thinking deeply about society's values, or being overcome with wonder. You might even feel out of place in a world of people focused on material success and just getting through the day.</p><hr style=\"border-top:1px solid var(--color-border-light-primary);border-bottom:1px solid var(--color-border-light-highlight)\" /><p><strong>Skill Proficiencies:</strong> Insight, Perception</p><p><strong>Tool Proficiencies: </strong>@Compendium[wands.items-wands.gHtzAAVq0fnKuZF5]{Astronomer's Tools}</p><p><strong>Equipment:</strong> @UUID[Compendium.wands.items-wands.gHtzAAVq0fnKuZF5]{Astronomer's tools}, and a mystical trinket you believe gives you protection (but doesn't)</p><p><strong>Feature:</strong> @UUID[Compendium.wands.backgrounds-wands.Item.i6rTdJr2YiePp7FU]{Stargazer}</p><hr style=\"border-top:1px solid var(--color-border-light-primary);border-bottom:1px solid var(--color-border-light-highlight)\" /><h3>Wand Characteristics</h3><p>@Compendium[wands.wands-roll-tables.W62UzCgtEr9eApFR]{Dreamer - Wood (Personality Traits)}</p><p>@Compendium[wands.wands-roll-tables.jHKvVOtuZhhT3ITU]{Dreamer - Core (Ideal)}</p><p>@Compendium[wands.wands-roll-tables.8eBUdxKOc3nrDxPF]{Dreamer - Length (Bond)}</p><p>@Compendium[wands.wands-roll-tables.SZTZYLCrhz5Cc0Ao]{Dreamer - Flexibility (Flaw)}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.31",
+    "advancement": [
+      {
+        "_id": "ls8045uei1oh01ak",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.items-wands.gHtzAAVq0fnKuZF5",
+            "Compendium.wands.backgrounds-wands.Item.i6rTdJr2YiePp7FU"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Feature",
+        "icon": null
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424862,
+    "modifiedTime": 1708976087939,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Item.Agce4vJOCAvx1hBs",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!nBwNva27F2csNopX"
+}

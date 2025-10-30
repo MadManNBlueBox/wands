@@ -1,0 +1,110 @@
+{
+  "name": "Repello Muggletum",
+  "type": "spell",
+  "img": "icons/magic/defensive/shield-barrier-flaming-diamond-magenta.webp",
+  "effects": [],
+  "folder": "9WCHq8aiaRzKyUNL",
+  "sort": 300000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "xrTWMXrutiEa7mfw",
+  "system": {
+    "description": {
+      "value": "<p>Frequently used around wizarding areas, this charm keeps Muggles away from dangerous situations or overtly magical locations. You enchant an area to suggest a course of activity and magically influence a non-magical human. Upon entering the warded area, the subject must make a Wisdom saving throw at disadvantage. On a failed save, it pursues a course of action that takes it away from the area of the spell.</p>\n<p>The subject's mind naturally thinks of the best reason to convince itself that it must depart, or barring an actual reason, invents an arbitrary emergency that demands its attention elsewhere. The spell's effect ends when the subject has either attended to the matter they thought of or when the subject has decided to take another course of action that does not involve entering the area of the spell.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.81",
+    "activation": {
+      "type": "minute",
+      "cost": 10,
+      "condition": ""
+    },
+    "duration": {
+      "value": 8,
+      "units": "hour"
+    },
+    "target": {
+      "value": 60,
+      "width": null,
+      "units": "ft",
+      "type": "sphere"
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": "self"
+    },
+    "uses": {
+      "value": null,
+      "max": null,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "save",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": null
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "wis",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "level": 4,
+    "school": "cha",
+    "components": {
+      "value": "",
+      "vocal": true,
+      "somatic": true,
+      "material": false,
+      "ritual": true,
+      "concentration": false
+    },
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "scaling": {
+      "mode": "none",
+      "formula": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995425235,
+    "modifiedTime": 1709155082664,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Compendium.waw.spells-wandw.2OfYHi05WebBUsiq",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!xrTWMXrutiEa7mfw"
+}

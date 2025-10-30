@@ -1,0 +1,240 @@
+{
+  "_id": "k9rTp75Vg9dvdZBc",
+  "name": "Bookworm - Wood (Personality Traits)",
+  "img": "icons/sundries/books/book-plain-orange.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "06T1GbDjcR9SjEEJ",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Beech",
+      "name": "",
+      "_key": "!tables.results!k9rTp75Vg9dvdZBc.06T1GbDjcR9SjEEJ"
+    },
+    {
+      "_id": "NI75ihAOcW1cKiiL",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The true match for a beech wand will be, if young, wise beyond his or her years, and if full-grown, rich in understanding and experience. Beech wands perform very weakly for the narrow-minded and intolerant. When properly matched, the beech wand is capable of a subtlety and artistry not seen in any other wood, hence its lustrous reputation.",
+      "name": "",
+      "_key": "!tables.results!k9rTp75Vg9dvdZBc.NI75ihAOcW1cKiiL"
+    },
+    {
+      "_id": "Jjdz82tH3a8JLIsT",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hornbeam",
+      "name": "",
+      "_key": "!tables.results!k9rTp75Vg9dvdZBc.Jjdz82tH3a8JLIsT"
+    },
+    {
+      "_id": "BEaBk93qX98RaHgQ",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hornbeam, a fine-tuned and sentient wand, selects for its life mate the talented witch or wizard with a single, pure passion. Hornbeam wands adapt more quickly to their owner’s style of magic and become so personalized, so quickly, that others will find them extremely difficult to use. They likewise absorb their owner’s code of honor and will refuse to perform acts - good or ill - conflicting with their master’s principles.",
+      "name": "",
+      "_key": "!tables.results!k9rTp75Vg9dvdZBc.BEaBk93qX98RaHgQ"
+    },
+    {
+      "_id": "7ilAOiik7uYYZKoD",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vine",
+      "name": "",
+      "_key": "!tables.results!k9rTp75Vg9dvdZBc.7ilAOiik7uYYZKoD"
+    },
+    {
+      "_id": "l5UT0qCvcp850gqM",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vine wands are among the less common types, and their ideal owners are nearly always those witches or wizards who seek a greater purpose, have a vision beyond the ordinary and frequently astound those who think they know them best. Vine wands seem strongly attracted by personalities with hidden depths, and often instantly detect a match.",
+      "name": "",
+      "_key": "!tables.results!k9rTp75Vg9dvdZBc.l5UT0qCvcp850gqM"
+    },
+    {
+      "_id": "WDQsGYGv6GjIqd1X",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Walnut",
+      "name": "",
+      "_key": "!tables.results!k9rTp75Vg9dvdZBc.WDQsGYGv6GjIqd1X"
+    },
+    {
+      "_id": "8YQ47fhVZwfwww2r",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Walnut wands are often found in the hands of highly intelligent magical innovators and inventors; this is a handsome wood possessed of unusual versatility and adaptability. Walnut wands will, once subjugated, perform any task its owner desires, provided that the user is of sufficient brilliance. This makes for a truly lethal weapon in the hands of a witch or wizard of no conscience, for the wand and the wizard may feed on each other in an unhealthy manner.",
+      "name": "",
+      "_key": "!tables.results!k9rTp75Vg9dvdZBc.8YQ47fhVZwfwww2r"
+    }
+  ],
+  "formula": "d4",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "immZOdtHQM7E6W3M",
+  "sort": 125000,
+  "flags": {
+    "core": {}
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156588832,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "RollTable.mZdgfsJCP5yJHsqL",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!k9rTp75Vg9dvdZBc"
+}

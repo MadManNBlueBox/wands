@@ -1,0 +1,102 @@
+{
+  "name": "Phoenix Tears",
+  "type": "feat",
+  "img": "icons/magic/control/buff-flight-wings-runes-red-yellow.webp",
+  "effects": [],
+  "folder": "ZNrtfcrRGYMDXeuX",
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>Your saint-like devotion to others and bravery in the face of danger has earned the respect of phoenixes. If you spend 8 hours reaching out with your magic, a phoenix will appear in a flash of fire and shed tears into a vial for you. Phoenix tears remove all curses, diseases, and poisons affecting a creature. Also, the creature regains all its hit points. A phoenix will only appear and fill a vial with tears when you do not have any other tears, and the phoenix tears will lose their healing properties if anyone other than you possesses the tears or tries to administer them.</p>",
+      "chat": ""
+    },
+    "source": {
+      "custom": "W&W p.21"
+    },
+    "activation": {
+      "type": "hour",
+      "cost": 8,
+      "condition": ""
+    },
+    "duration": {
+      "value": "",
+      "units": ""
+    },
+    "cover": null,
+    "crewed": false,
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": "",
+      "prompt": true
+    },
+    "range": {
+      "value": null,
+      "long": null,
+      "units": ""
+    },
+    "uses": {
+      "value": 0,
+      "max": "",
+      "per": null,
+      "recovery": "",
+      "prompt": true
+    },
+    "consume": {
+      "type": "",
+      "target": "",
+      "amount": null,
+      "scale": false
+    },
+    "ability": null,
+    "actionType": "",
+    "attackBonus": "",
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": ""
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "type": {
+      "value": "class",
+      "subtype": ""
+    },
+    "requirements": "Healing",
+    "recharge": {
+      "value": null,
+      "charged": false
+    },
+    "properties": []
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424978,
+    "modifiedTime": 1708585359950,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "dxOlNgvzEfL7xTlh",
+  "sort": 4900000,
+  "_key": "!items!dxOlNgvzEfL7xTlh"
+}

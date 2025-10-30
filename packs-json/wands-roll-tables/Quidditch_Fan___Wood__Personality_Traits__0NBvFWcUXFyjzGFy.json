@@ -1,0 +1,188 @@
+{
+  "name": "Quidditch Fan - Wood (Personality Traits)",
+  "img": "icons/skills/melee/hand-grip-staff-blue.webp",
+  "results": [
+    {
+      "_id": "ZnUidYoBvaeRlkmC",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cherry",
+      "name": "",
+      "_key": "!tables.results!0NBvFWcUXFyjzGFy.ZnUidYoBvaeRlkmC"
+    },
+    {
+      "_id": "90LOosAMBmzyl5IS",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        1,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "This very rare wand wood creates a wand of strange power, most highly prized by the wizarding students of the school of Mahoutokoro in Japan, where those who own cherry wands have special prestige. The Western wand-purchaser should dispel from their minds any notion that the pink blossom of the living tree makes for a frivolous or merely ornamental wand, for cherry wood often makes a wand that possesses truly lethal power, whatever the core.",
+      "name": "",
+      "_key": "!tables.results!0NBvFWcUXFyjzGFy.90LOosAMBmzyl5IS"
+    },
+    {
+      "_id": "IxvXhDEuR1k9RJLu",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fir",
+      "name": "",
+      "_key": "!tables.results!0NBvFWcUXFyjzGFy.IxvXhDEuR1k9RJLu"
+    },
+    {
+      "_id": "YGhnRaWBdz02n450",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        3,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "One wandmaker called wands of fir wood ‘the survivor’s wand’, because he had sold it to three wizards who subsequently passed through mortal peril unscathed. There is no doubt that this wood, coming as it does from the most resilient of trees, produces wands that demand staying power and strength of purpose in their true owners. Fir wands are particularly suited to Transfiguration, and favour owners of focused, strong-minded and, occasionally, intimidating demeanor.",
+      "name": "",
+      "_key": "!tables.results!0NBvFWcUXFyjzGFy.YGhnRaWBdz02n450"
+    },
+    {
+      "_id": "LNTdmzUr6F2KmAsN",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spruce",
+      "name": "",
+      "_key": "!tables.results!0NBvFWcUXFyjzGFy.LNTdmzUr6F2KmAsN"
+    },
+    {
+      "_id": "PPdotLmT4PhQahn8",
+      "type": "text",
+      "weight": 2,
+      "range": [
+        5,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spruce wands are ill-matched with cautious or nervous natures, becoming positively dangerous in fumbling fingers. They require a firm hand, because they seem to have their own ideas about what magic it ought to produce. However, when a spruce wand meets its match in a bold spell-caster with a good sense of humor, it becomes a superb helper. Intensely loyal to owners, the wands are capable of producing particularly flamboyant and dramatic effects.",
+      "name": "",
+      "_key": "!tables.results!0NBvFWcUXFyjzGFy.PPdotLmT4PhQahn8"
+    }
+  ],
+  "formula": "1d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "iB0vxH8ognjaI6Ep",
+  "sort": 125000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "0NBvFWcUXFyjzGFy",
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "description": "",
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156738026,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "RollTable.AQ3SvkD3CKWxwvF4",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!0NBvFWcUXFyjzGFy"
+}

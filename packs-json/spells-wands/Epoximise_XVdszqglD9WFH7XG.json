@@ -1,0 +1,110 @@
+{
+  "_id": "XVdszqglD9WFH7XG",
+  "name": "Epoximise",
+  "type": "spell",
+  "img": "icons/creatures/slimes/slime-movment-dripping-green.webp",
+  "effects": [],
+  "folder": "9LUfCk0hBUbSGdB6",
+  "sort": 300000,
+  "flags": {
+    "core": {}
+  },
+  "system": {
+    "description": {
+      "value": "<p>This spell transfigures the surface of an object to become extremely sticky. One object of your choice that you can see within range and that fits within a 1-foot cube adheres to anything it touches for the duration. If a creature wants to overcome the sticking effect, it can use its action to make a Strength check against your spell save DC. On a success, it can pull the target object free or remove one thing from the target object's surface.</p>\n<p><em><strong>At Higher Levels.</strong></em> When you cast this spell using a spell slot of 1st level or higher, the cube's size increases by 1 foot for each slot level above 0.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.71",
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": 1,
+      "units": "hour"
+    },
+    "target": {
+      "value": 1,
+      "width": null,
+      "units": "",
+      "type": "object"
+    },
+    "range": {
+      "value": 30,
+      "long": null,
+      "units": "ft"
+    },
+    "uses": {
+      "value": null,
+      "max": null,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "save",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": null
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "str",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "level": 0,
+    "school": "trf",
+    "components": {
+      "value": "",
+      "vocal": true,
+      "somatic": true,
+      "material": false,
+      "ritual": false,
+      "concentration": false
+    },
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "scaling": {
+      "mode": "level",
+      "formula": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995425092,
+    "modifiedTime": 1709155568774,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Compendium.waw.spells-wandw.BQdeH2vh7Ux8IQ7i",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!XVdszqglD9WFH7XG"
+}

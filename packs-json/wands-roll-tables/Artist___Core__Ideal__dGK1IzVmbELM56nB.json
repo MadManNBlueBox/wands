@@ -1,0 +1,110 @@
+{
+  "_id": "dGK1IzVmbELM56nB",
+  "name": "Artist - Core (Ideal)",
+  "img": "icons/tools/hand/brush-paint-pink.webp",
+  "description": "",
+  "results": [
+    {
+      "_id": "SNeYbBmZxtEHRwxp",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unicorn Hair: Beauty. When I create, I make the world better than it was.",
+      "name": "",
+      "_key": "!tables.results!dGK1IzVmbELM56nB.SNeYbBmZxtEHRwxp"
+    },
+    {
+      "_id": "6OikIfsnjw9nVfOw",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dragon Heartstring: People. I want to make an impact on everyone who experiences my work.",
+      "name": "",
+      "_key": "!tables.results!dGK1IzVmbELM56nB.6OikIfsnjw9nVfOw"
+    },
+    {
+      "_id": "olg7UNFq3vRwHWMt",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/svg/d20-black.svg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Phoenix Feather: Honesty. Art should reflect the soul; it should come from within and reveal who we really are.",
+      "name": "",
+      "_key": "!tables.results!dGK1IzVmbELM56nB.olg7UNFq3vRwHWMt"
+    }
+  ],
+  "formula": "1d3",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "2kep2yCIRJxRNGso",
+  "sort": 100000,
+  "flags": {
+    "core": {}
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156573465,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "RollTable.uEUI8ifQcjaLOcUs",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!dGK1IzVmbELM56nB"
+}

@@ -1,0 +1,186 @@
+{
+  "name": "Minor Splinch Result",
+  "img": "icons/skills/wounds/bone-broken-knee-beam.webp",
+  "description": "A minor splinch is when the lost body part is generally non-threatening; perhaps an eyebrow, a part of your finger, or a small section of skin. You determine how much slashing damage you suffer by rolling a single [[/r d10]]. This damage cannot be reduced or prevented in any way.",
+  "results": [
+    {
+      "_id": "7Fxri0TMvFVAVvwO",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/skills/wounds/injury-hand-blood-red.webp",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You lose a part of a finger.",
+      "name": "",
+      "_key": "!tables.results!eOCBeLpbD5nA0wDX.7Fxri0TMvFVAVvwO"
+    },
+    {
+      "_id": "t5CuLksalcfjQWmR",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/commodities/biological/finger-clawed-green-black.webp",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You lose a toe.",
+      "name": "",
+      "_key": "!tables.results!eOCBeLpbD5nA0wDX.t5CuLksalcfjQWmR"
+    },
+    {
+      "_id": "AmdIrGnBmnxvLM6E",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "systems/dnd5e/icons/skills/yellow_17.jpg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You lose a piece of one of your ears.",
+      "name": "",
+      "_key": "!tables.results!eOCBeLpbD5nA0wDX.AmdIrGnBmnxvLM6E"
+    },
+    {
+      "_id": "vGdWO6HRSBUTzCUP",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/skills/wounds/injury-stapled-flesh-tan.webp",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You lose a small piece of skin.",
+      "name": "",
+      "_key": "!tables.results!eOCBeLpbD5nA0wDX.vGdWO6HRSBUTzCUP"
+    },
+    {
+      "_id": "muyxVbmr1gZ7RmVV",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "systems/dnd5e/icons/skills/light_02.jpg",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You lose one of your eyebrows.",
+      "name": "",
+      "_key": "!tables.results!eOCBeLpbD5nA0wDX.muyxVbmr1gZ7RmVV"
+    },
+    {
+      "_id": "f4Xq5K5RJ1xy4SoP",
+      "type": "text",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "flags": {},
+      "img": "icons/equipment/chest/shirt-collared-brown.webp",
+      "_stats": {
+        "coreVersion": "13.347",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You lose an article of clothing.",
+      "name": "",
+      "_key": "!tables.results!eOCBeLpbD5nA0wDX.f4Xq5K5RJ1xy4SoP"
+    }
+  ],
+  "formula": "d6",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "QyRgDsxoMIFbzvJb",
+  "sort": 200000,
+  "flags": {},
+  "_id": "eOCBeLpbD5nA0wDX",
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": null,
+    "modifiedTime": 1709156698665,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!tables!eOCBeLpbD5nA0wDX"
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Performer",
+  "type": "background",
+  "img": "icons/skills/social/diplomacy-peace-alliance.webp",
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "flags": {
+    "core": {}
+  },
+  "_id": "ZOIUrcJ43WAbF6zl",
+  "system": {
+    "description": {
+      "value": "<p>Even moreso than visual artists, you're compelled to express yourself, your experiences and your emotions. While you aren't immune to bouts of uncertainty and performance anxiety, you generally seem to be quite extraverted. You've found your calling in at least one of the performing arts: singing, dancing, playing an instrument or magical theater.</p><hr style=\"border-top:1px solid var(--color-border-light-primary);border-bottom:1px solid var(--color-border-light-highlight)\" /><p><strong>Skill Proficiencies:</strong> Insight, Performance</p><p><strong>Equipment:</strong> The tools of the art medium of your choice (e.g. painter's supplies, musical instrument, costume, etc.), and a sketch pad with charcoal sticks</p><p><strong>Feature: </strong>@UUID[Compendium.wands.backgrounds-wands.Item.GzkwmFGYK0H8oTbl]{Dramatic Entrance}</p><hr style=\"border-top:1px solid var(--color-border-light-primary);border-bottom:1px solid var(--color-border-light-highlight)\" /><h3>Wand Characteristics</h3><p>@Compendium[wands.wands-roll-tables.BpF2x9JLGIrtWWJV]{Artist - Wood (Personality Traits)}</p><p>@Compendium[wands.wands-roll-tables.dGK1IzVmbELM56nB]{Artist - Core (Ideal)}</p><p>@Compendium[wands.wands-roll-tables.WAViVaKrvumFGoYz]{Artist - Length (Bond)}</p><p>@Compendium[wands.wands-roll-tables.FN8pyTc0R4uzUcnI]{Artist - Flexibility (Flaw)}</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.29",
+    "advancement": [
+      {
+        "_id": "0f20mi7ww6n6nn96",
+        "type": "ItemGrant",
+        "configuration": {
+          "items": [
+            "Compendium.wands.backgrounds-wands.Item.GzkwmFGYK0H8oTbl"
+          ],
+          "optional": false,
+          "spell": null
+        },
+        "value": {},
+        "level": 0,
+        "title": "Feature",
+        "icon": null
+      }
+    ]
+  },
+  "ownership": {
+    "default": 0,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995424825,
+    "modifiedTime": 1708976743650,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Item.9H08bexGSDTNTedg",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!ZOIUrcJ43WAbF6zl"
+}

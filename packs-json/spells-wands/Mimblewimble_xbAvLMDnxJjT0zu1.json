@@ -1,0 +1,110 @@
+{
+  "name": "Mimblewimble",
+  "type": "spell",
+  "img": "icons/magic/control/fear-fright-shadow-monster-purple.webp",
+  "effects": [],
+  "folder": "0bwXoRhtRkBMRaak",
+  "sort": 600000,
+  "flags": {
+    "core": {}
+  },
+  "_id": "xbAvLMDnxJjT0zu1",
+  "system": {
+    "description": {
+      "value": "<p>If you're hit with this spell, this produces the strange sensation of your tongue being rolled up into the back of your mouth. Choose one being you can see within range. If it tries to cast a spell verbally before the end of its next turn, it must first succeed on a Dexterity saving throw, or the casting fails and the spell is wasted.</p>",
+      "chat": "",
+      "unidentified": ""
+    },
+    "source": "W&W p.76",
+    "activation": {
+      "type": "action",
+      "cost": 1,
+      "condition": ""
+    },
+    "duration": {
+      "value": 1,
+      "units": "round"
+    },
+    "target": {
+      "value": null,
+      "width": null,
+      "units": "",
+      "type": ""
+    },
+    "range": {
+      "value": 90,
+      "long": null,
+      "units": "ft"
+    },
+    "uses": {
+      "value": null,
+      "max": null,
+      "per": null,
+      "recovery": ""
+    },
+    "consume": {
+      "type": "",
+      "target": null,
+      "amount": null
+    },
+    "ability": "",
+    "actionType": "save",
+    "attackBonus": 0,
+    "chatFlavor": "",
+    "critical": {
+      "threshold": null,
+      "damage": null
+    },
+    "damage": {
+      "parts": [],
+      "versatile": ""
+    },
+    "formula": "",
+    "save": {
+      "ability": "dex",
+      "dc": null,
+      "scaling": "spell"
+    },
+    "level": 1,
+    "school": "jhc",
+    "components": {
+      "value": "",
+      "vocal": true,
+      "somatic": true,
+      "material": false,
+      "ritual": false,
+      "concentration": false
+    },
+    "materials": {
+      "value": "",
+      "consumed": false,
+      "cost": 0,
+      "supply": 0
+    },
+    "preparation": {
+      "mode": "prepared",
+      "prepared": false
+    },
+    "scaling": {
+      "mode": "none",
+      "formula": ""
+    }
+  },
+  "ownership": {
+    "default": 0,
+    "PHVJjTTDyIktKSlJ": 3,
+    "6KPKvdrxQhprt6if": 3
+  },
+  "_stats": {
+    "systemId": "dnd5e",
+    "systemVersion": "3.0.3",
+    "coreVersion": "13.347",
+    "createdTime": 1662995425230,
+    "modifiedTime": 1709155393597,
+    "lastModifiedBy": "6KPKvdrxQhprt6if",
+    "compendiumSource": "Compendium.waw.spells-wandw.5riCe0Up05IT6P8S",
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!items!xbAvLMDnxJjT0zu1"
+}
